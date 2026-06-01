@@ -1,0 +1,39 @@
+name: Notion Data Import
+
+on:
+  schedule:
+    - cron: '0 22 * * *' # щодня о 22:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run import script
+        run: |
+          python notion_data_import.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "btdrbryan@gmail.com"
+          git config --global user.name "DrBryanMan"
+
+          git add -A
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Автоматичне оновлення JSON з Hikka"
+            git push
+          fi
