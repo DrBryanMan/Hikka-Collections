@@ -554,7 +554,7 @@ select.filter-select option {
   display: grid;
   grid-template-columns: auto minmax(0, 1fr);
   align-items: flex-start;
-  gap: 12px;
+  column-gap: 12px;
   padding: 12px 14px;
   background: var(--panel-bg);
   border: 0.5px solid var(--border);
@@ -1033,6 +1033,7 @@ select.filter-select option {
 .pg-info {
   display: flex;
   align-items: center;
+  gap: 6px;
   height: 32px;
   font-family: var(--mono);
   font-size: 12px;
