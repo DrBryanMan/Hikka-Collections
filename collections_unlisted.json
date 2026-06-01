@@ -1,0 +1,5873 @@
+{
+  "parsed_at": "2026-06-01T10:29:50.616225+00:00",
+  "total": 99,
+  "collections": [
+    {
+      "reference": "f7c676ac-558c-489c-9fbe-473ea07cb935",
+      "title": "Аніме дитинства ",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 2,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1777622715,
+      "updated": 1777622715,
+      "author": {
+        "reference": "845c8072-3601-4374-b43b-843a21edd35b",
+        "username": "Nemilu",
+        "avatar": "https://cdn.hikka.io/uploads/Nemilu/avatar/32b8c308-ac71-470b-a5bb-2e2a9ea0abf4.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Наруто",
+            "image": "https://cdn.hikka.io/content/anime/naruto-d8ec41/hKcZ4Aif6OqrfHGvC9bi3g.jpg",
+            "slug": "naruto-d8ec41"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Наруто: Ураганні хроніки",
+            "image": "https://cdn.hikka.io/content/anime/naruto-shippuuden-7613c6/cpaDBzqkl-QMmnWum6fdjg.jpg",
+            "slug": "naruto-shippuuden-7613c6"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "930e6fae-5431-4b4a-95c4-563da294bc57",
+      "title": "#купімангу",
+      "content_type": "manga",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 20,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1777405466,
+      "updated": 1778433660,
+      "author": {
+        "reference": "d2d468fe-0a07-481c-8f31-c01e89d0423d",
+        "username": "Alynxlin",
+        "avatar": "https://cdn.hikka.io/avatar.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Вбити сталкера",
+            "image": "https://cdn.hikka.io/content/manga/killing-stalking-5cdac1/yZZ2n_wGkQdJZVUPrpkqpw.jpg",
+            "slug": "killing-stalking-5cdac1"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Атака титанів",
+            "image": "https://cdn.hikka.io/content/manga/shingeki-no-kyojin-0e940a/GPpbYzlIeZLZorbJU68ryg.jpg",
+            "slug": "shingeki-no-kyojin-0e940a"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Ґачіакута",
+            "image": "https://cdn.hikka.io/content/manga/gachiakuta-266b0a/y0fKk5oZpKfn5VlHMPZGwQ.jpg",
+            "slug": "gachiakuta-266b0a"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "88e7b36b-daae-4604-91e5-f8128e299a49",
+      "title": "Аніме, які я переглянув",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Зоряні війни: Видіння",
+        "Кіберпанк: Ті, що біжать по краю",
+        "Атака титанів",
+        "Самітниця-рокерка!",
+        "Зошит смерті",
+        "Монолог травниці/Монолог Маомао",
+        "Вбивця демонів",
+        "Проводжальниця Фрірен/Заклинання Фрірен",
+        "Людина-бензопила",
+        "Ванпанчмен",
+        "Дандадан",
+        "Тільки я візьму новий рівень",
+        "Підземелля смакоти",
+        "Кайджю № 8",
+        "Діти улюблениці",
+        "Неосяжна блакить",
+        "Сім'я шпигуна",
+        "Дні Сакамото",
+        "Орбіта: Про рух Землі",
+        "Магічна битва",
+        "Блакитна скринька",
+        "Переробити",
+        "Вітролом",
+        "Я секретарка в гільдії, але ненавиджу понаднормові, тож збираюся вбити боса самотужки",
+        "Медалістка",
+        "Медово-лимонна содова",
+        "Карта детектива Амеку Такао",
+        "Переродження: Життя з нуля в іншому світі",
+        "Штайнова;Брама",
+        "Ця порцелянова лялечка закохалася",
+        "Поклик ночі",
+        "Схід Місяця",
+        "Безхатній бог",
+        "Початок після кінця",
+        "Вісімдесят шість",
+        "Хорімія",
+        "Готель після апокаліпсису",
+        "Звичайний роман у Коулуні",
+        "Лазар",
+        "Рок — це дівоча скромність",
+        "Чи існує дружба між хлопцем та дівчиною?",
+        "Негідники не мріють про...",
+        "Доктор Стоун",
+        "Туалетний привид Ханако/Позашкільні історії Ханако",
+        "Первородний гріх Такопі",
+        "Рамма ½",
+        "Рубіж Шанґрі-Ла: Поціновувач ігрошлаку кидає виклик божественній грі",
+        "Бути героєм Ікс",
+        "Нізащо у світі я не стану твоєю коханою! Лише...",
+        "Літо, коли помер Хікару",
+        "Запашна квітка цвіте гідно",
+        "Місто",
+        "Сталевий алхімік",
+        "Реінкарнація безробітного: В інший світ на повному серйозі",
+        "Таємниці мовчазної відьми",
+        "Відьмоварта",
+        "Пекельний рай",
+        "Полум’яні вогнеборці",
+        "Сутінки за кінцем світу",
+        "Санда",
+        "Ґачіакута",
+        "Моя геройська академія/Моя геройська академія: Вігіланти",
+        "Доля/...",
+        "Військова історія маленької дівчинки",
+        "Зроблено в Безодні",
+        "Сага про Вінланд",
+        "Моб Психо 100",
+        "Фуджімото Тацукі 17-26",
+        "Так складно кохати отаку",
+        "Ми з тобою — повні протилежності",
+        "Засуджений бути героєм: Тюремні записи 9004-го карального героїчного загону",
+        "Ласкаво просимо до класу еліти",
+        "Берсерк",
+        "Вайолет Еверґарден",
+        "Євангеліон",
+        "Темний демон",
+        "Чи можу я попросити про останню послугу?",
+        "Фільми"
+      ],
+      "entries": 190,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1775332903,
+      "updated": 1778153452,
+      "author": {
+        "reference": "78bd6b55-27c4-4fd8-b042-10b989521415",
+        "username": "Vilovinto",
+        "avatar": "https://cdn.hikka.io/uploads/vladvierboviy/avatar/ac5f11bd-c9b5-4332-a9e7-75409a4b8fcc.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Зоряні війни: Видіння",
+          "comment": null,
+          "content": {
+            "title": "Зоряні війни: Видіння",
+            "image": "https://cdn.hikka.io/content/anime/star-wars-visions-bbb363/zyiCHCqp6FUFyMVF07TpGw.jpg",
+            "slug": "star-wars-visions-bbb363"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Зоряні війни: Видіння",
+          "comment": null,
+          "content": {
+            "title": "Зоряні війни: Видіння — Глава 3",
+            "image": "https://cdn.hikka.io/content/anime/star-wars-visions-volume-3-c52ce7/7Aiz_IC47uhdP9tZGBGSLg.jpg",
+            "slug": "star-wars-visions-volume-3-c52ce7"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Кіберпанк: Ті, що біжать по краю",
+          "comment": null,
+          "content": {
+            "title": "Кіберпанк: Ті, що біжать по краю",
+            "image": "https://cdn.hikka.io/content/anime/cyberpunk-edgerunners-33f8c6/I59PLsnxnulUveQ1Y8IjPg.jpg",
+            "slug": "cyberpunk-edgerunners-33f8c6"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "483058f5-7003-40fc-91a8-8eacab3c5d2e",
+      "title": "Лише у профілі",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "profile"
+      ],
+      "labels_order": [
+        "Нова група"
+      ],
+      "entries": 1,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1774687325,
+      "updated": 1774687325,
+      "author": {
+        "reference": "d50c8cdd-b4a5-4a08-9966-8cdbdf1cf7d9",
+        "username": "Horvets",
+        "avatar": "https://cdn.hikka.io/uploads/Horvets/avatar/2b19e239-8208-4d1f-a2fe-8498f6c5cd59.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Нова група",
+          "comment": null,
+          "content": {
+            "title": "Ван Піс",
+            "image": "https://cdn.hikka.io/content/anime/one-piece-929f5d/epMVUp0mO7REXcTu9HgtgA.jpg",
+            "slug": "one-piece-929f5d"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "19eb3c1b-c47f-4271-8e13-4424e512d1bb",
+      "title": "Ісекай манхвочки",
+      "content_type": "manga",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "drama",
+        "fantasy"
+      ],
+      "labels_order": [
+        "Princess who hides her fandom",
+        "surviving as a maid",
+        "Єдиний фінал лиходійки — смерть"
+      ],
+      "entries": 3,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1773709743,
+      "updated": 1773959174,
+      "author": {
+        "reference": "2331c6c0-bf69-4d79-ae0a-e14fe4c5b11b",
+        "username": "aadaadel",
+        "avatar": "https://cdn.hikka.io/uploads/adelinademyan/avatar/7fcc4c77-47b0-44a9-8ce0-abdc64edb375.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": "Princess who hides her fandom",
+          "comment": null,
+          "content": {
+            "title": "Принцеса, що приховує свій фандом",
+            "image": "https://cdn.hikka.io/content/manga/princess-who-hides-her-fandom-a43de5/eCLZaa9iJHv2Jj9XTTlsTA.jpg",
+            "slug": "princess-who-hides-her-fandom-a43de5"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": "surviving as a maid",
+          "comment": null,
+          "content": {
+            "title": "Surviving as a Maid",
+            "image": "https://cdn.hikka.io/content/manga/surviving-as-a-maid-1240bd/_Zk3jV6HXV5jdPbRcT3YxA.jpg",
+            "slug": "surviving-as-a-maid-1240bd"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": "Єдиний фінал лиходійки — смерть",
+          "comment": null,
+          "content": {
+            "title": "Єдиний фінал лиходіїв – смерть",
+            "image": "https://cdn.hikka.io/content/manga/villains-are-destined-to-die-8c0f44/wh4WmXyy1A-wlZ0E_SuYcw.jpg",
+            "slug": "villains-are-destined-to-die-8c0f44"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "a54f8f68-8efb-49dc-8c77-f15ad81e3854",
+      "title": "Щось темне, містичне, загадкове",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 70,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1773380087,
+      "updated": 1773410665,
+      "author": {
+        "reference": "fe5f5d13-07dc-46f0-b91a-b3f3552d2648",
+        "username": "Ada360",
+        "avatar": "https://cdn.hikka.io/uploads/Ada360/avatar/f1454a31-81c9-4676-a636-12b0223c4ca2.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Тонкоцу рамен з Хакати",
+            "image": "https://cdn.hikka.io/content/anime/hakata-tonkotsu-ramens-ea7e00/N8QvSFjU0YPKOJs5TZqzBA.jpg",
+            "slug": "hakata-tonkotsu-ramens-ea7e00"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Зошит смерті",
+            "image": "https://cdn.hikka.io/content/anime/death-note-e967c4/teVaa4TVH214oLK-hN1XYA.jpg",
+            "slug": "death-note-e967c4"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Темний демон",
+            "image": "https://cdn.hikka.io/content/anime/tougen-anki-d4e743/GBWTzDcBvp5p75kzZJpk3Q.jpg",
+            "slug": "tougen-anki-d4e743"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "eba166f7-7266-4d92-b63a-ffe456e6e01c",
+      "title": "рекс фор юстина",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "одні з найулюбленіших",
+        "зловити внутрішній дзен",
+        "хіханьки-хаханьки",
+        "12 серій, нема другого сезону, absolute cinema",
+        "шо це вапшє таке...... О БОЖЕ ЦЕ ГЕНІАЛЬНО",
+        "фільми",
+        "я не дивилася, але має бути класно",
+        "що юстина вже подивилася"
+      ],
+      "entries": 37,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1772493872,
+      "updated": 1772537727,
+      "author": {
+        "reference": "2f7258b8-9853-4e3c-bb7f-d3268c1d4115",
+        "username": "vhngxj",
+        "avatar": "https://cdn.hikka.io/uploads/vhngxj/avatar/a646a531-d9cf-4498-8e58-0bd951a97991.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "одні з найулюбленіших",
+          "comment": null,
+          "content": {
+            "title": "Моя геройська академія",
+            "image": "https://cdn.hikka.io/content/anime/boku-no-hero-academia-77b5a8/YK59cPGU_KoyydodkB821g.jpg",
+            "slug": "boku-no-hero-academia-77b5a8"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "одні з найулюбленіших",
+          "comment": null,
+          "content": {
+            "title": "Рибка-бананка",
+            "image": "https://cdn.hikka.io/content/anime/banana-fish-2a33b7/pYEpg6eNJGilxPKjyhy5Lw.jpg",
+            "slug": "banana-fish-2a33b7"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "одні з найулюбленіших",
+          "comment": null,
+          "content": {
+            "title": "Літо, коли помер Хікару",
+            "image": "https://cdn.hikka.io/content/anime/hikaru-ga-shinda-natsu-bc2c0c/qK2OpNT5JQ_uvj6VRGbttQ.jpg",
+            "slug": "hikaru-ga-shinda-natsu-bc2c0c"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "33cb4fc3-196b-4287-ad19-527d416fdccc",
+      "title": "Аніме які змінили моє світобачення ",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 2,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1771696332,
+      "updated": 1771696332,
+      "author": {
+        "reference": "92016d4d-74bf-4383-be60-6945f1d4bb4b",
+        "username": "beelumb",
+        "avatar": "https://cdn.hikka.io/avatar.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Кланнад: Післяслово",
+            "image": "https://cdn.hikka.io/content/anime/clannad-after-story-ed6fbb/JWGqHOprOJ_yNIRL3-pexQ.jpg",
+            "slug": "clannad-after-story-ed6fbb"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Сага про Вінланд - 2 сезон",
+            "image": "https://cdn.hikka.io/content/anime/vinland-saga-season-2-6bed79/QV637s8Oq9vIsLrQkKWQdg.jpg",
+            "slug": "vinland-saga-season-2-6bed79"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "330a6a15-25ce-42fd-ae6a-a3f6ecfaedda",
+      "title": "Вигнанці з паті — аніме",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "вигнанці"
+      ],
+      "labels_order": [
+        "Мечники/Воїни — (Загін)",
+        "Танки — (Загін)",
+        "Маги — (Загін)",
+        "Цілителі/Святі — (Загін)",
+        "Підтримка — (Загін)",
+        "Приборкувачі звірів — (Загін)",
+        "Ремісники — (Загін)",
+        "Мечники/Воїни — (Володіння)",
+        "Ремісники — (Володіння)",
+        "Мечники/Воїни — (Організація)"
+      ],
+      "entries": 17,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1771598365,
+      "updated": 1771847984,
+      "author": {
+        "reference": "a4c0500a-6896-44ef-8cb1-c0460554f1ab",
+        "username": "A_Sarisez",
+        "avatar": "https://cdn.hikka.io/uploads/A_Sarisez/avatar/f990583a-dbee-440a-8f9e-e6157fe6902a.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Мечники/Воїни — (Загін)",
+          "comment": null,
+          "content": {
+            "title": "Я сам собі загін! ",
+            "image": "https://cdn.hikka.io/content/anime/yuusha-party-wo-oidasareta-kiyoubinbou-d84b9b/6ytwMFz9uQaWDiJyEFt_og.jpg",
+            "slug": "yuusha-party-wo-oidasareta-kiyoubinbou-d84b9b"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Мечники/Воїни — (Загін)",
+          "comment": null,
+          "content": {
+            "title": "Нездарі зась здолати Короля демонів",
+            "image": "https://cdn.hikka.io/content/anime/omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-outo-de-kimama-ni-kurashitai-296cc9/aHLzOYp0vEuka8uBFb9ORQ.jpg",
+            "slug": "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-outo-de-kimama-ni-kurashitai-296cc9"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Мечники/Воїни — (Загін)",
+          "comment": null,
+          "content": {
+            "title": "Світ врятують авантюристи, які не вірять в людство",
+            "image": "https://cdn.hikka.io/content/anime/ningen-fushin-no-boukensha-tachi-ga-sekai-wo-sukuu-you-desu-0c458a/hhs0UkVpix9Ojb9E9HXQFA.jpg",
+            "slug": "ningen-fushin-no-boukensha-tachi-ga-sekai-wo-sukuu-you-desu-0c458a"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "d3eb5190-16a7-4567-9d2f-551b1d54e626",
+      "title": "Озвучка",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Студія Качур",
+        "FanVoxUA",
+        "Clan Kaizoku",
+        "Amanogawa",
+        "Робота голосом",
+        "Glass Moon",
+        "MelVoiceStudio",
+        "Inari",
+        "Lemonka Voice Project",
+        "Справжня Козацька Озвучка",
+        "Офіційний дубляж",
+        "UAMAX",
+        "Kioto Anime",
+        "Інші озвучки",
+        "Різні озвучки",
+        "російська"
+      ],
+      "entries": 159,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1769558667,
+      "updated": 1778153480,
+      "author": {
+        "reference": "78bd6b55-27c4-4fd8-b042-10b989521415",
+        "username": "Vilovinto",
+        "avatar": "https://cdn.hikka.io/uploads/vladvierboviy/avatar/ac5f11bd-c9b5-4332-a9e7-75409a4b8fcc.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Студія Качур",
+          "comment": null,
+          "content": {
+            "title": "Атака титанів: Фінальний сезон - 3-4 частина",
+            "image": "https://cdn.hikka.io/content/anime/shingeki-no-kyojin-the-final-season-kanketsu-hen-833be1/u9bsJvepmMq3737kut3FAA.jpg",
+            "slug": "shingeki-no-kyojin-the-final-season-kanketsu-hen-833be1"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Студія Качур",
+          "comment": null,
+          "content": {
+            "title": "Вбивця демонів: Нескінченний потяг Фільм",
+            "image": "https://cdn.hikka.io/content/anime/kimetsu-no-yaiba-movie-mugen-ressha-hen-6c7c22/mLTvmEEHFXCV74reBXu8-w.jpg",
+            "slug": "kimetsu-no-yaiba-movie-mugen-ressha-hen-6c7c22"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Студія Качур",
+          "comment": null,
+          "content": {
+            "title": "Вбивця демонів: Навчання Хашіра",
+            "image": "https://cdn.hikka.io/content/anime/kimetsu-no-yaiba-hashira-geiko-hen-69546c/_VG2F_dXhsv4Apw1JmXdjA.jpg",
+            "slug": "kimetsu-no-yaiba-hashira-geiko-hen-69546c"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "060247d7-1a81-4262-9f71-6a2fd51dd0a7",
+      "title": "Fate — ранобе",
+      "content_type": "novel",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "fate",
+        "доля",
+        "ранобе"
+      ],
+      "labels_order": [
+        "Доля",
+        "Досьє Лорда Ель-Мелоя ІІ",
+        "Межа пустоти",
+        "Відьма у Святвечір"
+      ],
+      "entries": 14,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1767985991,
+      "updated": 1775564354,
+      "author": {
+        "reference": "a4c0500a-6896-44ef-8cb1-c0460554f1ab",
+        "username": "A_Sarisez",
+        "avatar": "https://cdn.hikka.io/uploads/A_Sarisez/avatar/f990583a-dbee-440a-8f9e-e6157fe6902a.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "novel",
+          "order": 1,
+          "label": "Доля",
+          "comment": null,
+          "content": {
+            "title": "Доля/Початок",
+            "image": "https://cdn.hikka.io/content/manga/fatezero-145aaf/3Py11WjQLPz-zNeuW6v3eQ.jpg",
+            "slug": "fatezero-145aaf"
+          }
+        },
+        {
+          "content_type": "novel",
+          "order": 2,
+          "label": "Доля",
+          "comment": null,
+          "content": {
+            "title": "Доля/Апокриф: Ненароджена",
+            "image": "https://cdn.hikka.io/content/novel/fateapocrypha-unbirth-fc311b/eU2pWQjfyQoRHRxLnfWQAw.jpg",
+            "slug": "fateapocrypha-unbirth-fc311b"
+          }
+        },
+        {
+          "content_type": "novel",
+          "order": 3,
+          "label": "Доля",
+          "comment": null,
+          "content": {
+            "title": "Доля/Апокриф",
+            "image": "https://cdn.hikka.io/content/manga/fateapocrypha-418486/DXJIp29OR5z24B6BSvEwdg.jpg",
+            "slug": "fateapocrypha-418486"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "460e7084-9832-40ee-aa1e-11ed27ae86ec",
+      "title": "Fate — манґа",
+      "content_type": "manga",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "fate",
+        "доля",
+        "манґа"
+      ],
+      "labels_order": [
+        "Доля/Початок",
+        "Доля/Ніч битви",
+        "Доля/Дівчинка-чарівниця Ілія",
+        "Доля/Дивна підробка",
+        "Доля/Прототип",
+        "Доля/Екстра",
+        "Доля/Великий наказ",
+        "Доля/Великий наказ: Епос залишку",
+        "Відьма у Святвечір ",
+        "Тала кров",
+        "Різне"
+      ],
+      "entries": 85,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1767980248,
+      "updated": 1775389517,
+      "author": {
+        "reference": "a4c0500a-6896-44ef-8cb1-c0460554f1ab",
+        "username": "A_Sarisez",
+        "avatar": "https://cdn.hikka.io/uploads/A_Sarisez/avatar/f990583a-dbee-440a-8f9e-e6157fe6902a.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": "Доля/Початок",
+          "comment": null,
+          "content": {
+            "title": "Доля/Початок: Котоміне",
+            "image": "https://cdn.hikka.io/content/manga/fatezero-kotomine-93d182/hIHik5upWYf_FcDSO9kGxw.jpg",
+            "slug": "fatezero-kotomine-93d182"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": "Доля/Початок",
+          "comment": null,
+          "content": {
+            "title": "Доля/Початок: Кіріцуґу",
+            "image": "https://cdn.hikka.io/content/manga/fatezero-kiritsugu-81289e/O3aGvkzjHg2GItlYcTEqbw.jpg",
+            "slug": "fatezero-kiritsugu-81289e"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": "Доля/Початок",
+          "comment": null,
+          "content": {
+            "title": "Доля/Початок",
+            "image": "https://cdn.hikka.io/content/manga/fatezero-897ea2/bQnSpHtt-grzgZzzqMYhfg.jpg",
+            "slug": "fatezero-897ea2"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "70ced9f9-c3cc-4863-9bb7-eb762a9cfe07",
+      "title": "While eating",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "1"
+      ],
+      "entries": 11,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1767514201,
+      "updated": 1767514338,
+      "author": {
+        "reference": "0bb85202-8c13-427b-b07f-eba17172a60c",
+        "username": "Diana",
+        "avatar": "https://cdn.hikka.io/uploads/Diana/avatar/5eb36766-b97a-4beb-9a8f-7aceb6b99f03.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "1",
+          "comment": null,
+          "content": {
+            "title": "Бліч",
+            "image": "https://cdn.hikka.io/content/anime/bleach-e87d16/qUub64he3rxrqxRoMyimIA.jpg",
+            "slug": "bleach-e87d16"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "1",
+          "comment": null,
+          "content": {
+            "title": "Ван Піс",
+            "image": "https://cdn.hikka.io/content/anime/one-piece-929f5d/epMVUp0mO7REXcTu9HgtgA.jpg",
+            "slug": "one-piece-929f5d"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "1",
+          "comment": null,
+          "content": {
+            "title": "Мисливець х Мисливець",
+            "image": "https://cdn.hikka.io/content/anime/hunter-x-hunter-2011-f2b03a/PLUGrdkPd4UmVr51-VcGrw.jpg",
+            "slug": "hunter-x-hunter-2011-f2b03a"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "4e467cf8-58d5-4df6-af89-af970bfde685",
+      "title": "Персонажі / Маски 2",
+      "content_type": "character",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "одяг",
+        "персонажі"
+      ],
+      "labels_order": [
+        "♦ Елемент дизайну",
+        "♦ Вуаль",
+        "♦ Одяг",
+        "♦ Потребує уточнення"
+      ],
+      "entries": 23,
+      "vote_score": 1,
+      "comments_count": 0,
+      "created": 1764629348,
+      "updated": 1764629440,
+      "author": {
+        "reference": "48224f0b-d9c5-47ce-a24f-9c19e3aad121",
+        "username": "Snigh",
+        "avatar": "https://cdn.hikka.io/uploads/Snigh/avatar/cae33e27-6173-419c-850e-28596094a208.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "character",
+          "order": 1,
+          "label": "♦ Елемент дизайну",
+          "comment": null,
+          "content": {
+            "name": "Амацука Сейра",
+            "image": "https://cdn.hikka.io/content/characters/seira-amatsuka-2c086e/XJApZtH0y6ii9egtHP3-eg.jpg",
+            "slug": "seira-amatsuka-2c086e"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 2,
+          "label": "♦ Елемент дизайну",
+          "comment": null,
+          "content": {
+            "name": "Макомо",
+            "image": "https://cdn.hikka.io/content/characters/makomo-a36e2b/-woWxuHLgSRHziejbB_obw.jpg",
+            "slug": "makomo-a36e2b"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 3,
+          "label": "♦ Елемент дизайну",
+          "comment": null,
+          "content": {
+            "name": "Ікеда Асаемон",
+            "image": "https://cdn.hikka.io/content/characters/asaemon-ikeda-a17429/G3t-xSkY2c9MweBAKbD-lQ.jpg",
+            "slug": "asaemon-ikeda-a17429"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "cfe673a4-9852-4442-88e5-d4e91e59d9f1",
+      "title": "Найкраща колекція",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": true,
+      "nsfw": true,
+      "tags": [
+        "тест",
+        "провірка"
+      ],
+      "labels_order": [
+        "Аніме"
+      ],
+      "entries": 1,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1764413524,
+      "updated": 1764422732,
+      "author": {
+        "reference": "1a855df2-e278-4e9d-8ad6-18fdea3e5226",
+        "username": "monstershit",
+        "avatar": "https://cdn.hikka.io/avatar.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Аніме",
+          "comment": null,
+          "content": {
+            "title": "Убивця Акаме!",
+            "image": "https://cdn.hikka.io/content/anime/akame-ga-kill-d2b7f7/5izcrHXEQYN7PdNgV0EeQw.jpg",
+            "slug": "akame-ga-kill-d2b7f7"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "a18b1447-1777-43e0-af29-9deb9fb54151",
+      "title": "Рекомендую новачкам в аніме",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "аніме"
+      ],
+      "labels_order": [
+        "Повнометражки",
+        "Серіали"
+      ],
+      "entries": 25,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1763894488,
+      "updated": 1776882315,
+      "author": {
+        "reference": "87cd0a56-7d6b-4dbb-85bb-95fb4fa118ed",
+        "username": "Ukrainianaduck",
+        "avatar": "https://cdn.hikka.io/uploads/Ukrainianaduck/avatar/9df0ff86-d043-4b0d-a98f-042b765f2c75.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Повнометражки",
+          "comment": null,
+          "content": {
+            "title": "Судзуме, що зачиняє двері",
+            "image": "https://cdn.hikka.io/content/anime/suzume-no-tojimari-043f75/RCeU1ODaRY6y7JjgWhmvDg.jpg",
+            "slug": "suzume-no-tojimari-043f75"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Повнометражки",
+          "comment": null,
+          "content": {
+            "title": "Мандрівний замок",
+            "image": "https://cdn.hikka.io/content/anime/howl-no-ugoku-shiro-96692c/fF_MnMRoVY2lD4KduslAgQ.jpg",
+            "slug": "howl-no-ugoku-shiro-96692c"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Повнометражки",
+          "comment": null,
+          "content": {
+            "title": "Віднесені привидами",
+            "image": "https://cdn.hikka.io/content/anime/sen-to-chihiro-no-kamikakushi-818308/Es6U7JagsQsNpDejz5-6rA.jpg",
+            "slug": "sen-to-chihiro-no-kamikakushi-818308"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "3369ec19-40c4-4f6a-b9b7-e445c8b802b3",
+      "title": "Манґа, яку я верстав",
+      "content_type": "manga",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "malopus",
+        "мальопус",
+        "верстка"
+      ],
+      "labels_order": [],
+      "entries": 13,
+      "vote_score": 11,
+      "comments_count": 1,
+      "created": 1763573133,
+      "updated": 1765200340,
+      "author": {
+        "reference": "1f1c78b1-f154-4979-b2c9-e5f0ff0a137e",
+        "username": "Funfy",
+        "avatar": "https://cdn.hikka.io/uploads/Funfy/avatar/8f1b66f2-6e5a-4f22-bbda-32d3ef413f86.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Пророцтво",
+            "image": "https://cdn.hikka.io/content/manga/yokokuhan-10b997/RNcoYbR4cjXZiHKL1BGvag.jpg",
+            "slug": "yokokuhan-10b997"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Крах людини",
+            "image": "https://cdn.hikka.io/content/manga/ningen-shikkaku-07abbb/LP4UWyug4l_1GPj_Pmkp7A.jpg",
+            "slug": "ningen-shikkaku-07abbb"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Чудернацька антикварна крамниця",
+            "image": "https://cdn.hikka.io/content/manga/fushigi-na-antique-shop-makura-kurama-sakuhinshuu-e0e74a/Aagu8k_dt3JoNvO7oNBB1Q.jpg",
+            "slug": "fushigi-na-antique-shop-makura-kurama-sakuhinshuu-e0e74a"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "ca86a714-840f-48d3-a5af-f9791d42d53d",
+      "title": "Гетеро романтика",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Милі",
+        "Крінж",
+        "Повсякденне",
+        "Фільми",
+        "Дорослі стосунки",
+        "Перезапуски",
+        "Стара мальовка",
+        "Гаремники",
+        "Не знаю"
+      ],
+      "entries": 216,
+      "vote_score": 1,
+      "comments_count": 0,
+      "created": 1763064023,
+      "updated": 1773157657,
+      "author": {
+        "reference": "fe5f5d13-07dc-46f0-b91a-b3f3552d2648",
+        "username": "Ada360",
+        "avatar": "https://cdn.hikka.io/uploads/Ada360/avatar/f1454a31-81c9-4676-a636-12b0223c4ca2.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Милі",
+          "comment": null,
+          "content": {
+            "title": "Пані Кубо не дає мені бути невидимим",
+            "image": "https://cdn.hikka.io/content/anime/kubo-san-wa-mob-wo-yurusanai-2dbf1b/l5z3VzDWZdOAo8sM7JJpIA.jpg",
+            "slug": "kubo-san-wa-mob-wo-yurusanai-2dbf1b"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Милі",
+          "comment": null,
+          "content": {
+            "title": "Дівчинка-чарівниця та злий лейтенант колись були заклятими ворогами",
+            "image": "https://cdn.hikka.io/content/anime/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita-b8c2ef/ylm2bXaJ9qO1PfSQhxjNVw.jpg",
+            "slug": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita-b8c2ef"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Крінж",
+          "comment": null,
+          "content": {
+            "title": "Моя романтична комедія не зовсім те, на що я очікував",
+            "image": "https://cdn.hikka.io/content/anime/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-7a8cd4/U6n_eTNW8h3M-3VsAUJTnQ.jpg",
+            "slug": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-7a8cd4"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "95da4ef2-20e4-4316-93ba-8656af899d07",
+      "title": "Більше для нас",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "аніме",
+        "улюблене",
+        "rewatch"
+      ],
+      "labels_order": [
+        "Дофіга разів",
+        "Може 2-3"
+      ],
+      "entries": 27,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1763059160,
+      "updated": 1779970843,
+      "author": {
+        "reference": "61cfb7db-e2e7-46c0-a88c-6b221b62112f",
+        "username": "Mizuno21",
+        "avatar": "https://cdn.hikka.io/uploads/Mizuno21/avatar/79870988-7bce-470b-9856-44463f02f180.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Дофіга разів",
+          "comment": null,
+          "content": {
+            "title": "Ді Джи Кярат",
+            "image": "https://cdn.hikka.io/content/anime/di-gi-charat-a581a0/vDmMUaKVYhTJB0he3KUXMQ.jpg",
+            "slug": "di-gi-charat-a581a0"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Дофіга разів",
+          "comment": null,
+          "content": {
+            "title": "Служба доставки Кікі юної відьми",
+            "image": "https://cdn.hikka.io/content/anime/majo-no-takkyuubin-0be3bc/WXdhiCX0KeHCAJh-Ki8_XQ.jpg",
+            "slug": "majo-no-takkyuubin-0be3bc"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Дофіга разів",
+          "comment": null,
+          "content": {
+            "title": "Мій сусід Тоторо",
+            "image": "https://cdn.hikka.io/content/anime/tonari-no-totoro-788459/2MAINAGr_3vY3jOlXEdS5Q.jpg",
+            "slug": "tonari-no-totoro-788459"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "74961dc2-338d-4586-aa86-f7672f4d3cf8",
+      "title": "Смішнява романтика",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "романтика",
+        "гумор",
+        "пара"
+      ],
+      "labels_order": [],
+      "entries": 2,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1763000499,
+      "updated": 1763000603,
+      "author": {
+        "reference": "a8828a2a-6bf9-4aa6-8474-d9d6a87e4e7d",
+        "username": "luckygun43",
+        "avatar": "https://cdn.hikka.io/uploads/luckygun43/avatar/0b42695c-51e7-4382-8b51-6a1493bcc570.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Я Архідемон, що взяв рабиню Ельфійку в дружини",
+            "image": "https://cdn.hikka.io/content/anime/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii-393d9f/o3bmppE4_fSrrFixnuhORg.jpg",
+            "slug": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii-393d9f"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Жозе, тигр та риба",
+            "image": "https://cdn.hikka.io/content/anime/josee-to-tora-to-sakana-tachi-b81701/65s8e95cCPqfP3wOmr6RBw.jpg",
+            "slug": "josee-to-tora-to-sakana-tachi-b81701"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "49a7d19c-8524-406a-ad40-6f6abccb4f45",
+      "title": "Моя поличка манґи",
+      "content_type": "manga",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "манґа",
+        "поличка"
+      ],
+      "labels_order": [
+        "Nasha idea",
+        "MAL'OPUS"
+      ],
+      "entries": 8,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1760624335,
+      "updated": 1770916428,
+      "author": {
+        "reference": "48224f0b-d9c5-47ce-a24f-9c19e3aad121",
+        "username": "Snigh",
+        "avatar": "https://cdn.hikka.io/uploads/Snigh/avatar/cae33e27-6173-419c-850e-28596094a208.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": "Nasha idea",
+          "comment": null,
+          "content": {
+            "title": "Мемуари Ванітаса",
+            "image": "https://cdn.hikka.io/content/manga/vanitas-no-karte-9aee0d/X_Lt0Vz4Ybrm02nw-BvQkQ.jpg",
+            "slug": "vanitas-no-karte-9aee0d"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": "Nasha idea",
+          "comment": null,
+          "content": {
+            "title": "Ательє чаклунських капелюхів",
+            "image": "https://cdn.hikka.io/content/manga/tongari-boushi-no-atelier-53ed2b/ug5tAfIkefNyAUWja09UKg.jpg",
+            "slug": "tongari-boushi-no-atelier-53ed2b"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": "Nasha idea",
+          "comment": null,
+          "content": {
+            "title": "Проводжальниця Фрірен",
+            "image": "https://cdn.hikka.io/content/manga/sousou-no-frieren-97e05f/urNLzR-yBDc1PAHLMmLOvw.jpg",
+            "slug": "sousou-no-frieren-97e05f"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "9ba05ee9-0b16-48f8-9fcd-7d53bf2e519e",
+      "title": "Найкращі арки в манґах",
+      "content_type": "manga",
+      "visibility": "unlisted",
+      "spoiler": true,
+      "nsfw": false,
+      "tags": [
+        "арка",
+        "враження",
+        "манґа"
+      ],
+      "labels_order": [
+        "Вся манґа",
+        "Рекі",
+        "Рікіїші Тоору, Карлос Рівера",
+        "Вежа",
+        "Резе, Макіма",
+        "ТКВ",
+        "Весна, Літо",
+        "Ув'язнення Ооданни",
+        "Знайомство Нан, вагітність Хачі, смерть Рена"
+      ],
+      "entries": 10,
+      "vote_score": 2,
+      "comments_count": 0,
+      "created": 1758106666,
+      "updated": 1776328280,
+      "author": {
+        "reference": "00c64f6a-0888-4b18-8121-ca1b23d812ab",
+        "username": "punpun",
+        "avatar": "https://cdn.hikka.io/uploads/punpun/avatar/2696974e-ad3d-4979-b784-2a4633302cad.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": "Вся манґа",
+          "comment": null,
+          "content": {
+            "title": "Пес і я: Таємна служба",
+            "image": "https://cdn.hikka.io/content/manga/inu-x-boku-ss-27e46e/TXANkniWEh7Ve-zNpsvvtg.jpg",
+            "slug": "inu-x-boku-ss-27e46e"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": "Вся манґа",
+          "comment": null,
+          "content": {
+            "title": "Приємно познайомитись, Бог",
+            "image": "https://cdn.hikka.io/content/manga/kamisama-hajimemashita-d1bba2/6cCpJge-5490K9eNUS6u4Q.jpg",
+            "slug": "kamisama-hajimemashita-d1bba2"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": "Рекі",
+          "comment": null,
+          "content": {
+            "title": "Товариство Сірокрилих",
+            "image": "https://cdn.hikka.io/content/manga/old-home-no-haibane-tachi-c98e11/MgFQTvCDE4KXZ3VzcFPFgQ.jpg",
+            "slug": "old-home-no-haibane-tachi-c98e11"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "fb25e33d-6ced-4ed2-a8dc-4b284c8ea513",
+      "title": "персонажі",
+      "content_type": "character",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "персонажі"
+      ],
+      "labels_order": [
+        "мен",
+        "гьорлс"
+      ],
+      "entries": 21,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1757847449,
+      "updated": 1757847449,
+      "author": {
+        "reference": "3571db75-656b-483e-9799-661ee547ab95",
+        "username": "hubskama",
+        "avatar": "https://cdn.hikka.io/uploads/hubskama/avatar/0c347583-9c2e-4e90-8fa6-31e4e39052c3.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "character",
+          "order": 1,
+          "label": "мен",
+          "comment": null,
+          "content": {
+            "name": "Торфінн",
+            "image": "https://cdn.hikka.io/content/characters/thorfinn-698714/mc0LzftKz5DNHfuWbqrqmw.jpg",
+            "slug": "thorfinn-698714"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 2,
+          "label": "мен",
+          "comment": null,
+          "content": {
+            "name": "Аскеладд",
+            "image": "https://cdn.hikka.io/content/characters/askeladd-695475/WTF5gt1oaogyFhub5nzNOA.jpg",
+            "slug": "askeladd-695475"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 3,
+          "label": "мен",
+          "comment": null,
+          "content": {
+            "name": "Сон Хак",
+            "image": "https://cdn.hikka.io/content/characters/hak-son-adc575/ijNo920p5PX_f_QNWSDwkQ.jpg",
+            "slug": "hak-son-adc575"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "4b77ca42-fc80-4065-bd95-6bd1ccba84ad",
+      "title": "Моя поличка ранобе",
+      "content_type": "novel",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "ранобе",
+        "українською",
+        "поличка"
+      ],
+      "labels_order": [
+        "MAL'OPUS",
+        "Мольфар"
+      ],
+      "entries": 2,
+      "vote_score": 2,
+      "comments_count": 0,
+      "created": 1757431954,
+      "updated": 1759325215,
+      "author": {
+        "reference": "3109e94f-538b-4e43-9a84-6b49c92bb8c2",
+        "username": "Okashi",
+        "avatar": "https://cdn.hikka.io/uploads/Okashi/avatar/5d1c203f-f7b6-4b1e-adc4-e5f9304a075b.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "novel",
+          "order": 1,
+          "label": "MAL'OPUS",
+          "comment": null,
+          "content": {
+            "title": "Три дні щастя",
+            "image": "https://cdn.hikka.io/content/novel/mikkakan-no-koufuku-491076/riw1yv-UCw5il4_XUaXNvw.jpg",
+            "slug": "mikkakan-no-koufuku-491076"
+          }
+        },
+        {
+          "content_type": "novel",
+          "order": 2,
+          "label": "Мольфар",
+          "comment": null,
+          "content": {
+            "title": "Вовчиця і прянощі",
+            "image": "https://cdn.hikka.io/content/novel/ookami-to-koushinryou-f8d79c/mtUKa-gZBybz_KjAZzC9wA.jpg",
+            "slug": "ookami-to-koushinryou-f8d79c"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "e14bdece-d393-4a3a-9a08-26b77b90f4aa",
+      "title": "Моя поличка манґи",
+      "content_type": "manga",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "манґа",
+        "українською",
+        "поличка"
+      ],
+      "labels_order": [
+        "MAL'OPUS",
+        "Nasha idea (НІ/ТАК)",
+        "Мольфар",
+        "«Видавництво»",
+        "ARTBOOKS"
+      ],
+      "entries": 26,
+      "vote_score": 3,
+      "comments_count": 0,
+      "created": 1757428591,
+      "updated": 1759325227,
+      "author": {
+        "reference": "3109e94f-538b-4e43-9a84-6b49c92bb8c2",
+        "username": "Okashi",
+        "avatar": "https://cdn.hikka.io/uploads/Okashi/avatar/5d1c203f-f7b6-4b1e-adc4-e5f9304a075b.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": "MAL'OPUS",
+          "comment": null,
+          "content": {
+            "title": "YoRHa: Протокол висадки в Перл-Гарбор",
+            "image": "https://cdn.hikka.io/content/manga/yorha-shinjuwan-kouka-sakusen-kiroku-ff4414/hJaeTys2KDed_x6I97L8qQ.jpg",
+            "slug": "yorha-shinjuwan-kouka-sakusen-kiroku-ff4414"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": "MAL'OPUS",
+          "comment": null,
+          "content": {
+            "title": "Місто, де немає лиш мене",
+            "image": "https://cdn.hikka.io/content/manga/boku-dake-ga-inai-machi-b8bcde/sFspc_wQcjF8wvcF9-BL2Q.jpg",
+            "slug": "boku-dake-ga-inai-machi-b8bcde"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": "MAL'OPUS",
+          "comment": null,
+          "content": {
+            "title": "Остання подорож дівчат",
+            "image": "https://cdn.hikka.io/content/manga/shoujo-shuumatsu-ryokou-4dccd6/H005knth7qETFNd92zrEfg.jpg",
+            "slug": "shoujo-shuumatsu-ryokou-4dccd6"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "f71b14ea-c292-4989-b23e-8deb224dd427",
+      "title": "Фільми",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Ghibli",
+        "Kyoto Animation",
+        "A-1 Pictures",
+        "Clover Works",
+        "Studio Chizu",
+        "Production I.G",
+        "Madhouse",
+        "Studio VOLN",
+        "Все підряд",
+        "Продовження TV аніме серіалів"
+      ],
+      "entries": 92,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1757091909,
+      "updated": 1767979205,
+      "author": {
+        "reference": "fe5f5d13-07dc-46f0-b91a-b3f3552d2648",
+        "username": "Ada360",
+        "avatar": "https://cdn.hikka.io/uploads/Ada360/avatar/f1454a31-81c9-4676-a636-12b0223c4ca2.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Ghibli",
+          "comment": null,
+          "content": {
+            "title": "Віднесені привидами",
+            "image": "https://cdn.hikka.io/content/anime/sen-to-chihiro-no-kamikakushi-818308/Es6U7JagsQsNpDejz5-6rA.jpg",
+            "slug": "sen-to-chihiro-no-kamikakushi-818308"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Ghibli",
+          "comment": null,
+          "content": {
+            "title": "Принцеса Мононоке",
+            "image": "https://cdn.hikka.io/content/anime/mononoke-hime-def1fc/PgAWoyFHZWz_-db4J25s-A.jpg",
+            "slug": "mononoke-hime-def1fc"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Ghibli",
+          "comment": null,
+          "content": {
+            "title": "Мандрівний замок",
+            "image": "https://cdn.hikka.io/content/anime/howl-no-ugoku-shiro-96692c/fF_MnMRoVY2lD4KduslAgQ.jpg",
+            "slug": "howl-no-ugoku-shiro-96692c"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "551e6963-ca58-4431-8a4d-f7ff9453e932",
+      "title": "Аніме тренд ч. 1",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Перше аніме",
+        "Улюблене аніме",
+        "Друге улюблене аніме",
+        "Улюблений аніме фільм",
+        "Недооцінене аніме",
+        "Переоцінене аніме",
+        "Аніме яке змусило плакати найбільше",
+        "Найгірше аніме яке дивився"
+      ],
+      "entries": 8,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1757075455,
+      "updated": 1757077748,
+      "author": {
+        "reference": "061b21d4-7a79-457d-af6d-b87aca038ed4",
+        "username": "jooonichka",
+        "avatar": "https://cdn.hikka.io/uploads/jooonichka/avatar/2b532c1e-78af-46cd-82d3-52bffa90ab4f.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Перше аніме",
+          "comment": null,
+          "content": {
+            "title": "Бакуґан",
+            "image": "https://cdn.hikka.io/content/anime/bakugan-battle-brawlers-d7d391/hhLiiPGUbdxxmQBP8Q1bMw.jpg",
+            "slug": "bakugan-battle-brawlers-d7d391"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Улюблене аніме",
+          "comment": null,
+          "content": {
+            "title": "Берсерк",
+            "image": "https://cdn.hikka.io/content/anime/kenpuu-denki-berserk-cefc60/kH1M1BBgCUR4taf9jnTKAA.jpg",
+            "slug": "kenpuu-denki-berserk-cefc60"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Друге улюблене аніме",
+          "comment": null,
+          "content": {
+            "title": "Місто, де немає лиш мене",
+            "image": "https://cdn.hikka.io/content/anime/boku-dake-ga-inai-machi-d35fd6/t4pABAKRpaaSGsNTccy_6w.jpg",
+            "slug": "boku-dake-ga-inai-machi-d35fd6"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "47edd20e-f4be-4bed-8979-5f44e774669d",
+      "title": "Жанр : Романтика",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "романтика"
+      ],
+      "labels_order": [
+        "Хорімія ",
+        "Ця порцелянова лялечка закохалася ",
+        "Негідники не мріють про шляхетних кроличок",
+        "Запашна квітка цвіте гідно",
+        "Моя романтична комедія не зовсім те, на що я очікував",
+        "Шікіморі не лише мила",
+        "Чи може існувати дружба між чоловіком і жінкою! (Ні, це не так!!!)",
+        "Будь ласка, одягни їх, Такаміне-сан",
+        "Забагато героїнь, що програли!",
+        "Блакитна скринька",
+        "Домашня дівчина",
+        "Таємнича подружка X",
+        "Більше, ніж подружжя, але не коханці",
+        "Піймай свою хвилю",
+        "Дівчина знизу",
+        "Дівчина, яка мені подобається, забула окуляри",
+        "Сад слів",
+        "Тунель у літо, прощальний вихід",
+        "Життя з моєю зведеною сестрою"
+      ],
+      "entries": 35,
+      "vote_score": 2,
+      "comments_count": 0,
+      "created": 1754773803,
+      "updated": 1759696965,
+      "author": {
+        "reference": "28938325-7f22-4542-93e5-c6ff01a362f9",
+        "username": "LvivBeer",
+        "avatar": "https://cdn.hikka.io/uploads/LvivBeer/avatar/df9916e9-2c48-47f2-9502-c8e9ef0bd359.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Хорімія ",
+          "comment": null,
+          "content": {
+            "title": "Хорімія",
+            "image": "https://cdn.hikka.io/content/anime/horimiya-18b6d8/_19i-wrk_M7dvcCSMpH6Rw.jpg",
+            "slug": "horimiya-18b6d8"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Хорімія ",
+          "comment": null,
+          "content": {
+            "title": "Хорімія: Фрагменти",
+            "image": "https://cdn.hikka.io/content/anime/horimiya-piece-948283/hC6HZmYTh9cBc_XbTVSpWw.jpg",
+            "slug": "horimiya-piece-948283"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Хорімія ",
+          "comment": null,
+          "content": {
+            "title": "Хорі та Міямура",
+            "image": "https://cdn.hikka.io/content/anime/hori-san-to-miyamura-kun-a837cc/F6ZwXqPqjD9a5tic0Vjv9g.jpg",
+            "slug": "hori-san-to-miyamura-kun-a837cc"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "87e0643d-a6ac-449c-b2e4-bfd94c83ef27",
+      "title": "Аніме про спорт",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "спорт"
+      ],
+      "labels_order": [],
+      "entries": 11,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1751983759,
+      "updated": 1751983759,
+      "author": {
+        "reference": "2d660922-a29a-4f34-abfb-e75325a6832d",
+        "username": "Uno_UA",
+        "avatar": "https://cdn.hikka.io/uploads/Uno_UA/avatar/a5a9da7a-ac3f-403e-b27f-a865ac79d91c.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Скейт: Безкінечність",
+            "image": "https://cdn.hikka.io/content/anime/sk-edb76f/uifXI83m2sE7sB_s7o6hvw.jpg",
+            "slug": "sk-edb76f"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Волейбол!!",
+            "image": "https://cdn.hikka.io/content/anime/haikyuu-2830c1/wgETm0E-3ZbIQyRy4d0yqw.jpg",
+            "slug": "haikyuu-2830c1"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Баскетбол Куроко",
+            "image": "https://cdn.hikka.io/content/anime/kuroko-no-basket-c8d834/U_Nssd0ON1l-NOlvYDT0jA.jpg",
+            "slug": "kuroko-no-basket-c8d834"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "d2adf220-e74f-4530-b417-b6d7a7f3eb50",
+      "title": "Anime ",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 3,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1750681058,
+      "updated": 1750681058,
+      "author": {
+        "reference": "57cf50c7-4266-4cc6-9fcb-95677d611b30",
+        "username": "siviycooldid",
+        "avatar": "https://cdn.hikka.io/uploads/siviycooldid/avatar/d6c89c2a-c153-4203-a168-de131b2f8302.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Химерні пригоди ДжоДжо: Золотий вітер",
+            "image": "https://cdn.hikka.io/content/anime/jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze-4f8a77/-KONkL7atgYFFmCronUXSA.jpg",
+            "slug": "jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze-4f8a77"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Химерні пригоди ДжоДжо: Хрестоносці зоряного пилу - 2 частина",
+            "image": "https://cdn.hikka.io/content/anime/jojo-no-kimyou-na-bouken-part-3-stardust-crusaders-2nd-season-d7f0f9/HdhZwZJW4m1Zqwdw7D_Uew.jpg",
+            "slug": "jojo-no-kimyou-na-bouken-part-3-stardust-crusaders-2nd-season-d7f0f9"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Химерні пригоди ДжоДжо: Хрестоносці зоряного пилу",
+            "image": "https://cdn.hikka.io/content/anime/jojo-no-kimyou-na-bouken-part-3-stardust-crusaders-05f5b6/nhK4UyiJB3TIWP3gDsI91Q.jpg",
+            "slug": "jojo-no-kimyou-na-bouken-part-3-stardust-crusaders-05f5b6"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "eb41717f-50d7-4d75-97d8-cb3ab3b0462f",
+      "title": "Те, що залишилося в серці",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": true,
+      "tags": [],
+      "labels_order": [],
+      "entries": 25,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1745626801,
+      "updated": 1756427078,
+      "author": {
+        "reference": "8ed87fa0-d0db-46a3-a07a-b4dc92e0ee8c",
+        "username": "sades",
+        "avatar": "https://cdn.hikka.io/uploads/sades/avatar/21484de6-eb1c-4157-b2ae-791eb5cf5c10.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Для тебе, Вічний",
+            "image": "https://cdn.hikka.io/content/anime/fumetsu-no-anata-e-72b2e6/wdvIMHdv-AD26rOD9aytgQ.jpg",
+            "slug": "fumetsu-no-anata-e-72b2e6"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Вавилон",
+            "image": "https://cdn.hikka.io/content/anime/babylon-ed1dcc/uAXnB6uti_MsQX80Y6-How.jpg",
+            "slug": "babylon-ed1dcc"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Ерго Проксі",
+            "image": "https://cdn.hikka.io/content/anime/ergo-proxy-096caa/4k2bfT-9MsFgc3rvmuIPuA.jpg",
+            "slug": "ergo-proxy-096caa"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "5a522f0b-0428-45c4-b984-c8bcb34983cc",
+      "title": "Platinum collection, GOAT - Greatest of All Time",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Ох топ",
+        "Ах топ",
+        "мр топ",
+        "хм топ"
+      ],
+      "entries": 30,
+      "vote_score": 1,
+      "comments_count": 0,
+      "created": 1745140476,
+      "updated": 1775655316,
+      "author": {
+        "reference": "9ec0ae6c-62a7-4231-839b-46254145d7c2",
+        "username": "dinnamo1927",
+        "avatar": "https://cdn.hikka.io/uploads/dinnamo1927/avatar/630235cf-54a3-481a-befa-5ef92f84a8a3.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Ох топ",
+          "comment": null,
+          "content": {
+            "title": "Сталевий алхімік: Братерство",
+            "image": "https://cdn.hikka.io/content/anime/fullmetal-alchemist-brotherhood-fc524a/1dRVedKKpa2i_iiHmEcDhA.jpg",
+            "slug": "fullmetal-alchemist-brotherhood-fc524a"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Ох топ",
+          "comment": null,
+          "content": {
+            "title": "Мисливець х Мисливець",
+            "image": "https://cdn.hikka.io/content/anime/hunter-x-hunter-2011-f2b03a/PLUGrdkPd4UmVr51-VcGrw.jpg",
+            "slug": "hunter-x-hunter-2011-f2b03a"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Ох топ",
+          "comment": null,
+          "content": {
+            "title": "Зошит смерті",
+            "image": "https://cdn.hikka.io/content/anime/death-note-e967c4/teVaa4TVH214oLK-hN1XYA.jpg",
+            "slug": "death-note-e967c4"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "9745710c-adee-462a-adf2-549544d19aec",
+      "title": "Перегляд Сезонного Аніме 2024",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "аніме",
+        "сезон"
+      ],
+      "labels_order": [
+        "Зима 2024",
+        "Весна 2024",
+        "Літо 2024",
+        "Кінець 2024"
+      ],
+      "entries": 46,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1743430961,
+      "updated": 1743430961,
+      "author": {
+        "reference": "973a8168-d3b7-4d97-9c6c-b6c66dd20cba",
+        "username": "Chiaki",
+        "avatar": "https://cdn.hikka.io/uploads/Chiaki/avatar/3224de1e-1cd0-4743-af1d-34901c42aa58.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Зима 2024",
+          "comment": null,
+          "content": {
+            "title": "Я захоплююся чарівними дівчатками і...",
+            "image": "https://cdn.hikka.io/content/anime/mahou-shoujo-ni-akogarete-4fe4ef/w0CCoewNS6Ryci1_cz2ORQ.jpg",
+            "slug": "mahou-shoujo-ni-akogarete-4fe4ef"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Зима 2024",
+          "comment": null,
+          "content": {
+            "title": "Підземелля смакоти",
+            "image": "https://cdn.hikka.io/content/anime/dungeon-meshi-fa86ef/ITpBdVvwpA7smyh4FVN-SA.jpg",
+            "slug": "dungeon-meshi-fa86ef"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Зима 2024",
+          "comment": null,
+          "content": {
+            "title": "Королева зі скальпелем",
+            "image": "https://cdn.hikka.io/content/anime/gekai-elise-935c46/UQM_y4AVFowJYRicFVxtMQ.jpg",
+            "slug": "gekai-elise-935c46"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "3de5fe29-bdcc-48d0-90e1-c6184e512037",
+      "title": "Перегляд Сезонного Аніме 2025(Оновлюється)",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "аніме",
+        "сезон"
+      ],
+      "labels_order": [
+        "Зима 2025",
+        "Весна 2025",
+        "Літо 2025",
+        "Кінець 2025"
+      ],
+      "entries": 29,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1743428296,
+      "updated": 1744303252,
+      "author": {
+        "reference": "973a8168-d3b7-4d97-9c6c-b6c66dd20cba",
+        "username": "Chiaki",
+        "avatar": "https://cdn.hikka.io/uploads/Chiaki/avatar/3224de1e-1cd0-4743-af1d-34901c42aa58.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Зима 2025",
+          "comment": null,
+          "content": {
+            "title": "Монолог травниці - 2 сезон",
+            "image": "https://cdn.hikka.io/content/anime/kusuriya-no-hitorigoto-2nd-season-d43023/TMe9cn9nCoV1x69sl5hbpw.jpg",
+            "slug": "kusuriya-no-hitorigoto-2nd-season-d43023"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Зима 2025",
+          "comment": null,
+          "content": {
+            "title": "Карта детектива Амеку Такао",
+            "image": "https://cdn.hikka.io/content/anime/ameku-takao-no-suiri-karte-80800b/TSs0s6h9PrATP41VkgsYEw.jpg",
+            "slug": "ameku-takao-no-suiri-karte-80800b"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Зима 2025",
+          "comment": null,
+          "content": {
+            "title": "Сутінковий готель",
+            "image": "https://cdn.hikka.io/content/anime/tasokare-hotel-b2ed4c/LFJGPljL_OffB48XdioLYg.jpg",
+            "slug": "tasokare-hotel-b2ed4c"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "e95094ba-5535-4c06-9941-6a7a1b3030e2",
+      "title": "Прочитанні веб новели",
+      "content_type": "manga",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": true,
+      "tags": [
+        "web",
+        "novel"
+      ],
+      "labels_order": [
+        "В процесі",
+        "Завершено",
+        "Планую"
+      ],
+      "entries": 4,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1742410652,
+      "updated": 1760227486,
+      "author": {
+        "reference": "2083e580-5265-491e-aeb3-aecd6ab3a33c",
+        "username": "Nagicchi",
+        "avatar": "https://cdn.hikka.io/uploads/Nagicchi/avatar/8da2e0b3-62f1-4fb6-9b2d-32a4f0151a4a.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": "В процесі",
+          "comment": null,
+          "content": {
+            "title": "Переродившись у прохідного боса, приреченого загинути на початку гри, я вижив — зробивши героїнь своїми союзницями",
+            "image": "https://cdn.hikka.io/content/manga/tensei-shitara-joban-de-shinu-chuu-boss-datta-heroine-kenzoku-ka-de-ikinokoru-ff3ff6/htKCovOWTCwFMniZqCxkdg.jpg",
+            "slug": "tensei-shitara-joban-de-shinu-chuu-boss-datta-heroine-kenzoku-ka-de-ikinokoru-ff3ff6"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": "Завершено",
+          "comment": null,
+          "content": {
+            "title": "Я переродився покидьком з нетораре манґи, але героїню чомусь притягує до мене",
+            "image": "https://cdn.hikka.io/content/manga/netorare-manga-no-kuzu-otoko-ni-tensei-shita-hazu-ga-heroine-ga-yottekuru-ken-69fdd8/xjtzHrWqVsdxdRU9-uG0Eg.jpg",
+            "slug": "netorare-manga-no-kuzu-otoko-ni-tensei-shita-hazu-ga-heroine-ga-yottekuru-ken-69fdd8"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": "Завершено",
+          "comment": null,
+          "content": {
+            "title": "Te ni Ireta Saimin App de Yume no Harem Seikatsu wo Okuritai",
+            "image": "https://cdn.hikka.io/content/manga/te-ni-ireta-saimin-app-de-yume-no-harem-seikatsu-wo-okuritai-024cd6/QPthqxlkOoCI5UCPszZNkA.jpg",
+            "slug": "te-ni-ireta-saimin-app-de-yume-no-harem-seikatsu-wo-okuritai-024cd6"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "5a0f61fe-d34e-4a82-b639-f8b8da6e4c51",
+      "title": "Аніме про депресивних героїв",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Main"
+      ],
+      "entries": 4,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1741389956,
+      "updated": 1741389956,
+      "author": {
+        "reference": "12ec55da-dc9d-4c72-b9b5-64d3acc84d5b",
+        "username": "Nyeko",
+        "avatar": "https://cdn.hikka.io/uploads/Nyeko/avatar/bf3490eb-3f22-4b3a-a169-2997e5d6a2e4.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Main",
+          "comment": null,
+          "content": {
+            "title": "Ласкаво просимо до NHK!",
+            "image": "https://cdn.hikka.io/content/anime/nhk-ni-youkoso-03c3c7/SFVK2nmYh_dQLmLD3UvM8A.jpg",
+            "slug": "nhk-ni-youkoso-03c3c7"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Main",
+          "comment": null,
+          "content": {
+            "title": "Негативно-позитивний рибалка",
+            "image": "https://cdn.hikka.io/content/anime/negaposi-angler-45b143/7zTBCCpZRIZIcOoFdmDCpQ.jpg",
+            "slug": "negaposi-angler-45b143"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Main",
+          "comment": null,
+          "content": {
+            "title": "Моя романтична комедія не зовсім те, на що я очікував",
+            "image": "https://cdn.hikka.io/content/anime/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-7a8cd4/U6n_eTNW8h3M-3VsAUJTnQ.jpg",
+            "slug": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-7a8cd4"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "6cc3f6b8-73e0-476f-9078-3814cbc305f9",
+      "title": "Мої переклади манґ (Oleh665)",
+      "content_type": "manga",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": true,
+      "tags": [],
+      "labels_order": [],
+      "entries": 2,
+      "vote_score": 1,
+      "comments_count": 0,
+      "created": 1741307694,
+      "updated": 1741308124,
+      "author": {
+        "reference": "bc258fe1-3989-4903-bc00-7bdfe032f235",
+        "username": "Oleh665",
+        "avatar": "https://cdn.hikka.io/uploads/Oleh665/avatar/0685796c-0808-4392-a4f6-a41a46073b01.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Цей безглуздий переведений учень такий настирливий.",
+            "image": "https://cdn.hikka.io/content/manga/jijou-wo-shiranai-tenkousei-ga-guigui-kuru-92328c/us7SbACONEJ3dtSsVc_X_Q.jpg",
+            "slug": "jijou-wo-shiranai-tenkousei-ga-guigui-kuru-92328c"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Котоура",
+            "image": "https://cdn.hikka.io/content/manga/kotoura-san-669fbb/rM2g4fZOfge_LrfAotHXeA.jpg",
+            "slug": "kotoura-san-669fbb"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "a478c735-d507-4b50-b56a-af061c0e9cc5",
+      "title": "Цикл Історій - порядок перегляду відповідно ранобе",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Перший сезон",
+        "Другий сезон",
+        "Останній сезон",
+        "Міжсезоння (епізоди 1 - 8), Cезон монстрів (9 - 14)"
+      ],
+      "entries": 15,
+      "vote_score": 1,
+      "comments_count": 0,
+      "created": 1741273480,
+      "updated": 1741275832,
+      "author": {
+        "reference": "48224f0b-d9c5-47ce-a24f-9c19e3aad121",
+        "username": "Snigh",
+        "avatar": "https://cdn.hikka.io/uploads/Snigh/avatar/cae33e27-6173-419c-850e-28596094a208.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Перший сезон",
+          "comment": null,
+          "content": {
+            "title": "Історії монстрів",
+            "image": "https://cdn.hikka.io/content/anime/bakemonogatari-114ac3/WK2pWzBrrgsX75_-_bUiSg.jpg",
+            "slug": "bakemonogatari-114ac3"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Перший сезон",
+          "comment": null,
+          "content": {
+            "title": "Історії ран I: Залізна кров",
+            "image": "https://cdn.hikka.io/content/anime/kizumonogatari-i-tekketsu-hen-55009e/rutPFbccAJA9NFfWFS1LBw.jpg",
+            "slug": "kizumonogatari-i-tekketsu-hen-55009e"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Перший сезон",
+          "comment": null,
+          "content": {
+            "title": "Історії ран II: Палка кров",
+            "image": "https://cdn.hikka.io/content/anime/kizumonogatari-ii-nekketsu-hen-4dc367/oTBgaBFvdMkkxgobVZW2Tg.jpg",
+            "slug": "kizumonogatari-ii-nekketsu-hen-4dc367"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "32cb6ba7-5ee5-4c46-b23d-91b39969a6c8",
+      "title": "Історичні кани в іменах",
+      "content_type": "character",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "ゐ (Хіраґана wi)",
+        "ヰ (Катакана wi)",
+        "ゑ (Хіраґана we)",
+        "ヱ (Катакана we)"
+      ],
+      "entries": 20,
+      "vote_score": 1,
+      "comments_count": 0,
+      "created": 1740410480,
+      "updated": 1759759903,
+      "author": {
+        "reference": "23f98f78-5434-4ec5-a174-47a3734dc619",
+        "username": "Anifloppa",
+        "avatar": "https://cdn.hikka.io/uploads/Anifloppa/avatar/fe218502-e6ea-429f-af08-c585b9230fe3.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "character",
+          "order": 1,
+          "label": "ゐ (Хіраґана wi)",
+          "comment": null,
+          "content": {
+            "name": "Інаба Теї",
+            "image": "https://cdn.hikka.io/content/characters/tewi-inaba-494a2b/35WXp9FqKSvfC5jlsAUcZg.jpg",
+            "slug": "tewi-inaba-494a2b"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 2,
+          "label": "ゐ (Хіраґана wi)",
+          "comment": null,
+          "content": {
+            "name": "Іноїчі",
+            "image": "https://cdn.hikka.io/content/characters/inoichi-40229b/Ax1VImUEjlsPn_KjtEVadQ.jpg",
+            "slug": "inoichi-40229b"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 3,
+          "label": "ゐ (Хіраґана wi)",
+          "comment": null,
+          "content": {
+            "name": "Mai Shinomiya",
+            "image": "https://cdn.hikka.io/content/characters/mai-shinomiya-8b542d/9cmLPUNxEC7z8knb3w7EDA.jpg",
+            "slug": "mai-shinomiya-8b542d"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "5ae4684b-5289-4ff6-9880-7f52ffb93657",
+      "title": "ТОП 10",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021",
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2014",
+        "2000-ні"
+      ],
+      "entries": 123,
+      "vote_score": 4,
+      "comments_count": 0,
+      "created": 1740302207,
+      "updated": 1779983865,
+      "author": {
+        "reference": "7e87d57b-71aa-4781-82ca-4eb0266920fb",
+        "username": "Fishtex",
+        "avatar": "https://cdn.hikka.io/uploads/Fishtex/avatar/b33eade0-b7da-4d82-9583-b0936345902b.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "2026",
+          "comment": null,
+          "content": {
+            "title": "Ми з тобою — повні протилежності",
+            "image": "https://cdn.hikka.io/content/anime/seihantai-na-kimi-to-boku-0cd4ce/Tt6az_csc4VJqxHAvvY_eA.jpg",
+            "slug": "seihantai-na-kimi-to-boku-0cd4ce"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "2026",
+          "comment": null,
+          "content": {
+            "title": "Щоденник різних країн",
+            "image": "https://cdn.hikka.io/content/anime/ikoku-nikki-930cc2/6UyKvjwigIgSVaku73jrFg.jpg",
+            "slug": "ikoku-nikki-930cc2"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "2026",
+          "comment": null,
+          "content": {
+            "title": "Засуджений бути героєм: Тюремні записи 9004-го карального героїчного загону",
+            "image": "https://cdn.hikka.io/content/anime/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku-17426a/sFveu_bmOXg7ROZRaH1OyQ.jpg",
+            "slug": "yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku-17426a"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "5f2063d7-c873-41cd-9e3e-a8ae2642d751",
+      "title": "Дуже сподобалося :3",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 5,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1739261569,
+      "updated": 1739263541,
+      "author": {
+        "reference": "dd619dbc-14a9-495d-8001-48e6c43913e5",
+        "username": "Koneko",
+        "avatar": "https://cdn.hikka.io/uploads/kvv20082008/avatar/68fe77be-6882-461c-9d43-30da4cd78804.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Твоя квітнева брехня",
+            "image": "https://cdn.hikka.io/content/anime/shigatsu-wa-kimi-no-uso-2d850d/noaGMO-_b17b0RHF3BB0pQ.jpg",
+            "slug": "shigatsu-wa-kimi-no-uso-2d850d"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Татусі мимоволі",
+            "image": "https://cdn.hikka.io/content/anime/buddy-daddies-04d162/8x3Wz0Yy4EW6ASt74BP3Ag.jpg",
+            "slug": "buddy-daddies-04d162"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Зошит смерті",
+            "image": "https://cdn.hikka.io/content/anime/death-note-e967c4/teVaa4TVH214oLK-hN1XYA.jpg",
+            "slug": "death-note-e967c4"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "fda2539c-b4e6-4352-98d0-5a6e5ccd5e44",
+      "title": "TestCollectionForShareLink",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 2,
+      "vote_score": 0,
+      "comments_count": 8,
+      "created": 1739116420,
+      "updated": 1752620135,
+      "author": {
+        "reference": "1648e417-687c-4949-a134-c07931e5e7da",
+        "username": "testUser",
+        "avatar": "https://cdn.hikka.io/uploads/testUser/avatar/16c6e53b-ea5c-4e98-ae88-57d0700c9368.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Людина-бензопила",
+            "image": "https://cdn.hikka.io/content/anime/chainsaw-man-c204f3/C-mhDcQlvOpXNykIimTP0g.jpg",
+            "slug": "chainsaw-man-c204f3"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Монолог травниці",
+            "image": "https://cdn.hikka.io/content/anime/kusuriya-no-hitorigoto-f35f5f/upDUfV-2T6-BlMZnFGDJ0w.jpg",
+            "slug": "kusuriya-no-hitorigoto-f35f5f"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "21e2d82b-b0b6-4d81-8ddb-f5f146439acd",
+      "title": "Ререгляд плани",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 48,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1737772144,
+      "updated": 1764965575,
+      "author": {
+        "reference": "78531373-d2fe-42dd-9268-66ada22b9701",
+        "username": "copok",
+        "avatar": "https://cdn.hikka.io/uploads/copok/avatar/e2b52539-a9d2-4065-bfa3-0167a130b134.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Край самоцвітів",
+            "image": "https://cdn.hikka.io/content/anime/houseki-no-kuni-6abf59/3ZhQbkHMWP1BGQZliMkQJQ.jpg",
+            "slug": "houseki-no-kuni-6abf59"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Зошит смерті",
+            "image": "https://cdn.hikka.io/content/anime/death-note-e967c4/teVaa4TVH214oLK-hN1XYA.jpg",
+            "slug": "death-note-e967c4"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Ковбой Бібоп",
+            "image": "https://cdn.hikka.io/content/anime/cowboy-bebop-d572ee/JUqRUSAttIeSq2anGTrTvQ.jpg",
+            "slug": "cowboy-bebop-d572ee"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "126cb859-2880-452b-8279-634ae8251840",
+      "title": "Романтика яку субʼєктивно можна порекомендувати ",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Різноманітна романтика яка мені найбільше сподобалась "
+      ],
+      "entries": 35,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1736202502,
+      "updated": 1736377754,
+      "author": {
+        "reference": "b475c401-5a3e-4dce-8235-94faaa6b57d9",
+        "username": "NagitoTakashi",
+        "avatar": "https://cdn.hikka.io/uploads/NagitoTakashi/avatar/4c4521f7-a8c3-4ced-80d4-a6bade9f38ee.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Різноманітна романтика яка мені найбільше сподобалась ",
+          "comment": null,
+          "content": {
+            "title": "Хочу з’їсти твою підшлункову",
+            "image": "https://cdn.hikka.io/content/anime/kimi-no-suizou-wo-tabetai-5c735c/Zk2YNrTWGCWD6EUHUmlBfw.jpg",
+            "slug": "kimi-no-suizou-wo-tabetai-5c735c"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Різноманітна романтика яка мені найбільше сподобалась ",
+          "comment": null,
+          "content": {
+            "title": "Тунель у літо, прощальний вихід",
+            "image": "https://cdn.hikka.io/content/anime/natsu-e-no-tunnel-sayonara-no-deguchi-733c6f/jdPJhIE3Ixy0MA58hX4taA.jpg",
+            "slug": "natsu-e-no-tunnel-sayonara-no-deguchi-733c6f"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Різноманітна романтика яка мені найбільше сподобалась ",
+          "comment": null,
+          "content": {
+            "title": "Кланнад: Післяслово",
+            "image": "https://cdn.hikka.io/content/anime/clannad-after-story-ed6fbb/JWGqHOprOJ_yNIRL3-pexQ.jpg",
+            "slug": "clannad-after-story-ed6fbb"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "d1ef72f3-4dd4-416a-a871-994ed7d8e50d",
+      "title": "Для друзiв",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 10,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1734425810,
+      "updated": 1744464651,
+      "author": {
+        "reference": "584f9631-60cd-4f84-86f6-1eecd7daa7c9",
+        "username": "FeHiKc",
+        "avatar": "https://cdn.hikka.io/uploads/FeHiKc/avatar/603d67df-3d55-4417-a99c-453be329ea5a.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Рубіж Шанґрі-Ла: Поціновувач ігрошлаку кидає виклик божественній грі",
+            "image": "https://cdn.hikka.io/content/anime/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-e32b85/FZ2-08NiwCzU5n90ABlFVw.jpg",
+            "slug": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-e32b85"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Хибний спосіб використання магії зцілення",
+            "image": "https://cdn.hikka.io/content/anime/chiyu-mahou-no-machigatta-tsukaikata-senjou-wo-kakeru-kaifuku-youin-eb9c86/ZlAutu073UL2m4UdWfJO1g.jpg",
+            "slug": "chiyu-mahou-no-machigatta-tsukaikata-senjou-wo-kakeru-kaifuku-youin-eb9c86"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Невловимий самурай",
+            "image": "https://cdn.hikka.io/content/anime/nige-jouzu-no-wakagimi-fd3cfa/4nJJatmTQdrx7sPdyb-e2g.jpg",
+            "slug": "nige-jouzu-no-wakagimi-fd3cfa"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "8e2cd1af-3125-4fbc-aa35-a52f2e6a18c4",
+      "title": "Найкращі арки (манга)",
+      "content_type": "manga",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": true,
+      "tags": [],
+      "labels_order": [
+        "Chimera, spiders",
+        "Jose Mendosa",
+        "Shohoku",
+        "Tower",
+        "Kojiro",
+        "Ruhenheim",
+        "D4C",
+        "Farmer",
+        "K-2",
+        "Surpassing the Leader",
+        "Conviction Arc"
+      ],
+      "entries": 11,
+      "vote_score": 2,
+      "comments_count": 0,
+      "created": 1734039657,
+      "updated": 1743430759,
+      "author": {
+        "reference": "00a4128a-b7e6-43e0-848f-8848b9592948",
+        "username": "Arctor",
+        "avatar": "https://cdn.hikka.io/avatar.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": "Chimera, spiders",
+          "comment": null,
+          "content": {
+            "title": "Мисливець х Мисливець",
+            "image": "https://cdn.hikka.io/content/manga/hunter-x-hunter-f2e250/aTTdyoChfmsft4aAdaOdEw.jpg",
+            "slug": "hunter-x-hunter-f2e250"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": "Jose Mendosa",
+          "comment": null,
+          "content": {
+            "title": "Завтрашній Джо",
+            "image": "https://cdn.hikka.io/content/manga/ashita-no-joe-f83bd1/AHjnTyvHPyq6gsDU0eMiIw.jpg",
+            "slug": "ashita-no-joe-f83bd1"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": "Shohoku",
+          "comment": null,
+          "content": {
+            "title": "Слем Данк",
+            "image": "https://cdn.hikka.io/content/manga/slam-dunk-9a8ce9/ZLNWB6T-oNDe6mdUHGWUgw.jpg",
+            "slug": "slam-dunk-9a8ce9"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "e3c2b2c9-a8ef-4b4b-99dc-25baf6230a11",
+      "title": "Мої рецензії",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "рецензії"
+      ],
+      "labels_order": [
+        "\"Підземелля смакоти\" об'єднує все, що я люблю: фентезі, пригоди, гумор і кулінарію (хоч і доволі специфічну). Сюжет здається стандартним — герой спускається в підземелля, щоб врятувати сестру, — але момент із картинами, які частково розкривають історію утворення підземелля, створює інтригу. Вони не дають вичерпних відповідей, натомість залишаючи багато питань, які, сподіваюся, будуть поступово розкриті в майбутніх сезонах.  Проте основна принада аніме — це не сюжет, а унікальний підхід до кулінарії. Ідея готувати страви з монстрів виглядає настільки захопливою, що після кількох серій я не стримався і вирішив спробувати щось нове у своїй кухні. Цей підхід не лише дивує, а й надихає.  Головні персонажі роблять історію ще яскравішою:      Сенші, бородатий дворф, став моїм улюбленцем. Його спокій, кулінарна майстерність і загадковість додають історії особливого шарму. Це справжній \"чілл-гай\" із таємницями.     Лай (Лаюс) завжди прагне спробувати приготувати щось нове, навіть якщо це монстр, який виглядає зовсім неїстівним. Його ентузіазм заразливий.     Марсіль постійно вередує через меню, але зрештою завжди піддається і їсть страву. Їхній дует створює багато кумедних моментів, зокрема, коли Марсіль намагалася витягнути корінь мандрагори, піймавши гігантську летючу мишу.     Чілчак, на жаль, залишається менш розкритим персонажем. Про нього більше дізнаємося через репліки інших героїв, але я сподіваюся, що в наступному сезоні його історія отримає більше уваги.  Другорядні персонажі, як-от сестра Лая, виконують свої ролі, але не завжди залишають яскравий слід. Їхня участь важлива, проте емоційного зв’язку не вистачає.  Аніме в цілому майстерно передає атмосферу DnD, додаючи їй унікальний кулінарний шарм. Воно змушує не лише сміятися, а й надихає творити. Якщо ви любите підземелля, драконів, гумор і кулінарні експерименти — це аніме обов’язково припаде вам до душі. Оцінка: 10/10 Дивився в озвучці від Amanogawa.",
+        "What's up, guys! Рецензія на \"Пекельний рай\". Якщо ви любите самураїв, шинобі та несподівані повороти, цей тайтл створений для вас. Тут є все: екшн, драма, глибокі роздуми про життя та смерть і навіть краплинка японської філософії. Сюжет починається класично: Ґабімару, майстерний шинобі, якого неможливо вбити, отримує завдання дістати Еліксир Життя на загадковому острові, щоб врятувати своє життя. Його супутниця, Саґірі, кат, який має спостерігати за ним і вбити у разі потреби. Але все стає складнішим, коли герої потрапляють у цей \"рай\". Ґабімару — шинобі, вихований як елітний вбивця. Одруження змінило його світогляд, пробудивши бажання залишити життя найманця та знайти спокій. Але що цікаво: автори піднімають питання, чи Ґабімару — це людина зі своїми переконаннями, чи лише зброя з промитими з дитинства мізками? Саґірі — це більше ніж жінка з катаною. Вона не прагне довести щось світу чи боротися за права. Її мета — займатися тим, що вона любить, і ставати краще, незважаючи на суспільний тиск і страхи. Її образ відчувається справжнім, із вадами та сумнівами, що робить її близькою глядачеві. Динаміка між героями — одна з сильних сторін тайтлу. Вони не \"ідеальна пара\" і не намагаються такими стати. Їхній шлях — це пошук взаєморозуміння і довіри, де кожен допомагає іншому стати кращим. Острів, на якому відбуваються події, — це окремий персонаж. Його атмосфера, жахливі створіння та загрози додають сюжету особливого шарму. Але, чесно кажучи, деякі моменти були затягнутими. Наприклад, сцени з братами — вони просто не викликали емоцій. Хотілося повернутися до головних героїв або побачити щось більш динамічне. Загалом, \"Пекельний рай\" — це не лише історія про бійки чи пошуки еліксиру. Це тайтл про вибір, страхи та боротьбу за своє місце в цьому світі. Оцінка: 8/10. Рекомендую, якщо хочеться побачити більше, ніж звичайний екшн. Дивився в озвучці від Amanogawa."
+      ],
+      "entries": 2,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1732923950,
+      "updated": 1732984714,
+      "author": {
+        "reference": "1208a965-61ef-44ac-b750-7d9d936aeec0",
+        "username": "Psypoke",
+        "avatar": "https://cdn.hikka.io/uploads/Psypoke/avatar/d68b11c0-14bb-4c87-a7bd-9862795040f7.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "\"Підземелля смакоти\" об'єднує все, що я люблю: фентезі, пригоди, гумор і кулінарію (хоч і доволі специфічну). Сюжет здається стандартним — герой спускається в підземелля, щоб врятувати сестру, — але момент із картинами, які частково розкривають історію утворення підземелля, створює інтригу. Вони не дають вичерпних відповідей, натомість залишаючи багато питань, які, сподіваюся, будуть поступово розкриті в майбутніх сезонах.  Проте основна принада аніме — це не сюжет, а унікальний підхід до кулінарії. Ідея готувати страви з монстрів виглядає настільки захопливою, що після кількох серій я не стримався і вирішив спробувати щось нове у своїй кухні. Цей підхід не лише дивує, а й надихає.  Головні персонажі роблять історію ще яскравішою:      Сенші, бородатий дворф, став моїм улюбленцем. Його спокій, кулінарна майстерність і загадковість додають історії особливого шарму. Це справжній \"чілл-гай\" із таємницями.     Лай (Лаюс) завжди прагне спробувати приготувати щось нове, навіть якщо це монстр, який виглядає зовсім неїстівним. Його ентузіазм заразливий.     Марсіль постійно вередує через меню, але зрештою завжди піддається і їсть страву. Їхній дует створює багато кумедних моментів, зокрема, коли Марсіль намагалася витягнути корінь мандрагори, піймавши гігантську летючу мишу.     Чілчак, на жаль, залишається менш розкритим персонажем. Про нього більше дізнаємося через репліки інших героїв, але я сподіваюся, що в наступному сезоні його історія отримає більше уваги.  Другорядні персонажі, як-от сестра Лая, виконують свої ролі, але не завжди залишають яскравий слід. Їхня участь важлива, проте емоційного зв’язку не вистачає.  Аніме в цілому майстерно передає атмосферу DnD, додаючи їй унікальний кулінарний шарм. Воно змушує не лише сміятися, а й надихає творити. Якщо ви любите підземелля, драконів, гумор і кулінарні експерименти — це аніме обов’язково припаде вам до душі. Оцінка: 10/10 Дивився в озвучці від Amanogawa.",
+          "comment": null,
+          "content": {
+            "title": "Підземелля смакоти",
+            "image": "https://cdn.hikka.io/content/anime/dungeon-meshi-fa86ef/ITpBdVvwpA7smyh4FVN-SA.jpg",
+            "slug": "dungeon-meshi-fa86ef"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "What's up, guys! Рецензія на \"Пекельний рай\". Якщо ви любите самураїв, шинобі та несподівані повороти, цей тайтл створений для вас. Тут є все: екшн, драма, глибокі роздуми про життя та смерть і навіть краплинка японської філософії. Сюжет починається класично: Ґабімару, майстерний шинобі, якого неможливо вбити, отримує завдання дістати Еліксир Життя на загадковому острові, щоб врятувати своє життя. Його супутниця, Саґірі, кат, який має спостерігати за ним і вбити у разі потреби. Але все стає складнішим, коли герої потрапляють у цей \"рай\". Ґабімару — шинобі, вихований як елітний вбивця. Одруження змінило його світогляд, пробудивши бажання залишити життя найманця та знайти спокій. Але що цікаво: автори піднімають питання, чи Ґабімару — це людина зі своїми переконаннями, чи лише зброя з промитими з дитинства мізками? Саґірі — це більше ніж жінка з катаною. Вона не прагне довести щось світу чи боротися за права. Її мета — займатися тим, що вона любить, і ставати краще, незважаючи на суспільний тиск і страхи. Її образ відчувається справжнім, із вадами та сумнівами, що робить її близькою глядачеві. Динаміка між героями — одна з сильних сторін тайтлу. Вони не \"ідеальна пара\" і не намагаються такими стати. Їхній шлях — це пошук взаєморозуміння і довіри, де кожен допомагає іншому стати кращим. Острів, на якому відбуваються події, — це окремий персонаж. Його атмосфера, жахливі створіння та загрози додають сюжету особливого шарму. Але, чесно кажучи, деякі моменти були затягнутими. Наприклад, сцени з братами — вони просто не викликали емоцій. Хотілося повернутися до головних героїв або побачити щось більш динамічне. Загалом, \"Пекельний рай\" — це не лише історія про бійки чи пошуки еліксиру. Це тайтл про вибір, страхи та боротьбу за своє місце в цьому світі. Оцінка: 8/10. Рекомендую, якщо хочеться побачити більше, ніж звичайний екшн. Дивився в озвучці від Amanogawa.",
+          "comment": null,
+          "content": {
+            "title": "Пекельний рай",
+            "image": "https://cdn.hikka.io/content/anime/jigokuraku-27d345/jSjuBQ5EawPnqkvknhtTfQ.jpg",
+            "slug": "jigokuraku-27d345"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "fb283be1-8a70-41ac-9d4b-873d9d82927e",
+      "title": "Живчики",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "шьонен",
+        "пригоди"
+      ],
+      "labels_order": [],
+      "entries": 34,
+      "vote_score": 0,
+      "comments_count": 3,
+      "created": 1732755651,
+      "updated": 1748239775,
+      "author": {
+        "reference": "24e4c182-fc52-4d95-bc9c-824bdb7a7594",
+        "username": "vohnekrylyi",
+        "avatar": "https://cdn.hikka.io/uploads/vohnekrylyy/avatar/2ef3322c-06be-4def-82ff-775731167bed.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Сталевий алхімік: Братерство",
+            "image": "https://cdn.hikka.io/content/anime/fullmetal-alchemist-brotherhood-fc524a/1dRVedKKpa2i_iiHmEcDhA.jpg",
+            "slug": "fullmetal-alchemist-brotherhood-fc524a"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Мегалобокс: Колібрі і Бродяга",
+            "image": "https://cdn.hikka.io/content/anime/nomad-megalo-box-2-short-anime-94abc4/EwPikh2H7tduDf1bGv4-VA.jpg",
+            "slug": "nomad-megalo-box-2-short-anime-94abc4"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Дороро (2019)",
+            "image": "https://cdn.hikka.io/content/anime/dororo-b4bc96/9jZnRV14_NxY9R4tRKnuuA.jpg",
+            "slug": "dororo-b4bc96"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "73cc2696-07c2-425a-b937-e44b60f22d42",
+      "title": "Аніме з улюбленими опен/ендінґами",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Опенінґи",
+        "Ендінґи",
+        "Опенінґи + Ендінґи"
+      ],
+      "entries": 117,
+      "vote_score": 2,
+      "comments_count": 0,
+      "created": 1732652126,
+      "updated": 1764885432,
+      "author": {
+        "reference": "78531373-d2fe-42dd-9268-66ada22b9701",
+        "username": "copok",
+        "avatar": "https://cdn.hikka.io/uploads/copok/avatar/e2b52539-a9d2-4065-bfa3-0167a130b134.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Опенінґи",
+          "comment": null,
+          "content": {
+            "title": "Шалений азарт",
+            "image": "https://cdn.hikka.io/content/anime/kakegurui-dbf51b/j86aoOAkHrcdi0K6R229xQ.jpg",
+            "slug": "kakegurui-dbf51b"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Опенінґи",
+          "comment": null,
+          "content": {
+            "title": "Щоденник майбутнього",
+            "image": "https://cdn.hikka.io/content/anime/mirai-nikki-tv-f99003/uJFBzNzL447rEFfoUjKOYA.jpg",
+            "slug": "mirai-nikki-tv-f99003"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Опенінґи",
+          "comment": null,
+          "content": {
+            "title": "Домашня дівчина",
+            "image": "https://cdn.hikka.io/content/anime/domestic-na-kanojo-105fd8/FealE3EEmIIDEqUP5JV_SQ.jpg",
+            "slug": "domestic-na-kanojo-105fd8"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "ffb3edf7-5e88-41e2-a8c1-34747d3b2ac0",
+      "title": "Мій топ аніме",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Топ 10",
+        "10-✓"
+      ],
+      "entries": 6,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1732329831,
+      "updated": 1737340616,
+      "author": {
+        "reference": "527c512b-a1b4-4e47-8472-5c1bb17b6126",
+        "username": "maksimvlasovets.am",
+        "avatar": "https://cdn.hikka.io/avatar.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Топ 10",
+          "comment": null,
+          "content": {
+            "title": "Сталевий алхімік: Братерство",
+            "image": "https://cdn.hikka.io/content/anime/fullmetal-alchemist-brotherhood-fc524a/1dRVedKKpa2i_iiHmEcDhA.jpg",
+            "slug": "fullmetal-alchemist-brotherhood-fc524a"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Топ 10",
+          "comment": null,
+          "content": {
+            "title": "Сталевий алхімік",
+            "image": "https://cdn.hikka.io/content/anime/fullmetal-alchemist-3302ad/2nuX89jTPzV5fzYfXumlQw.jpg",
+            "slug": "fullmetal-alchemist-3302ad"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Топ 10",
+          "comment": null,
+          "content": {
+            "title": "Магічна битва",
+            "image": "https://cdn.hikka.io/content/anime/jujutsu-kaisen-3c90f8/j6q8tohk59EM8je8HpWKTg.jpg",
+            "slug": "jujutsu-kaisen-3c90f8"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "c76c6053-ce17-4e97-8315-f36842e24d1a",
+      "title": "Якісна еротика",
+      "content_type": "manga",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": true,
+      "tags": [],
+      "labels_order": [
+        "Гарем",
+        "Вільні відносини, але хлопець вибірковий",
+        "Моногамія"
+      ],
+      "entries": 8,
+      "vote_score": 4,
+      "comments_count": 6,
+      "created": 1731655046,
+      "updated": 1767129463,
+      "author": {
+        "reference": "2083e580-5265-491e-aeb3-aecd6ab3a33c",
+        "username": "Nagicchi",
+        "avatar": "https://cdn.hikka.io/uploads/Nagicchi/avatar/8da2e0b3-62f1-4fb6-9b2d-32a4f0151a4a.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": "Гарем",
+          "comment": null,
+          "content": {
+            "title": "Раб спеціального призначення",
+            "image": "https://cdn.hikka.io/content/manga/mato-seihei-no-slave-5ddc38/fNnLmQ1VPe-3gAtHu99LWw.jpg",
+            "slug": "mato-seihei-no-slave-5ddc38"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": "Гарем",
+          "comment": null,
+          "content": {
+            "title": "Імаїдзумі привів усіх ґяру до себе додому",
+            "image": "https://cdn.hikka.io/content/manga/imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii-deep-5cee97/QKFBldkf67WTjIOaI1fdZQ.jpg",
+            "slug": "imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii-deep-5cee97"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": "Гарем",
+          "comment": null,
+          "content": {
+            "title": "Я одружився з матір'ю героя, який забрав у мене все!",
+            "image": "https://cdn.hikka.io/content/manga/yuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita-8614b5/MU7ZTBeGURavTtUlyI7rHg.jpg",
+            "slug": "yuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita-8614b5"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "b4168899-39f3-4c43-aba1-8736ec413a8a",
+      "title": " Stayler",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": true,
+      "tags": [],
+      "labels_order": [
+        "1"
+      ],
+      "entries": 145,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1729959870,
+      "updated": 1729959948,
+      "author": {
+        "reference": "4ccd82dc-ddb3-4dd3-b920-ce7f71dde72e",
+        "username": "KinretVanPoil",
+        "avatar": "https://cdn.hikka.io/avatar.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "1",
+          "comment": null,
+          "content": {
+            "title": "Побачення з життям - 3 сезон",
+            "image": "https://cdn.hikka.io/content/anime/date-a-live-iii-71690e/bfW5sydiKHH39B0SzHallQ.jpg",
+            "slug": "date-a-live-iii-71690e"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "1",
+          "comment": null,
+          "content": {
+            "title": "Акціонерне товариство «Маґі-Люм'єр»",
+            "image": "https://cdn.hikka.io/content/anime/kabushikigaisha-magi-lumiere-263304/pyJyfbrnoVlqxb0NS7kaNg.jpg",
+            "slug": "kabushikigaisha-magi-lumiere-263304"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "1",
+          "comment": null,
+          "content": {
+            "title": "Наляканий вчитель у школі йокаїв",
+            "image": "https://cdn.hikka.io/content/anime/youkai-gakkou-no-sensei-hajimemashita-2cf8b5/eyymEu1it7gH2LWISz3h2g.jpg",
+            "slug": "youkai-gakkou-no-sensei-hajimemashita-2cf8b5"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "d7222f69-dd44-42a0-a3df-3c521b28d3c6",
+      "title": "????",
+      "content_type": "character",
+      "visibility": "unlisted",
+      "spoiler": true,
+      "nsfw": true,
+      "tags": [],
+      "labels_order": [
+        "Усе добре, наче",
+        "Нема проблем із пов'язаним, є з ім'ям",
+        "Нема проблем із пов'язаним, є з постером та ім'ям",
+        "Пов'язане з непов'язаним",
+        "Не існує",
+        "Не існує? (Можливо, дубль)",
+        "Дубль",
+        "Дубль + Проблеми з пов'язаним",
+        "Трипль блять",
+        "Не той сейю",
+        "Не той сейю?",
+        "МАЛЕ, НАХУЯ ЦЕ, ЦЕ Ж ПЕРС ДО РЕЇНКАРНАЦІЇ"
+      ],
+      "entries": 217,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1728749520,
+      "updated": 1780239968,
+      "author": {
+        "reference": "23f98f78-5434-4ec5-a174-47a3734dc619",
+        "username": "Anifloppa",
+        "avatar": "https://cdn.hikka.io/uploads/Anifloppa/avatar/fe218502-e6ea-429f-af08-c585b9230fe3.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "character",
+          "order": 1,
+          "label": "Усе добре, наче",
+          "comment": null,
+          "content": {
+            "name": "Фу Оростор",
+            "image": "https://cdn.hikka.io/content/characters/orostor-fu-d6f3c1/m-GrFzA8iUd0PZyaktDUuw.jpg",
+            "slug": "orostor-fu-d6f3c1"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 2,
+          "label": "Усе добре, наче",
+          "comment": null,
+          "content": {
+            "name": "Кодама Наґахара",
+            "image": null,
+            "slug": "kodama-nagahara-df4e7f"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 3,
+          "label": "Усе добре, наче",
+          "comment": null,
+          "content": {
+            "name": "Такеяма Такеру",
+            "image": null,
+            "slug": "takeru-takeyama-8f5cce"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "31188ca4-4e8a-445d-9bb8-13fc5e31fd40",
+      "title": "На переклад",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 13,
+      "vote_score": 1,
+      "comments_count": 0,
+      "created": 1728461533,
+      "updated": 1769478833,
+      "author": {
+        "reference": "c24c6a58-e497-4bbb-8d40-a5169b75bd53",
+        "username": "KitsUk",
+        "avatar": "https://cdn.hikka.io/avatar.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Яка ж Ви незграбна, пані Уено",
+            "image": "https://cdn.hikka.io/content/anime/ueno-san-wa-bukiyou-a6c02e/3DohW5hhJSIxUvJ8ffv5zQ.jpg",
+            "slug": "ueno-san-wa-bukiyou-a6c02e"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Могутня Берді: Розшифровка",
+            "image": "https://cdn.hikka.io/content/anime/tetsuwan-birdy-decode-24704a/SmYKscZ0fEAj0kjv8dSl7g.jpg",
+            "slug": "tetsuwan-birdy-decode-24704a"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Aquarion Logos",
+            "image": "https://cdn.hikka.io/content/anime/aquarion-logos-00f615/NTbrnmJKU0LDLXwgacxlsw.jpg",
+            "slug": "aquarion-logos-00f615"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "bfa8db51-0408-4aef-bc43-c448de66c232",
+      "title": "Аніме / Топ за роками",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "аніме",
+        "топ"
+      ],
+      "labels_order": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021",
+        "2020",
+        "2011",
+        "2019",
+        "2018",
+        "2017",
+        "2016 (погано пам'ятаю)",
+        "3736",
+        "2015",
+        "2013",
+        "2012",
+        "2010",
+        "2009",
+        "2008",
+        "2006",
+        "2004",
+        "1990-ті",
+        "2002"
+      ],
+      "entries": 177,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1728216786,
+      "updated": 1748288724,
+      "author": {
+        "reference": "48224f0b-d9c5-47ce-a24f-9c19e3aad121",
+        "username": "Snigh",
+        "avatar": "https://cdn.hikka.io/uploads/Snigh/avatar/cae33e27-6173-419c-850e-28596094a208.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "2025",
+          "comment": null,
+          "content": {
+            "title": "Тільки я візьму новий рівень: Вихід із тіні",
+            "image": "https://cdn.hikka.io/content/anime/ore-dake-level-up-na-ken-season-2-arise-from-the-shadow-0f969d/pv4kCDpu5aQl67BAB48WYg.jpg",
+            "slug": "ore-dake-level-up-na-ken-season-2-arise-from-the-shadow-0f969d"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "2024",
+          "comment": null,
+          "content": {
+            "title": "Орбіта: Про рух Землі",
+            "image": "https://cdn.hikka.io/content/anime/chi-chikyuu-no-undou-ni-tsuite-efd0b5/IqRvu7uLZVuzOUUBhD_AmQ.jpg",
+            "slug": "chi-chikyuu-no-undou-ni-tsuite-efd0b5"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "2024",
+          "comment": null,
+          "content": {
+            "title": "Підземелля смакоти",
+            "image": "https://cdn.hikka.io/content/anime/dungeon-meshi-fa86ef/ITpBdVvwpA7smyh4FVN-SA.jpg",
+            "slug": "dungeon-meshi-fa86ef"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "ddabac51-90cc-4fea-a6a9-9dc8a2724595",
+      "title": "Можна або озвучити, або перекласти Частина 2",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "перекласти",
+        "озвучити"
+      ],
+      "labels_order": [
+        "Нічого нема"
+      ],
+      "entries": 41,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1727566630,
+      "updated": 1729630804,
+      "author": {
+        "reference": "3a596c09-28e9-43ee-add4-e6a8f35ec3ac",
+        "username": "Barkes",
+        "avatar": "https://cdn.hikka.io/uploads/Barkes/avatar/3c2ad1ac-c85e-49f8-b0a7-a0e134d90efd.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Нічого нема",
+          "comment": null,
+          "content": {
+            "title": "Панчлайн",
+            "image": "https://cdn.hikka.io/content/anime/punch-line-f6faa3/6Dkf1C6el2xGrw_GMbwSEw.jpg",
+            "slug": "punch-line-f6faa3"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Нічого нема",
+          "comment": null,
+          "content": {
+            "title": "Квартет потраплянців: Інший світ",
+            "image": "https://cdn.hikka.io/content/anime/isekai-quartet-movie-another-world-fc51bb/TjQNGIyOqs1hYx1arQjnRg.jpg",
+            "slug": "isekai-quartet-movie-another-world-fc51bb"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Нічого нема",
+          "comment": null,
+          "content": {
+            "title": "Тебе викликають, Азазелю OVA",
+            "image": "https://cdn.hikka.io/content/anime/yondemasu-yo-azazel-san-5f2203/6bVIEZAu8HORYPcijvm1SA.jpg",
+            "slug": "yondemasu-yo-azazel-san-5f2203"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "919dff9c-d9e9-4ebd-aca4-047c077cefe3",
+      "title": "Можна або озвучити, або перекласти Частина 1",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "саби",
+        "старе",
+        "нове"
+      ],
+      "labels_order": [
+        "Лише саби",
+        "Часткові саби",
+        "Часткові саби, часткова озвучка",
+        "Повні саби, часткова озвучка",
+        "Часткова озвучка",
+        "Нічого нема"
+      ],
+      "entries": 500,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1727468224,
+      "updated": 1727570808,
+      "author": {
+        "reference": "3a596c09-28e9-43ee-add4-e6a8f35ec3ac",
+        "username": "Barkes",
+        "avatar": "https://cdn.hikka.io/uploads/Barkes/avatar/3c2ad1ac-c85e-49f8-b0a7-a0e134d90efd.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Лише саби",
+          "comment": null,
+          "content": {
+            "title": "Обан: Зоряні Гонки",
+            "image": "https://cdn.hikka.io/content/anime/oban-star-racers-4aeb22/fXyySuq2N6CtvcGIP41Ptw.jpg",
+            "slug": "oban-star-racers-4aeb22"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Лише саби",
+          "comment": null,
+          "content": {
+            "title": "Розквітни, мов квіточка",
+            "image": "https://cdn.hikka.io/content/anime/na-nare-hana-nare-79f61e/QoCO28-p53YGveBjV9JwZw.jpg",
+            "slug": "na-nare-hana-nare-79f61e"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Лише саби",
+          "comment": null,
+          "content": {
+            "title": "Миля місячного світла: Вільний зліт",
+            "image": "https://cdn.hikka.io/content/anime/moonlight-mile-1st-season-lift-off-a06b98/-QHnagzyQaCsrrzYBRaeKA.jpg",
+            "slug": "moonlight-mile-1st-season-lift-off-a06b98"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "076eef84-d443-48bc-9480-70c247619e47",
+      "title": "Сьоздьо ",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 15,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1727216714,
+      "updated": 1729902366,
+      "author": {
+        "reference": "ccff4e6f-6cbf-42a2-9b08-a2837d94e98f",
+        "username": "EiraFav",
+        "avatar": "https://cdn.hikka.io/uploads/Alina/avatar/bb08b840-c711-4730-8a96-cbb7be952053.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Хорімія",
+            "image": "https://cdn.hikka.io/content/anime/horimiya-18b6d8/_19i-wrk_M7dvcCSMpH6Rw.jpg",
+            "slug": "horimiya-18b6d8"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Приємно познайомитись, Бог",
+            "image": "https://cdn.hikka.io/content/anime/kamisama-hajimemashita-210981/M6O_z0ZmjweTU8gCRl6tXQ.jpg",
+            "slug": "kamisama-hajimemashita-210981"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Нещастя кохання",
+            "image": "https://cdn.hikka.io/content/anime/to-love-ru-280c19/FWqT3CIr1mvapvu6rkY-lA.jpg",
+            "slug": "to-love-ru-280c19"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "08322ab0-74ee-4189-a346-2533e8041a4d",
+      "title": "Сьойнен жанр як мистецво ",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "сьойнен",
+        "сюжет",
+        "битви"
+      ],
+      "labels_order": [],
+      "entries": 32,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1727216362,
+      "updated": 1729439913,
+      "author": {
+        "reference": "ccff4e6f-6cbf-42a2-9b08-a2837d94e98f",
+        "username": "EiraFav",
+        "avatar": "https://cdn.hikka.io/uploads/Alina/avatar/bb08b840-c711-4730-8a96-cbb7be952053.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Магічна битва",
+            "image": "https://cdn.hikka.io/content/anime/jujutsu-kaisen-3c90f8/j6q8tohk59EM8je8HpWKTg.jpg",
+            "slug": "jujutsu-kaisen-3c90f8"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Хвіст феї",
+            "image": "https://cdn.hikka.io/content/anime/fairy-tail-c88b79/WbqpWp2n_aPRlrbFuju6XA.jpg",
+            "slug": "fairy-tail-c88b79"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Вбивця демонів",
+            "image": "https://cdn.hikka.io/content/anime/kimetsu-no-yaiba-6d4c98/YEYHvLADhTPCKy3N1OXNnA.jpg",
+            "slug": "kimetsu-no-yaiba-6d4c98"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "e3907d8d-aa64-4b54-a2cb-1d95161c80ae",
+      "title": "Хентай, підбірОчка",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": true,
+      "tags": [],
+      "labels_order": [],
+      "entries": 13,
+      "vote_score": 1,
+      "comments_count": 0,
+      "created": 1726159289,
+      "updated": 1726161163,
+      "author": {
+        "reference": "cc0b735d-b5d0-4c28-9624-cc60a37ad081",
+        "username": "Benihime",
+        "avatar": "https://cdn.hikka.io/uploads/Benihime/avatar/7afdd920-ef5c-4bba-ba95-1e69e990529d.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Чорна Біблія",
+            "image": "https://cdn.hikka.io/content/anime/bible-black-65bac2/nfII46QERbEf151vRc_yoA.jpg",
+            "slug": "bible-black-65bac2"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Переповнення",
+            "image": "https://cdn.hikka.io/content/anime/overflow-fd4028/Sl-gr-hW7b1Eoiv_lY6Gtw.jpg",
+            "slug": "overflow-fd4028"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Моя колишня зведена сестра-правопорушниця стала матір'ю-годувальницею",
+            "image": "https://cdn.hikka.io/content/anime/ane-wa-yanmama-junyuu-chuu-f8afc0/bu59LkUvXWZNoTMtnrTVvw.jpg",
+            "slug": "ane-wa-yanmama-junyuu-chuu-f8afc0"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "2c78069e-3e73-4c00-8a38-9f9ae4dd2cb1",
+      "title": "Опенінги",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 44,
+      "vote_score": 1,
+      "comments_count": 0,
+      "created": 1726088884,
+      "updated": 1765879340,
+      "author": {
+        "reference": "50626464-5d0b-4d21-a6f5-75b0f5faf080",
+        "username": "Darkholm",
+        "avatar": "https://cdn.hikka.io/uploads/Darkholm/avatar/d601bf6f-59e2-4de6-8110-0e8bf9e0b25b.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Девілмен: Плаксій",
+            "image": "https://cdn.hikka.io/content/anime/devilman-crybaby-04a905/6WWGnQiEzJu0mBhybigArQ.jpg",
+            "slug": "devilman-crybaby-04a905"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Експерименти Лейн",
+            "image": "https://cdn.hikka.io/content/anime/serial-experiments-lain-d9d0c4/9Aee5jd12y24Ma7kCSFMaw.jpg",
+            "slug": "serial-experiments-lain-d9d0c4"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Фантом: Реквієм",
+            "image": "https://cdn.hikka.io/content/anime/phantom-requiem-for-the-phantom-69e5c7/uSkyKA6VTbH1gvQ1vS6UVg.jpg",
+            "slug": "phantom-requiem-for-the-phantom-69e5c7"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "a76795a6-ee54-4c66-9224-371907b3461d",
+      "title": "Цікаві романтичні Аніме ",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "романтика",
+        "аніме",
+        "ромком"
+      ],
+      "labels_order": [],
+      "entries": 11,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1725287377,
+      "updated": 1777841844,
+      "author": {
+        "reference": "8428c2a7-a32a-490f-a072-12d9b3a7c143",
+        "username": "TrafalgarLaw",
+        "avatar": "https://cdn.hikka.io/uploads/sinyukanton16/avatar/64fee471-1450-431d-bbec-5de864da8dde.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Хорімія",
+            "image": "https://cdn.hikka.io/content/anime/horimiya-18b6d8/_19i-wrk_M7dvcCSMpH6Rw.jpg",
+            "slug": "horimiya-18b6d8"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Ця порцелянова лялечка закохалася",
+            "image": "https://cdn.hikka.io/content/anime/sono-bisque-doll-wa-koi-wo-suru-0a2f14/zcLbOQr2k_PKJRZ3tdA8tA.jpg",
+            "slug": "sono-bisque-doll-wa-koi-wo-suru-0a2f14"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Пітьма всередині мене",
+            "image": "https://cdn.hikka.io/content/anime/boku-no-kokoro-no-yabai-yatsu-fb5aeb/Twg4jdnY81m0srmJG5woVQ.jpg",
+            "slug": "boku-no-kokoro-no-yabai-yatsu-fb5aeb"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "79ff65be-5ffc-46ed-b90b-69a74cac7185",
+      "title": "Спортивні аніме",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "спорт",
+        "аніме",
+        "спортивніаніме"
+      ],
+      "labels_order": [],
+      "entries": 5,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1725286162,
+      "updated": 1777841926,
+      "author": {
+        "reference": "8428c2a7-a32a-490f-a072-12d9b3a7c143",
+        "username": "TrafalgarLaw",
+        "avatar": "https://cdn.hikka.io/uploads/sinyukanton16/avatar/64fee471-1450-431d-bbec-5de864da8dde.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Волейбол!!",
+            "image": "https://cdn.hikka.io/content/anime/haikyuu-2830c1/wgETm0E-3ZbIQyRy4d0yqw.jpg",
+            "slug": "haikyuu-2830c1"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Відчуй вітер",
+            "image": "https://cdn.hikka.io/content/anime/kaze-ga-tsuyoku-fuiteiru-ce4439/9XV9muFRetmAfKpfHaTFkw.jpg",
+            "slug": "kaze-ga-tsuyoku-fuiteiru-ce4439"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Ао Аші",
+            "image": "https://cdn.hikka.io/content/anime/ao-ashi-b41df5/g6Qfpf1QyMoctDyqM9PTPg.jpg",
+            "slug": "ao-ashi-b41df5"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "e14de612-55ea-4c81-8844-6b500d73fcbd",
+      "title": "Manga Recap, де відсутні персонажі",
+      "content_type": "manga",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": true,
+      "tags": [
+        "manga",
+        "recap",
+        "манґа"
+      ],
+      "labels_order": [
+        "Backlog",
+        "In progress",
+        "Додано на MAL",
+        "Перекладено до Онґоїнґу",
+        "Завершено"
+      ],
+      "entries": 40,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1723912164,
+      "updated": 1764838304,
+      "author": {
+        "reference": "2083e580-5265-491e-aeb3-aecd6ab3a33c",
+        "username": "Nagicchi",
+        "avatar": "https://cdn.hikka.io/uploads/Nagicchi/avatar/8da2e0b3-62f1-4fb6-9b2d-32a4f0151a4a.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": "Backlog",
+          "comment": null,
+          "content": {
+            "title": "Лицар-вигнанець знає, як обіграти систему",
+            "image": "https://cdn.hikka.io/content/manga/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru-62701e/ofzRgia6uJYw20bQsuMJaw.jpg",
+            "slug": "tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru-62701e"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": "Backlog",
+          "comment": null,
+          "content": {
+            "title": "Імаїдзумі привів усіх ґяру до себе додому",
+            "image": "https://cdn.hikka.io/content/manga/imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii-deep-5cee97/QKFBldkf67WTjIOaI1fdZQ.jpg",
+            "slug": "imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii-deep-5cee97"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": "Backlog",
+          "comment": null,
+          "content": {
+            "title": "Хоч я дворянин із зайвою вагою, але зі спогадами про минуле життя я вирощу свого молодшого брата",
+            "image": "https://cdn.hikka.io/content/manga/shirobuta-kizoku-desu-ga-zense-no-kioku-ga-haeta-node-hiyoko-na-otouto-sodatemasu-comic-2c2df0/dWbwWCi8NC93TQzC0OWUdw.jpg",
+            "slug": "shirobuta-kizoku-desu-ga-zense-no-kioku-ga-haeta-node-hiyoko-na-otouto-sodatemasu-comic-2c2df0"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "012fd69a-30ad-4be9-9397-d90f4a9fdd07",
+      "title": "Особисті підбірки",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Фільми",
+        "Детектив",
+        "Психологія",
+        "Комедія",
+        "Меха",
+        "Романтика",
+        "Бл",
+        "Шьонен",
+        "Супер сили",
+        "Фантастика",
+        "НФантастика",
+        "Ісекай",
+        "Епоха королів та магії",
+        "Дівчата-чарівниці",
+        "Цікавий сетинг"
+      ],
+      "entries": 45,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1723370801,
+      "updated": 1780038512,
+      "author": {
+        "reference": "8e9cfbfb-0c4f-4f65-9e1e-894c59f00939",
+        "username": "Iris_flowers",
+        "avatar": "https://cdn.hikka.io/uploads/Iris_flowers/UploadTypeEnum.avatar/5e4b5925-807a-4fed-a8c9-fb707d916fff.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Фільми",
+          "comment": null,
+          "content": {
+            "title": "Твоє ім’я",
+            "image": "https://cdn.hikka.io/content/anime/kimi-no-na-wa-945779/F74__Da7B5le9RWGQg0YQg.jpg",
+            "slug": "kimi-no-na-wa-945779"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Фільми",
+          "comment": null,
+          "content": {
+            "title": "Історія кохання Тамако",
+            "image": "https://cdn.hikka.io/content/anime/tamako-love-story-120552/zUlhZOaGpZr7LpZOF88q_A.jpg",
+            "slug": "tamako-love-story-120552"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Фільми",
+          "comment": null,
+          "content": {
+            "title": "Без гри нема життя: Зеро",
+            "image": "https://cdn.hikka.io/content/anime/no-game-no-life-zero-64f35c/JrbHIdZeeFUYKC0-yAx1XQ.jpg",
+            "slug": "no-game-no-life-zero-64f35c"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "6d84f97f-e52c-4705-b3d7-e2d1df9193db",
+      "title": "Маловідомі манґи, які заслуговують отримати аніме-адаптацію",
+      "content_type": "manga",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": true,
+      "tags": [],
+      "labels_order": [
+        "Без адаптації",
+        "Отримали адаптацію"
+      ],
+      "entries": 22,
+      "vote_score": 0,
+      "comments_count": 9,
+      "created": 1722094078,
+      "updated": 1773418936,
+      "author": {
+        "reference": "2083e580-5265-491e-aeb3-aecd6ab3a33c",
+        "username": "Nagicchi",
+        "avatar": "https://cdn.hikka.io/uploads/Nagicchi/avatar/8da2e0b3-62f1-4fb6-9b2d-32a4f0151a4a.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": "Без адаптації",
+          "comment": null,
+          "content": {
+            "title": "Нумо відкриємо готель на острові з підземеллям!",
+            "image": "https://cdn.hikka.io/content/manga/dungeon-tou-de-yadoya-wo-yarou-souzou-mahou-wo-moratta-ore-no-hosoude-hanjouki-503e99/6HStqnKaRBzQaqrEB8ktkw.jpg",
+            "slug": "dungeon-tou-de-yadoya-wo-yarou-souzou-mahou-wo-moratta-ore-no-hosoude-hanjouki-503e99"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": "Без адаптації",
+          "comment": null,
+          "content": {
+            "title": "Стратегія реінкарнованого перевізника для іншого світу",
+            "image": "https://cdn.hikka.io/content/manga/tensei-nihakobinin-no-isekai-kouryakuhou-939b79/vMOF0iFm-wLGknCT_VNozA.jpg",
+            "slug": "tensei-nihakobinin-no-isekai-kouryakuhou-939b79"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": "Без адаптації",
+          "comment": null,
+          "content": {
+            "title": "Я переродився покидьком з нетораре манґи, але героїню чомусь притягує до мене",
+            "image": "https://cdn.hikka.io/content/manga/netorare-manga-no-kuzu-otoko-ni-tensei-shita-hazu-ga-heroine-ga-yottekuru-ken-69fdd8/xjtzHrWqVsdxdRU9-uG0Eg.jpg",
+            "slug": "netorare-manga-no-kuzu-otoko-ni-tensei-shita-hazu-ga-heroine-ga-yottekuru-ken-69fdd8"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "bb5cddf5-2bff-4617-9847-93d7822e362b",
+      "title": "В якому порядку дивитися Fate (Доля)",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": true,
+      "tags": [
+        "fate"
+      ],
+      "labels_order": [],
+      "entries": 13,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1721426191,
+      "updated": 1721573568,
+      "author": {
+        "reference": "47c05e37-758b-4ced-9a41-a8c1917fa1c0",
+        "username": "Zayder",
+        "avatar": "https://cdn.hikka.io/uploads/Zayder/avatar/13e7abe8-22cf-442e-8f79-e67a08accb49.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Доля/Початок",
+            "image": "https://cdn.hikka.io/content/anime/fatezero-88dfaf/9V-5j2veuItI4W3jKLDkag.jpg",
+            "slug": "fatezero-88dfaf"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Доля/Ніч битви: Світ нескінченних клинків - 2 сезон",
+            "image": "https://cdn.hikka.io/content/anime/fatestay-night-unlimited-blade-works-2nd-season-8f8ba0/j2GJxStFeeyv9yMUT7EazA.jpg",
+            "slug": "fatestay-night-unlimited-blade-works-2nd-season-8f8ba0"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Доля/Ніч битви: Дотик небес I - Віща квітка",
+            "image": "https://cdn.hikka.io/content/anime/fatestay-night-movie-heavens-feel-i-presage-flower-a5ae57/1s_lHKks0sMlcpRFFcHf5w.jpg",
+            "slug": "fatestay-night-movie-heavens-feel-i-presage-flower-a5ae57"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "4b798504-eef6-4da4-b4d2-8c405ba23c0c",
+      "title": "Лічильник",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 84,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1720202563,
+      "updated": 1774395843,
+      "author": {
+        "reference": "42dd45b5-dedc-45d6-9c0b-4af571b21222",
+        "username": "oneOd1n",
+        "avatar": "https://cdn.hikka.io/uploads/oneOd1n/avatar/fb2def39-f2d5-4ca2-83c0-d87275cd6710.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Проводжальниця Фрірен",
+            "image": "https://cdn.hikka.io/content/anime/sousou-no-frieren-ad4e3e/8D-SGEkCBMAUE7CgEt9UPQ.jpg",
+            "slug": "sousou-no-frieren-ad4e3e"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Сходження Героя щита",
+            "image": "https://cdn.hikka.io/content/anime/tate-no-yuusha-no-nariagari-f4fd3c/V59IizMVz7XNTYBHxu_8YQ.jpg",
+            "slug": "tate-no-yuusha-no-nariagari-f4fd3c"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Гра в друзів",
+            "image": "https://cdn.hikka.io/content/anime/tomodachi-game-6e728a/A-YLguZj7d158BX5pjcHrQ.jpg",
+            "slug": "tomodachi-game-6e728a"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "4f6ebbb0-ec1d-44ce-ba66-fd43673e22db",
+      "title": "TestCollectiob",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": true,
+      "nsfw": true,
+      "tags": [
+        "фівфівіфвфівфіві",
+        "фівіфвіфвфівіфві",
+        "фівфівіфвфівфівф"
+      ],
+      "labels_order": [],
+      "entries": 7,
+      "vote_score": 1,
+      "comments_count": 35,
+      "created": 1717174524,
+      "updated": 1740954634,
+      "author": {
+        "reference": "5bce6639-b99e-455c-b622-78be1f35e1f1",
+        "username": "Lorg0nTest",
+        "avatar": "https://cdn.hikka.io/uploads/Lorg0nTe/avatar/f41ef6cf-6ccb-40db-b913-16cc01db90ad.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Шлях Наруто",
+            "image": "https://cdn.hikka.io/content/anime/road-of-naruto-39be21/HK_msFw3znEHvTHzGnEB9w.jpg",
+            "slug": "road-of-naruto-39be21"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Боруто: Наруто фільм",
+            "image": "https://cdn.hikka.io/content/anime/boruto-naruto-the-movie-74cce7/aiJBCtousEPwk0l2iFP0UA.jpg",
+            "slug": "boruto-naruto-the-movie-74cce7"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Боруто: Нове покоління Наруто",
+            "image": "https://cdn.hikka.io/content/anime/boruto-naruto-next-generations-d3dcad/Ku-WDHd7H_6ey-Qtp6oYhA.jpg",
+            "slug": "boruto-naruto-next-generations-d3dcad"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "218113f9-b56b-4864-b21c-d7e572f42402",
+      "title": "CapTop",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 12,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1717165940,
+      "updated": 1717167601,
+      "author": {
+        "reference": "c47e80de-70aa-4007-9f92-e0917688f6a7",
+        "username": "capit",
+        "avatar": "https://cdn.hikka.io/uploads/capit/avatar/74a3f1ae-5659-4a01-9bcf-4cfa1c4672e5.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Дороро (2019)",
+            "image": "https://cdn.hikka.io/content/anime/dororo-b4bc96/9jZnRV14_NxY9R4tRKnuuA.jpg",
+            "slug": "dororo-b4bc96"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Проводжальниця Фрірен",
+            "image": "https://cdn.hikka.io/content/anime/sousou-no-frieren-ad4e3e/8D-SGEkCBMAUE7CgEt9UPQ.jpg",
+            "slug": "sousou-no-frieren-ad4e3e"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Обіцяний Неверленд",
+            "image": "https://cdn.hikka.io/content/anime/yakusoku-no-neverland-6d9279/0up2-liBvkRO657pTB0tZA.jpg",
+            "slug": "yakusoku-no-neverland-6d9279"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "87e99fe2-c677-460f-a270-42b71a969300",
+      "title": "улюблені ",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 4,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1715003663,
+      "updated": 1715003857,
+      "author": {
+        "reference": "bea5c2bf-1751-404e-9938-7e57a1cff016",
+        "username": "backa3",
+        "avatar": "https://cdn.hikka.io/uploads/backa3/avatar/9f2af74c-1498-4eda-819c-8e9da51d358a.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Дівчинка, що бачить це",
+            "image": "https://cdn.hikka.io/content/anime/mieruko-chan-15d672/S5At7k757RGRMrK1ZaMATg.jpg",
+            "slug": "mieruko-chan-15d672"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Йормунґанд",
+            "image": "https://cdn.hikka.io/content/anime/jormungand-79657d/hKmCicQHQI2PbXBbAyP_Tg.jpg",
+            "slug": "jormungand-79657d"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Паразит",
+            "image": "https://cdn.hikka.io/content/anime/kiseijuu-sei-no-kakuritsu-3f21fb/7_8QbQS8R5e6K62-jobhlA.jpg",
+            "slug": "kiseijuu-sei-no-kakuritsu-3f21fb"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "dba125f5-f6ad-496d-bf3d-219ca378b931",
+      "title": "Сильні жіночі персонажі Ч2",
+      "content_type": "character",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 29,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1713823674,
+      "updated": 1717508051,
+      "author": {
+        "reference": "5e73325b-f9a4-498f-aa4c-2b6d9fb5fe24",
+        "username": "BARVINCA",
+        "avatar": "https://cdn.hikka.io/uploads/BARVINCA/avatar/4a03bd9d-fe67-4dfd-b245-532f97b08a7d.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "character",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "name": "Anarchy",
+            "image": "https://cdn.hikka.io/content/characters/anarchy-c7289c/q5DVOloAzIyL7vY43NhFiA.jpg",
+            "slug": "anarchy-c7289c"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "name": "Хінаїчі",
+            "image": "https://cdn.hikka.io/content/characters/hinaichi-e926c5/Ch1bGtkrdLSq1tsae_kfxg.jpg",
+            "slug": "hinaichi-e926c5"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "name": "Dakki",
+            "image": "https://cdn.hikka.io/content/characters/dakki-c9a890/tibEOggn8dgSeAQlx_swyQ.jpg",
+            "slug": "dakki-c9a890"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "ce002f6a-40d6-4552-8fb1-fabf1e35c997",
+      "title": "Мої перші анімехи",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "+-"
+      ],
+      "entries": 50,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1713641883,
+      "updated": 1728941891,
+      "author": {
+        "reference": "78531373-d2fe-42dd-9268-66ada22b9701",
+        "username": "copok",
+        "avatar": "https://cdn.hikka.io/uploads/copok/avatar/e2b52539-a9d2-4065-bfa3-0167a130b134.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "+-",
+          "comment": null,
+          "content": {
+            "title": "Химерні пригоди ДжоДжо",
+            "image": "https://cdn.hikka.io/content/anime/jojo-no-kimyou-na-bouken-tv-a67ac7/nnKlB4ps2shtH2vp45vNZg.jpg",
+            "slug": "jojo-no-kimyou-na-bouken-tv-a67ac7"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "+-",
+          "comment": null,
+          "content": {
+            "title": "Сходження Героя щита",
+            "image": "https://cdn.hikka.io/content/anime/tate-no-yuusha-no-nariagari-f4fd3c/V59IizMVz7XNTYBHxu_8YQ.jpg",
+            "slug": "tate-no-yuusha-no-nariagari-f4fd3c"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "+-",
+          "comment": null,
+          "content": {
+            "title": "Вбивця демонів",
+            "image": "https://cdn.hikka.io/content/anime/kimetsu-no-yaiba-6d4c98/YEYHvLADhTPCKy3N1OXNnA.jpg",
+            "slug": "kimetsu-no-yaiba-6d4c98"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "eb54280a-2ec9-45bc-ab4f-b97e51b0cfcc",
+      "title": " мувіки не по серіалам",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "мувіки",
+        "серія фільм",
+        "+ серіал, але все одно глянути"
+      ],
+      "entries": 170,
+      "vote_score": 1,
+      "comments_count": 0,
+      "created": 1713475402,
+      "updated": 1716053913,
+      "author": {
+        "reference": "5e73325b-f9a4-498f-aa4c-2b6d9fb5fe24",
+        "username": "BARVINCA",
+        "avatar": "https://cdn.hikka.io/uploads/BARVINCA/avatar/4a03bd9d-fe67-4dfd-b245-532f97b08a7d.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "мувіки",
+          "comment": null,
+          "content": {
+            "title": "Гармонія",
+            "image": "https://cdn.hikka.io/content/anime/harmony-e6c91f/JK67yr5-cVXpy8cjOKxXCA.jpg",
+            "slug": "harmony-e6c91f"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "мувіки",
+          "comment": null,
+          "content": {
+            "title": "З макових схилів",
+            "image": "https://cdn.hikka.io/content/anime/coquelicot-zaka-kara-cd0df4/KQFkq_0mzlsM0PVwk472iA.jpg",
+            "slug": "coquelicot-zaka-kara-cd0df4"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "мувіки",
+          "comment": null,
+          "content": {
+            "title": "Дім на хвилях",
+            "image": "https://cdn.hikka.io/content/anime/ame-wo-tsugeru-hyouryuu-danchi-c7cbf7/hJTSkrNJSD8TfkPktyNtNw.jpg",
+            "slug": "ame-wo-tsugeru-hyouryuu-danchi-c7cbf7"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "d195175f-d8b3-4211-8748-cf6ffb762f24",
+      "title": "Проблемні сторінки - Тайтли",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 9,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1713119510,
+      "updated": 1734685043,
+      "author": {
+        "reference": "8e180dad-bfe2-4610-a344-a50173feaff6",
+        "username": "Shiro4ka",
+        "avatar": "https://cdn.hikka.io/uploads/DrBryan/avatar/7db4648d-452e-47c0-a594-6a264926fdd1.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Святий воїн Данбайн",
+            "image": "https://cdn.hikka.io/content/anime/seisenshi-dunbine-8492d3/zR6fhRI2IwbCSpW-iYcmYQ.jpg",
+            "slug": "seisenshi-dunbine-8492d3"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Бармен",
+            "image": "https://cdn.hikka.io/content/anime/bartender-95766e/hqTGTC0O0ojzVxox0jGPaw.jpg",
+            "slug": "bartender-95766e"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Бармен: Келих Бога",
+            "image": "https://cdn.hikka.io/content/anime/bartender-kami-no-glass-e8fe27/MmhjHD0wNZyzi6XlijlP4A.jpg",
+            "slug": "bartender-kami-no-glass-e8fe27"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "da7bb4f3-c47f-42b3-a7b8-e3a80fe9e37f",
+      "title": "Проблемні сторінки - Персонажі",
+      "content_type": "character",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 4,
+      "vote_score": 0,
+      "comments_count": 10,
+      "created": 1713118787,
+      "updated": 1713777370,
+      "author": {
+        "reference": "8e180dad-bfe2-4610-a344-a50173feaff6",
+        "username": "Shiro4ka",
+        "avatar": "https://cdn.hikka.io/uploads/DrBryan/avatar/7db4648d-452e-47c0-a594-6a264926fdd1.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "character",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "name": "Елена Гевен",
+            "image": "https://cdn.hikka.io/content/characters/elena-haven-0afa39/Aj_erxQRM_AyOSj_HgL65A.jpg",
+            "slug": "elena-haven-0afa39"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "name": "Ґеліон",
+            "image": "https://cdn.hikka.io/content/characters/gaelion-8ab456/z7BRarn1qDlI98FpqCZxUg.jpg",
+            "slug": "gaelion-8ab456"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "name": "Валакірка",
+            "image": "https://cdn.hikka.io/content/characters/valacirca-d28b48/JLgjtQ-2nSKVXkHtM1dTgQ.jpg",
+            "slug": "valacirca-d28b48"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "c47f4a32-aecb-4e05-91e4-e76e4b887071",
+      "title": "Проблемні сторінки - Люди",
+      "content_type": "person",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 10,
+      "vote_score": 1,
+      "comments_count": 0,
+      "created": 1712910409,
+      "updated": 1712931877,
+      "author": {
+        "reference": "8e180dad-bfe2-4610-a344-a50173feaff6",
+        "username": "Shiro4ka",
+        "avatar": "https://cdn.hikka.io/uploads/DrBryan/avatar/7db4648d-452e-47c0-a594-6a264926fdd1.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "person",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "name": "Сеґучі Ідзумі",
+            "image": null,
+            "slug": "izumi-seguchi-108dc7"
+          }
+        },
+        {
+          "content_type": "person",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "name": "Такахаші Ацуші",
+            "image": null,
+            "slug": "atsushi-takahashi-e76023"
+          }
+        },
+        {
+          "content_type": "person",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "name": "Таґучі Аюрі",
+            "image": null,
+            "slug": "ayuri-taguchi-755f16"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "8b7094c5-e67d-4d73-a471-0729f5a0ab2e",
+      "title": "Нижній топ",
+      "content_type": "character",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 9,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1712859461,
+      "updated": 1767890345,
+      "author": {
+        "reference": "48224f0b-d9c5-47ce-a24f-9c19e3aad121",
+        "username": "Snigh",
+        "avatar": "https://cdn.hikka.io/uploads/Snigh/avatar/cae33e27-6173-419c-850e-28596094a208.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "character",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "name": "Ашаф",
+            "image": "https://cdn.hikka.io/content/characters/ashaf-dd624a/14iLf8WDglzpxuegbvyEWg.jpg",
+            "slug": "ashaf-dd624a"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "name": "Ванітас",
+            "image": "https://cdn.hikka.io/content/characters/vanitas-74ae84/1sVzfcRrh8f25T0sAEnA6w.jpg",
+            "slug": "vanitas-74ae84"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "name": "Емія Шіро",
+            "image": "https://cdn.hikka.io/content/characters/shirou-emiya-2a59b5/Ln1Sx2k6yp7mzVj_e4KZ4w.jpg",
+            "slug": "shirou-emiya-2a59b5"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "36f305d2-1dc9-408c-a3f0-7b717af27e1f",
+      "title": "Яскраві персонажі One Piece",
+      "content_type": "character",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Команда мугівар",
+        "Адмірали Морського Дозору.",
+        "Йонко ",
+        "Інші персонажі"
+      ],
+      "entries": 112,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1712243460,
+      "updated": 1712264650,
+      "author": {
+        "reference": "5e73325b-f9a4-498f-aa4c-2b6d9fb5fe24",
+        "username": "BARVINCA",
+        "avatar": "https://cdn.hikka.io/uploads/BARVINCA/avatar/4a03bd9d-fe67-4dfd-b245-532f97b08a7d.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "character",
+          "order": 1,
+          "label": "Команда мугівар",
+          "comment": null,
+          "content": {
+            "name": "Монкі Д. Луффі",
+            "image": "https://cdn.hikka.io/content/characters/luffy-monkey-d-b6c098/jxnLBB9hZhJDQvPOVup6_w.jpg",
+            "slug": "luffy-monkey-d-b6c098"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 2,
+          "label": "Команда мугівар",
+          "comment": null,
+          "content": {
+            "name": "Ророноа Зоро",
+            "image": "https://cdn.hikka.io/content/characters/zoro-roronoa-c9f79d/By_w7ISRVkBnswt4hXlNhw.jpg",
+            "slug": "zoro-roronoa-c9f79d"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 3,
+          "label": "Команда мугівар",
+          "comment": null,
+          "content": {
+            "name": "Намі",
+            "image": "https://cdn.hikka.io/content/characters/nami-d05b8a/dLO8mOfwMVzM0Bc6vkk9mA.jpg",
+            "slug": "nami-d05b8a"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "7ad0c08f-da3e-4c50-a5ed-ddabdbe489eb",
+      "title": "Кліпи, що подивився",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 5,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1712210079,
+      "updated": 1712210079,
+      "author": {
+        "reference": "8e180dad-bfe2-4610-a344-a50173feaff6",
+        "username": "Shiro4ka",
+        "avatar": "https://cdn.hikka.io/uploads/DrBryan/avatar/7db4648d-452e-47c0-a594-6a264926fdd1.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Black★Rock Shooter",
+            "image": "https://cdn.hikka.io/content/anime/blackrock-shooter-2e8fc9/duaH9con23coQFVeCkf9_A.jpg",
+            "slug": "blackrock-shooter-2e8fc9"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "World Calling",
+            "image": "https://cdn.hikka.io/content/anime/world-calling-8c26ea/-n7UbZZJ-YXpHJh4nbL_Yw.jpg",
+            "slug": "world-calling-8c26ea"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Idol (Mori Calliope Cover)",
+            "image": "https://cdn.hikka.io/content/anime/idol-mori-calliope-cover-91f2d7/Nqz4nfCrrUoxVCTGubtzvg.jpg",
+            "slug": "idol-mori-calliope-cover-91f2d7"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "9b314dc0-0093-45bf-a434-b7aa4eba2b4d",
+      "title": "Усі мої улюблені персонажі",
+      "content_type": "character",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "хлопці the best",
+        "дівчата the best"
+      ],
+      "entries": 63,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1712169774,
+      "updated": 1716633739,
+      "author": {
+        "reference": "5e73325b-f9a4-498f-aa4c-2b6d9fb5fe24",
+        "username": "BARVINCA",
+        "avatar": "https://cdn.hikka.io/uploads/BARVINCA/avatar/4a03bd9d-fe67-4dfd-b245-532f97b08a7d.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "character",
+          "order": 1,
+          "label": "хлопці the best",
+          "comment": null,
+          "content": {
+            "name": "Ямато",
+            "image": "https://cdn.hikka.io/content/characters/yamato-1ed070/mBmXSYQBl4HMkpu8KuH3Hw.jpg",
+            "slug": "yamato-1ed070"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 2,
+          "label": "хлопці the best",
+          "comment": null,
+          "content": {
+            "name": "Ророноа Зоро",
+            "image": "https://cdn.hikka.io/content/characters/zoro-roronoa-c9f79d/By_w7ISRVkBnswt4hXlNhw.jpg",
+            "slug": "zoro-roronoa-c9f79d"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 3,
+          "label": "хлопці the best",
+          "comment": null,
+          "content": {
+            "name": "Монкі Д. Луффі",
+            "image": "https://cdn.hikka.io/content/characters/luffy-monkey-d-b6c098/jxnLBB9hZhJDQvPOVup6_w.jpg",
+            "slug": "luffy-monkey-d-b6c098"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "c068399d-0dbf-4efc-83d0-2e6f08a52e92",
+      "title": "Аніме / Заплановане",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Небачені досі",
+        "Без субтитрів",
+        "Переглянуті"
+      ],
+      "entries": 33,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1712000999,
+      "updated": 1779632583,
+      "author": {
+        "reference": "48224f0b-d9c5-47ce-a24f-9c19e3aad121",
+        "username": "Snigh",
+        "avatar": "https://cdn.hikka.io/uploads/Snigh/avatar/cae33e27-6173-419c-850e-28596094a208.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Небачені досі",
+          "comment": null,
+          "content": {
+            "title": "Один на виліт",
+            "image": "https://cdn.hikka.io/content/anime/one-outs-691d14/GcbgOyv2_5My9QvbLFgBTg.jpg",
+            "slug": "one-outs-691d14"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Небачені досі",
+          "comment": null,
+          "content": {
+            "title": "Реінкарнація безробітного: В інший світ на повному серйозі - 3 сезон",
+            "image": "https://cdn.hikka.io/content/anime/mushoku-tensei-iii-isekai-ittara-honki-dasu-5db0ad/-vaEVNVz0RLd7ozSnGROVg.jpg",
+            "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu-5db0ad"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Небачені досі",
+          "comment": null,
+          "content": {
+            "title": "Академія відьмочок",
+            "image": "https://cdn.hikka.io/content/anime/little-witch-academia-tv-18f32d/odss28CmutRqz2FYbg11mg.jpg",
+            "slug": "little-witch-academia-tv-18f32d"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "b85e2812-3b59-41ca-a16c-77ffdf8716a1",
+      "title": "коли небудь",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 265,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1711667420,
+      "updated": 1713474517,
+      "author": {
+        "reference": "5e73325b-f9a4-498f-aa4c-2b6d9fb5fe24",
+        "username": "BARVINCA",
+        "avatar": "https://cdn.hikka.io/uploads/BARVINCA/avatar/4a03bd9d-fe67-4dfd-b245-532f97b08a7d.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Tide-Line Blue",
+            "image": "https://cdn.hikka.io/content/anime/tide-line-blue-fad715/wOYzHnkhU2F4UjwCamB0jw.jpg",
+            "slug": "tide-line-blue-fad715"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Vampire Holmes",
+            "image": "https://cdn.hikka.io/content/anime/vampire-holmes-ff5e22/b_CXx5023ka99v9PeGc3ag.jpg",
+            "slug": "vampire-holmes-ff5e22"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Це провина не моя, що непопулярна я!",
+            "image": "https://cdn.hikka.io/content/anime/watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui-ff3a3d/M4cXFs45JvMcbLs1U8zMeA.jpg",
+            "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui-ff3a3d"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "d1891f77-19cc-4a38-bde0-becfab9b2085",
+      "title": "аніме норм",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 125,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1711574804,
+      "updated": 1717252605,
+      "author": {
+        "reference": "5e73325b-f9a4-498f-aa4c-2b6d9fb5fe24",
+        "username": "BARVINCA",
+        "avatar": "https://cdn.hikka.io/uploads/BARVINCA/avatar/4a03bd9d-fe67-4dfd-b245-532f97b08a7d.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Бамбуковий клинок",
+            "image": "https://cdn.hikka.io/content/anime/bamboo-blade-378d15/GSUvN9g3biUCh8eHeQz8LA.jpg",
+            "slug": "bamboo-blade-378d15"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Сумо Хіномару",
+            "image": "https://cdn.hikka.io/content/anime/hinomaruzumou-5a0456/LGeYSfp-AUclqexkOiF33A.jpg",
+            "slug": "hinomaruzumou-5a0456"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Прагнення до вершини! Ґанбастер",
+            "image": "https://cdn.hikka.io/content/anime/top-wo-nerae-gunbuster-55a246/kwc7SdgyAFhiYFPESE0cfA.jpg",
+            "slug": "top-wo-nerae-gunbuster-55a246"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "af2b9af8-ec19-471e-ac19-98275f761db2",
+      "title": "дивитись продовження",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "є продовження",
+        "поки немає продовження"
+      ],
+      "entries": 44,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1711569582,
+      "updated": 1717252631,
+      "author": {
+        "reference": "5e73325b-f9a4-498f-aa4c-2b6d9fb5fe24",
+        "username": "BARVINCA",
+        "avatar": "https://cdn.hikka.io/uploads/BARVINCA/avatar/4a03bd9d-fe67-4dfd-b245-532f97b08a7d.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "є продовження",
+          "comment": null,
+          "content": {
+            "title": "Моя геройська академія - 7 сезон",
+            "image": "https://cdn.hikka.io/content/anime/boku-no-hero-academia-7th-season-35ca97/zv0xwmQ1mfRSXFKOvk_6bw.jpg",
+            "slug": "boku-no-hero-academia-7th-season-35ca97"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "є продовження",
+          "comment": null,
+          "content": {
+            "title": "Військова історія маленької дівчинки - 2 сезон",
+            "image": "https://cdn.hikka.io/content/anime/youjo-senki-ii-2cf2e9/y-4WGi1FEyUMu26UzMTDhg.jpg",
+            "slug": "youjo-senki-ii-2cf2e9"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "є продовження",
+          "comment": null,
+          "content": {
+            "title": "Синій екзорцист: Арка Ілюмінатів Шімане",
+            "image": "https://cdn.hikka.io/content/anime/ao-no-exorcist-shin-series-60689d/MF72qj_QPQyZ81rWjbnISA.jpg",
+            "slug": "ao-no-exorcist-shin-series-60689d"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "f00d737c-2967-4e37-a850-559ba38183e0",
+      "title": "Мої Комеді та слайси",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "комедія",
+        "слайс",
+        "котики"
+      ],
+      "labels_order": [
+        "комедійна школа",
+        "милота про котиків",
+        "комедійні сьонени",
+        "абсурдні комедіі",
+        "інше"
+      ],
+      "entries": 75,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1711562462,
+      "updated": 1717252587,
+      "author": {
+        "reference": "5e73325b-f9a4-498f-aa4c-2b6d9fb5fe24",
+        "username": "BARVINCA",
+        "avatar": "https://cdn.hikka.io/uploads/BARVINCA/avatar/4a03bd9d-fe67-4dfd-b245-532f97b08a7d.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "комедійна школа",
+          "comment": null,
+          "content": {
+            "title": "Адзуманґа Дайо",
+            "image": "https://cdn.hikka.io/content/anime/azumanga-daiou-the-animation-b5a0ef/00fbTqMj2tnrfid3yqDDKQ.jpg",
+            "slug": "azumanga-daiou-the-animation-b5a0ef"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "комедійна школа",
+          "comment": null,
+          "content": {
+            "title": "Щаслива☆Зірка",
+            "image": "https://cdn.hikka.io/content/anime/luckystar-ca261c/OFFpLghZ-upEJVikGzOcAQ.jpg",
+            "slug": "luckystar-ca261c"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "комедійна школа",
+          "comment": null,
+          "content": {
+            "title": "Старша школа Кромарті",
+            "image": "https://cdn.hikka.io/content/anime/sakigake-cromartie-koukou-4ecc2f/2H6H4ZAzfxwdYvuo9_K43g.jpg",
+            "slug": "sakigake-cromartie-koukou-4ecc2f"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "cab7175f-45b7-4c52-b253-ec1eaee76732",
+      "title": "I use arch btw",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 15,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1711559449,
+      "updated": 1713560328,
+      "author": {
+        "reference": "78531373-d2fe-42dd-9268-66ada22b9701",
+        "username": "copok",
+        "avatar": "https://cdn.hikka.io/uploads/copok/avatar/e2b52539-a9d2-4065-bfa3-0167a130b134.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Експерименти Лейн",
+            "image": "https://cdn.hikka.io/content/anime/serial-experiments-lain-d9d0c4/9Aee5jd12y24Ma7kCSFMaw.jpg",
+            "slug": "serial-experiments-lain-d9d0c4"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Вторгнення Кальмарки",
+            "image": "https://cdn.hikka.io/content/anime/shinryaku-ika-musume-4dc416/AkES8-FvzpxtYAjR9lmN8g.jpg",
+            "slug": "shinryaku-ika-musume-4dc416"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Штайнова;Брама",
+            "image": "https://cdn.hikka.io/content/anime/steinsgate-f29797/M-8Gxbqmsq0ScxFZWQAt-Q.jpg",
+            "slug": "steinsgate-f29797"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "7f4fc7f6-99a2-41c4-943d-902fd7e0d1b3",
+      "title": "Сподобалось ДУЖЕ",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "сьонен",
+        "містика",
+        "спорт"
+      ],
+      "labels_order": [],
+      "entries": 82,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1711399905,
+      "updated": 1716891463,
+      "author": {
+        "reference": "5e73325b-f9a4-498f-aa4c-2b6d9fb5fe24",
+        "username": "BARVINCA",
+        "avatar": "https://cdn.hikka.io/uploads/BARVINCA/avatar/4a03bd9d-fe67-4dfd-b245-532f97b08a7d.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Ван Піс",
+            "image": "https://cdn.hikka.io/content/anime/one-piece-929f5d/epMVUp0mO7REXcTu9HgtgA.jpg",
+            "slug": "one-piece-929f5d"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Перлина дракона",
+            "image": "https://cdn.hikka.io/content/anime/dragon-ball-e24caa/nwCXyj0u1H5ax7maSOrDWA.jpg",
+            "slug": "dragon-ball-e24caa"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Перлина дракона Z",
+            "image": "https://cdn.hikka.io/content/anime/dragon-ball-z-93d230/Rn5hV_Uai5O5SboKyMON0w.jpg",
+            "slug": "dragon-ball-z-93d230"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "a0e623f9-d1de-48b1-b292-bf11b0dc9560",
+      "title": "драма",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "драма",
+        "кохання",
+        "смерть"
+      ],
+      "labels_order": [],
+      "entries": 13,
+      "vote_score": 1,
+      "comments_count": 3,
+      "created": 1711324442,
+      "updated": 1729439948,
+      "author": {
+        "reference": "ccff4e6f-6cbf-42a2-9b08-a2837d94e98f",
+        "username": "EiraFav",
+        "avatar": "https://cdn.hikka.io/uploads/Alina/avatar/bb08b840-c711-4730-8a96-cbb7be952053.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Твоя квітнева брехня",
+            "image": "https://cdn.hikka.io/content/anime/shigatsu-wa-kimi-no-uso-2d850d/noaGMO-_b17b0RHF3BB0pQ.jpg",
+            "slug": "shigatsu-wa-kimi-no-uso-2d850d"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Атака титанів",
+            "image": "https://cdn.hikka.io/content/anime/shingeki-no-kyojin-0cf69a/KSC1rO30SWHz9MeWhVL2lQ.jpg",
+            "slug": "shingeki-no-kyojin-0cf69a"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Форма голосу",
+            "image": "https://cdn.hikka.io/content/anime/koe-no-katachi-2667e9/H32H1D1xlOyfasW6_rXB-g.jpg",
+            "slug": "koe-no-katachi-2667e9"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "3b3fa9c2-7fb9-4818-a25f-5c7017e863ce",
+      "title": "Забута романтика",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Позначене, як класне",
+        "Без відміток"
+      ],
+      "entries": 23,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1711063301,
+      "updated": 1711142486,
+      "author": {
+        "reference": "b9c5fcbc-23d7-4cc7-8513-23feb749440c",
+        "username": "Oleksa",
+        "avatar": "https://cdn.hikka.io/uploads/Oleksa/avatar/e1490eb3-672b-49ec-8c05-d5f1852dfab1.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Позначене, як класне",
+          "comment": null,
+          "content": {
+            "title": "Пес і я: Таємна служба",
+            "image": "https://cdn.hikka.io/content/anime/inu-x-boku-ss-ae82ff/6BJd4B_jRHh-6ebJbCoVGQ.jpg",
+            "slug": "inu-x-boku-ss-ae82ff"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Позначене, як класне",
+          "comment": null,
+          "content": {
+            "title": "Дотягнутися до тебе",
+            "image": "https://cdn.hikka.io/content/anime/kimi-ni-todoke-fd29e3/aNx6xvu9Fn0BakxY5GRY2g.jpg",
+            "slug": "kimi-ni-todoke-fd29e3"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Позначене, як класне",
+          "comment": null,
+          "content": {
+            "title": "Шлях юності",
+            "image": "https://cdn.hikka.io/content/anime/ao-haru-ride-c30d46/dOQFD3GdmduF4D1yzXwjjA.jpg",
+            "slug": "ao-haru-ride-c30d46"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "0996b748-8c6f-4244-96bd-957e99f99df6",
+      "title": "Гінтама ",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 15,
+      "vote_score": 0,
+      "comments_count": 2,
+      "created": 1710894599,
+      "updated": 1710895216,
+      "author": {
+        "reference": "aa788ba5-e996-4374-96a5-e7e7f5a8caa2",
+        "username": "Ottoo",
+        "avatar": "https://cdn.hikka.io/avatar.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Ґінтама",
+            "image": "https://cdn.hikka.io/content/anime/gintama-661699/zr-mbankC3GRnXOWbRb_6w.jpg",
+            "slug": "gintama-661699"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Ґінтама - 2 сезон",
+            "image": "https://cdn.hikka.io/content/anime/gintama-423c6b/13gGQJDwHvll-cZXI9oGMQ.jpg",
+            "slug": "gintama-423c6b"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Ґінтама - 3 сезон",
+            "image": "https://cdn.hikka.io/content/anime/gintama-enchousen-d1efb8/AmjlCbpVDdkmsb3xlnJ7rg.jpg",
+            "slug": "gintama-enchousen-d1efb8"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "b6f8aca3-9a5e-4109-af09-16be6471553f",
+      "title": "Персональна рекомендація",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Усім",
+        "Специфічні"
+      ],
+      "entries": 15,
+      "vote_score": 1,
+      "comments_count": 0,
+      "created": 1710869541,
+      "updated": 1763303554,
+      "author": {
+        "reference": "48224f0b-d9c5-47ce-a24f-9c19e3aad121",
+        "username": "Snigh",
+        "avatar": "https://cdn.hikka.io/uploads/Snigh/avatar/cae33e27-6173-419c-850e-28596094a208.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Усім",
+          "comment": null,
+          "content": {
+            "title": "Орбіта: Про рух Землі",
+            "image": "https://cdn.hikka.io/content/anime/chi-chikyuu-no-undou-ni-tsuite-efd0b5/IqRvu7uLZVuzOUUBhD_AmQ.jpg",
+            "slug": "chi-chikyuu-no-undou-ni-tsuite-efd0b5"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Усім",
+          "comment": null,
+          "content": {
+            "title": "Дорохедоро",
+            "image": "https://cdn.hikka.io/content/anime/dorohedoro-898db6/V3vRSQLnolr7QnWbGy30SA.jpg",
+            "slug": "dorohedoro-898db6"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Усім",
+          "comment": null,
+          "content": {
+            "title": "Проводжальниця Фрірен",
+            "image": "https://cdn.hikka.io/content/anime/sousou-no-frieren-ad4e3e/8D-SGEkCBMAUE7CgEt9UPQ.jpg",
+            "slug": "sousou-no-frieren-ad4e3e"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "75117e5b-04e6-4118-8a82-a2d7d37537ab",
+      "title": "База базована",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "серйозні до сліз",
+        "поржати",
+        "прост дуже якісні аніме"
+      ],
+      "entries": 22,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1710862032,
+      "updated": 1710862254,
+      "author": {
+        "reference": "df50bd74-35ca-41eb-a101-2a4b700d6adb",
+        "username": "lisostep1488",
+        "avatar": "https://cdn.hikka.io/uploads/lisostep1488/avatar/80bdea57-f8f0-474b-af3c-8db47550b28c.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "серйозні до сліз",
+          "comment": null,
+          "content": {
+            "title": "Сага про Вінланд",
+            "image": "https://cdn.hikka.io/content/anime/vinland-saga-66c9a2/IjEhWWtqf6LyzQsjbTBs6w.jpg",
+            "slug": "vinland-saga-66c9a2"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "серйозні до сліз",
+          "comment": null,
+          "content": {
+            "title": "Сага про Вінланд - 2 сезон",
+            "image": "https://cdn.hikka.io/content/anime/vinland-saga-season-2-6bed79/QV637s8Oq9vIsLrQkKWQdg.jpg",
+            "slug": "vinland-saga-season-2-6bed79"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "серйозні до сліз",
+          "comment": null,
+          "content": {
+            "title": "Убивця Акаме!",
+            "image": "https://cdn.hikka.io/content/anime/akame-ga-kill-d2b7f7/5izcrHXEQYN7PdNgV0EeQw.jpg",
+            "slug": "akame-ga-kill-d2b7f7"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "ad31abe3-6209-4fa9-82ca-ed40c1b771fc",
+      "title": "Улюблені ендінги",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 13,
+      "vote_score": 2,
+      "comments_count": 3,
+      "created": 1709362618,
+      "updated": 1762359740,
+      "author": {
+        "reference": "887847bd-6d85-424b-9ce0-7fac8e5224a0",
+        "username": "Greed",
+        "avatar": "https://cdn.hikka.io/uploads/Greed/avatar/12b139f3-417e-416f-a182-1ba27f734537.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Людина-бензопила",
+            "image": "https://cdn.hikka.io/content/anime/chainsaw-man-c204f3/C-mhDcQlvOpXNykIimTP0g.jpg",
+            "slug": "chainsaw-man-c204f3"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Сталевий алхімік: Братерство",
+            "image": "https://cdn.hikka.io/content/anime/fullmetal-alchemist-brotherhood-fc524a/1dRVedKKpa2i_iiHmEcDhA.jpg",
+            "slug": "fullmetal-alchemist-brotherhood-fc524a"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Штайнова;Брама 0",
+            "image": "https://cdn.hikka.io/content/anime/steinsgate-0-4f9814/04UjFXnigEO3vtLxaCwPzA.jpg",
+            "slug": "steinsgate-0-4f9814"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "29d246c5-3412-4602-a0b1-3e83935a13ea",
+      "title": "Улюблені опенінги",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 46,
+      "vote_score": 3,
+      "comments_count": 0,
+      "created": 1709280787,
+      "updated": 1762359559,
+      "author": {
+        "reference": "887847bd-6d85-424b-9ce0-7fac8e5224a0",
+        "username": "Greed",
+        "avatar": "https://cdn.hikka.io/uploads/Greed/avatar/12b139f3-417e-416f-a182-1ba27f734537.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Геллсінґ",
+            "image": "https://cdn.hikka.io/content/anime/hellsing-a9873f/x3iXGgYwenoDlnEMlKozug.jpg",
+            "slug": "hellsing-a9873f"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Наруто: Ураганні хроніки",
+            "image": "https://cdn.hikka.io/content/anime/naruto-shippuuden-7613c6/cpaDBzqkl-QMmnWum6fdjg.jpg",
+            "slug": "naruto-shippuuden-7613c6"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Атака титанів: Фінальний сезон - 2 частина",
+            "image": "https://cdn.hikka.io/content/anime/shingeki-no-kyojin-the-final-season-part-2-8d3fc3/MGrVqSldN4yaklmzC6xkug.jpg",
+            "slug": "shingeki-no-kyojin-the-final-season-part-2-8d3fc3"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "9d2c5921-2de4-439e-af68-283fafbcf309",
+      "title": "Жахи😨",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "жахи",
+        "психологія"
+      ],
+      "labels_order": [
+        "Психологічне",
+        "Джюнджі Іто",
+        "Кон Сатоші",
+        "Милі жахи",
+        "Невідсортоване"
+      ],
+      "entries": 48,
+      "vote_score": 11,
+      "comments_count": 19,
+      "created": 1709280072,
+      "updated": 1715852418,
+      "author": {
+        "reference": "4910f871-3441-4609-b5b9-8476c8ad6dbd",
+        "username": "makovka",
+        "avatar": "https://cdn.hikka.io/uploads/makovka/avatar/ac9fa399-17ff-4be6-b401-90f36ae8760d.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Психологічне",
+          "comment": null,
+          "content": {
+            "title": "У час, коли плачуть цикади",
+            "image": "https://cdn.hikka.io/content/anime/higurashi-no-naku-koro-ni-bc51e6/D1ud01OIbF5mh6xGRm-BtQ.jpg",
+            "slug": "higurashi-no-naku-koro-ni-bc51e6"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Психологічне",
+          "comment": null,
+          "content": {
+            "title": "Сайт чарівниць",
+            "image": "https://cdn.hikka.io/content/anime/mahou-shoujo-site-513ea9/rJqLwhFExkTD36rwck_CDg.jpg",
+            "slug": "mahou-shoujo-site-513ea9"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Психологічне",
+          "comment": null,
+          "content": {
+            "title": "Інша",
+            "image": "https://cdn.hikka.io/content/anime/another-bad64b/9mTltfFUFHrKIwab27iqAQ.jpg",
+            "slug": "another-bad64b"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "4ef17396-925e-4d2c-86d9-1c3157906a1c",
+      "title": "Нові улюблені аніме",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "моногатарі"
+      ],
+      "labels_order": [],
+      "entries": 49,
+      "vote_score": 4,
+      "comments_count": 16,
+      "created": 1709261884,
+      "updated": 1719004088,
+      "author": {
+        "reference": "bed68b8f-fe4f-4439-9965-d5fab23b8a34",
+        "username": "MatthewBishop",
+        "avatar": "https://cdn.hikka.io/uploads/MatthewBishop/avatar/08f32665-ff41-40f1-8b15-63e459e371da.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Історії ран I: Залізна кров",
+            "image": "https://cdn.hikka.io/content/anime/kizumonogatari-i-tekketsu-hen-55009e/rutPFbccAJA9NFfWFS1LBw.jpg",
+            "slug": "kizumonogatari-i-tekketsu-hen-55009e"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Історії ран II: Палка кров",
+            "image": "https://cdn.hikka.io/content/anime/kizumonogatari-ii-nekketsu-hen-4dc367/oTBgaBFvdMkkxgobVZW2Tg.jpg",
+            "slug": "kizumonogatari-ii-nekketsu-hen-4dc367"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Історії ран III: Холодна кров",
+            "image": "https://cdn.hikka.io/content/anime/kizumonogatari-iii-reiketsu-hen-f83b5f/PDfrKcxgIKm3HC8DooEUbQ.jpg",
+            "slug": "kizumonogatari-iii-reiketsu-hen-f83b5f"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "1439b847-f3d1-488f-9cac-ffb1254b879e",
+      "title": "Старі улюблені аніме",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "класика"
+      ],
+      "labels_order": [],
+      "entries": 10,
+      "vote_score": 4,
+      "comments_count": 4,
+      "created": 1709260997,
+      "updated": 1719004097,
+      "author": {
+        "reference": "bed68b8f-fe4f-4439-9965-d5fab23b8a34",
+        "username": "MatthewBishop",
+        "avatar": "https://cdn.hikka.io/uploads/MatthewBishop/avatar/08f32665-ff41-40f1-8b15-63e459e371da.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Нова ера – Євангеліон",
+            "image": "https://cdn.hikka.io/content/anime/neon-genesis-evangelion-a5221a/c8Ju1BwNEzWRmW4iX_mpMw.jpg",
+            "slug": "neon-genesis-evangelion-a5221a"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Кінець Євангеліону",
+            "image": "https://cdn.hikka.io/content/anime/neon-genesis-evangelion-the-end-of-evangelion-b51a52/QyzNaIvY0jh9luXyDaqEBQ.jpg",
+            "slug": "neon-genesis-evangelion-the-end-of-evangelion-b51a52"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Євангеліон 1.11 Ти (Не) Самотній",
+            "image": "https://cdn.hikka.io/content/anime/evangelion-10-you-are-not-alone-aedbec/zy9BkZVYDehIBSrxM0y6dA.jpg",
+            "slug": "evangelion-10-you-are-not-alone-aedbec"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "eab6601a-055d-4ea1-a0d0-1d7756614ef6",
+      "title": "Моя підбірка комедій",
+      "content_type": "anime",
+      "visibility": "unlisted",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "комедія",
+        "особисте"
+      ],
+      "labels_order": [
+        "Обов'язково для перегляду"
+      ],
+      "entries": 5,
+      "vote_score": 3,
+      "comments_count": 6,
+      "created": 1709252802,
+      "updated": 1717104681,
+      "author": {
+        "reference": "6ca960d0-b84f-4769-bef5-b132c0211613",
+        "username": "volbil",
+        "avatar": "https://cdn.hikka.io/uploads/volbil/avatar/bee94adc-16bc-4b70-a690-04b25ab5ead7.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Обов'язково для перегляду",
+          "comment": null,
+          "content": {
+            "title": "Цей прекрасний світ, благословенний Богом!",
+            "image": "https://cdn.hikka.io/content/anime/kono-subarashii-sekai-ni-shukufuku-wo-4ec323/YTxBeneJBFqv8Uq_ZyRwaA.jpg",
+            "slug": "kono-subarashii-sekai-ni-shukufuku-wo-4ec323"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Обов'язково для перегляду",
+          "comment": null,
+          "content": {
+            "title": "Машл: Магія та м'язи",
+            "image": "https://cdn.hikka.io/content/anime/mashle-e2ce89/Fx9gXo23Tj7JljJDTQUR7w.jpg",
+            "slug": "mashle-e2ce89"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Обов'язково для перегляду",
+          "comment": null,
+          "content": {
+            "title": "Каґуя хоче, щоб їй зізналися: Війна любові та розуму геніїв",
+            "image": "https://cdn.hikka.io/content/anime/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-a3ac07/Ju06eCAihUeAZHJsdz6k0A.jpg",
+            "slug": "kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-a3ac07"
+          }
+        }
+      ]
+    }
+  ]
+}
