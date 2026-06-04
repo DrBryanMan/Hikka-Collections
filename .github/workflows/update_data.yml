@@ -1,4 +1,4 @@
-name: Notion Data Import
+name: Data Import
 
 on:
   schedule:
