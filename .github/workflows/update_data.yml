@@ -18,11 +18,9 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install dependencies
-
       - name: Run import script
         run: |
-          python notion_data_import.py
+          python parser.py
 
       - name: Commit and push if changed
         run: |
