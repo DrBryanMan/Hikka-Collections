@@ -1,7 +1,69 @@
 {
-  "parsed_at": "2026-06-01T10:29:50.610177+00:00",
-  "total": 185,
+  "parsed_at": "2026-06-09T14:29:55.344373+00:00",
+  "total": 186,
   "collections": [
+    {
+      "reference": "685fe206-6427-4a1b-88ad-3cfed80c8f98",
+      "title": "Майбутнє",
+      "content_type": "anime",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "2029 ~ 2100 рр.",
+        "2101 ~ 2300 рр.",
+        "2301 ~ 3000 рр.",
+        "3001+",
+        "майбутнє, що вже настало",
+        "інше/точний період не згадується"
+      ],
+      "entries": 80,
+      "vote_score": 7,
+      "comments_count": 2,
+      "created": 1780829736,
+      "updated": 1780994757,
+      "author": {
+        "reference": "383b9023-e026-4ed9-a3dc-9ad807950563",
+        "username": "Larsia",
+        "avatar": "https://cdn.hikka.io/uploads/Larsia/avatar/9fefdd51-4838-4d51-b779-3df6066f9360.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "2029 ~ 2100 рр.",
+          "comment": null,
+          "content": {
+            "title": "Ковбой Бібоп",
+            "image": "https://cdn.hikka.io/content/anime/cowboy-bebop-d572ee/JUqRUSAttIeSq2anGTrTvQ.jpg",
+            "slug": "cowboy-bebop-d572ee"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "2029 ~ 2100 рр.",
+          "comment": null,
+          "content": {
+            "title": "Ковбой Бібоп: Двері до раю",
+            "image": "https://cdn.hikka.io/content/anime/cowboy-bebop-tengoku-no-tobira-f6de4f/ngn5iwnR7e71nW6ue7F_yg.jpg",
+            "slug": "cowboy-bebop-tengoku-no-tobira-f6de4f"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "2029 ~ 2100 рр.",
+          "comment": null,
+          "content": {
+            "title": "Блукальці",
+            "image": "https://cdn.hikka.io/content/anime/planetes-7735da/L5_DvW0KdytU2n1sduIEWw.jpg",
+            "slug": "planetes-7735da"
+          }
+        }
+      ]
+    },
     {
       "reference": "7c123cfb-6cc7-4644-8134-3eeb0134fae6",
       "title": "Жіночі ісекаї",
@@ -6551,7 +6613,9 @@
       "visibility": "public",
       "spoiler": false,
       "nsfw": false,
-      "categories": ["Повторення функціоналу"],
+      "categories": [
+        "Повторення функціоналу"
+      ],
       "tags": [
         "бойовик",
         "джоджо"
@@ -7806,7 +7870,9 @@
       "visibility": "public",
       "spoiler": false,
       "nsfw": false,
-      "categories": ["Повторення функціоналу"],
+      "categories": [
+        "Повторення функціоналу"
+      ],
       "tags": [
         "романтика",
         "драма"
@@ -8611,7 +8677,9 @@
       "nsfw": false,
       "tags": [],
       "subjective": true,
-      "categories": ["Повторення функціоналу"],
+      "categories": [
+        "Повторення функціоналу"
+      ],
       "labels_order": [
         "Норм",
         "Таке собі",
@@ -8855,7 +8923,9 @@
       "spoiler": false,
       "nsfw": false,
       "subjective": true,
-      "categories": ["Повторення функціоналу"],
+      "categories": [
+        "Повторення функціоналу"
+      ],
       "tags": [
         "комедія",
         "романтика"
@@ -9667,7 +9737,9 @@
       "visibility": "public",
       "spoiler": false,
       "nsfw": false,
-      "categories": ["Повторення функціоналу"],
+      "categories": [
+        "Повторення функціоналу"
+      ],
       "tags": [],
       "labels_order": [],
       "entries": 16,
@@ -9778,7 +9850,9 @@
       "visibility": "public",
       "spoiler": false,
       "nsfw": false,
-      "categories": ["Повторення функціоналу"],
+      "categories": [
+        "Повторення функціоналу"
+      ],
       "tags": [
         "detective",
         "детектив",
