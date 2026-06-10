@@ -1,7 +1,70 @@
 {
-  "parsed_at": "2026-06-09T14:29:55.344373+00:00",
-  "total": 186,
+  "parsed_at": "2026-06-10T23:40:31.511144+00:00",
+  "total": 187,
   "collections": [
+    {
+      "reference": "15ed790e-7f47-4120-882f-024cfdf53041",
+      "title": "Японія в епохах",
+      "content_type": "anime",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Муромачі (1336 ~ 1573 рр.)",
+        "Сенґоку (1467 ~ 1573 рр)",
+        "Едо (1603 ~ 1868 рр.)",
+        "Мейджі (1868 ~ 1912 рр.)",
+        "Тайшьо (1912 ~ 1926 рр.)",
+        "Шьова (1926 ~ 1980 рр.)",
+        "інше"
+      ],
+      "entries": 63,
+      "vote_score": 9,
+      "comments_count": 2,
+      "created": 1781099602,
+      "updated": 1781114659,
+      "author": {
+        "reference": "383b9023-e026-4ed9-a3dc-9ad807950563",
+        "username": "Larsia",
+        "avatar": "https://cdn.hikka.io/uploads/Larsia/avatar/9fefdd51-4838-4d51-b779-3df6066f9360.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Муромачі (1336 ~ 1573 рр.)",
+          "comment": null,
+          "content": {
+            "title": "Принцеса Мононоке",
+            "image": "https://cdn.hikka.io/content/anime/mononoke-hime-def1fc/PgAWoyFHZWz_-db4J25s-A.jpg",
+            "slug": "mononoke-hime-def1fc"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Муромачі (1336 ~ 1573 рр.)",
+          "comment": null,
+          "content": {
+            "title": "Іну-О",
+            "image": "https://cdn.hikka.io/content/anime/inu-ou-eb02f4/HAHNSCz921iZgMuL-iFM3A.jpg",
+            "slug": "inu-ou-eb02f4"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Муромачі (1336 ~ 1573 рр.)",
+          "comment": null,
+          "content": {
+            "title": "Ашюра",
+            "image": "https://cdn.hikka.io/content/anime/asura-7db4b9/6S992Dr_saBiL86sDygpgw.jpg",
+            "slug": "asura-7db4b9"
+          }
+        }
+      ]
+    },
     {
       "reference": "685fe206-6427-4a1b-88ad-3cfed80c8f98",
       "title": "Майбутнє",
