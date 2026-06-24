@@ -1,7 +1,72 @@
 {
-  "parsed_at": "2026-06-10T23:40:31.511144+00:00",
-  "total": 187,
+  "parsed_at": "2026-06-24T23:12:30.590953+00:00",
+  "total": 188,
   "collections": [
+    {
+      "reference": "df77a92d-cb4f-417c-b8b2-4d1bc839d017",
+      "title": "Екранізації Кірара-манґи",
+      "content_type": "anime",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "мое",
+        "адаптації",
+        "аніме"
+      ],
+      "labels_order": [
+        "Manga Time Kirara",
+        "Manga Time Kirara Carat",
+        "Manga Time Kirara MAX",
+        "Manga Time Kirara Forward ",
+        " Manga Time Kirara Miracle"
+      ],
+      "entries": 40,
+      "vote_score": 4,
+      "comments_count": 0,
+      "created": 1782293372,
+      "updated": 1782307072,
+      "author": {
+        "reference": "61cfb7db-e2e7-46c0-a88c-6b221b62112f",
+        "username": "Mizuno21",
+        "avatar": "https://cdn.hikka.io/uploads/Mizuno21/avatar/79870988-7bce-470b-9856-44463f02f180.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Manga Time Kirara",
+          "comment": "Манґа видавалася з 2004",
+          "content": {
+            "title": "Doujin Work",
+            "image": "https://cdn.hikka.io/content/anime/doujin-work-eefbff/-tq5QSJpEK4iWXvE_asd_g.jpg",
+            "slug": "doujin-work-eefbff"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Manga Time Kirara",
+          "comment": "Також вийшов 2 сезон, дві ова і фільм",
+          "content": {
+            "title": "Кей-Он!",
+            "image": "https://cdn.hikka.io/content/anime/k-on-f5a490/PECUiAQzU5PK7u4jJNVKjQ.jpg",
+            "slug": "k-on-f5a490"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Manga Time Kirara",
+          "comment": null,
+          "content": {
+            "title": "Туди-сюди",
+            "image": "https://cdn.hikka.io/content/anime/acchi-kocchi-031325/w9lGy1fyI72cWgvRZbbJSQ.jpg",
+            "slug": "acchi-kocchi-031325"
+          }
+        }
+      ]
+    },
     {
       "reference": "15ed790e-7f47-4120-882f-024cfdf53041",
       "title": "Японія в епохах",
