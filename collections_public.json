@@ -1,7 +1,133 @@
 {
-  "parsed_at": "2026-06-24T23:12:30.590953+00:00",
-  "total": 188,
+  "parsed_at": "2026-06-29T23:03:56.498078+00:00",
+  "total": 190,
   "collections": [
+    {
+      "reference": "c4a27b01-1258-46bb-ae93-c327153db5ab",
+      "title": "Справи сімейні (інцест у манзі)",
+      "content_type": "manga",
+      "visibility": "public",
+      "spoiler": true,
+      "nsfw": true,
+      "tags": [
+        "інцест",
+        "романтика",
+        "сестра"
+      ],
+      "labels_order": [
+        "Пряма спорідненість",
+        "Прийомні або зведені",
+        "Кілька родичів є романтичними інтересами"
+      ],
+      "entries": 26,
+      "vote_score": 3,
+      "comments_count": 3,
+      "created": 1782743804,
+      "updated": 1782743840,
+      "author": {
+        "reference": "82e5b241-f602-41be-9754-3d8cc0488a3a",
+        "username": "Voytsik",
+        "avatar": "https://cdn.hikka.io/uploads/Voytsik/avatar/0ebc4ff0-e630-4d25-a352-e5be9ef76159.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": "Пряма спорідненість",
+          "comment": null,
+          "content": {
+            "title": "Діти улюблениці",
+            "image": "https://cdn.hikka.io/content/manga/oshi-no-ko-23e5e0/NoUw2rsyTdxoUKgg1xfbWQ.jpg",
+            "slug": "oshi-no-ko-23e5e0"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": "Пряма спорідненість",
+          "comment": null,
+          "content": {
+            "title": "Ani to Imouto no Shitai Shitai Shitai Koto",
+            "image": "https://cdn.hikka.io/content/manga/ani-to-imouto-no-shitai-shitai-shitai-koto-1ed8d2/x87AKRnX_Hikayxt2qOLSQ.jpg",
+            "slug": "ani-to-imouto-no-shitai-shitai-shitai-koto-1ed8d2"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": "Пряма спорідненість",
+          "comment": null,
+          "content": {
+            "title": "Ероманґа-сенсей",
+            "image": "https://cdn.hikka.io/content/manga/eromanga-sensei-706a69/sPjUd60dyEuZjDK866rq7Q.jpg",
+            "slug": "eromanga-sensei-706a69"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "709c5113-5121-4d6c-ad4c-c55d73cfb8d6",
+      "title": "Справи сімейні (інцест в аніме)",
+      "content_type": "anime",
+      "visibility": "public",
+      "spoiler": true,
+      "nsfw": false,
+      "tags": [
+        "інцест",
+        "романтика",
+        "сестра"
+      ],
+      "labels_order": [
+        "Пряма спорідненість",
+        "Прийомні або зведені",
+        "Кілька родичів є романтичними інтересами"
+      ],
+      "entries": 14,
+      "vote_score": 8,
+      "comments_count": 2,
+      "created": 1782742456,
+      "updated": 1782743591,
+      "author": {
+        "reference": "82e5b241-f602-41be-9754-3d8cc0488a3a",
+        "username": "Voytsik",
+        "avatar": "https://cdn.hikka.io/uploads/Voytsik/avatar/0ebc4ff0-e630-4d25-a352-e5be9ef76159.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Пряма спорідненість",
+          "comment": null,
+          "content": {
+            "title": "Діти улюблениці ",
+            "image": "https://cdn.hikka.io/content/anime/oshi-no-ko-421060/-5UVBoFTYN0w9jmImLJwVQ.jpg",
+            "slug": "oshi-no-ko-421060"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Пряма спорідненість",
+          "comment": null,
+          "content": {
+            "title": "Без гри нема життя",
+            "image": "https://cdn.hikka.io/content/anime/no-game-no-life-90530e/uRxBvz8zkCLMGRTI-WtFyw.jpg",
+            "slug": "no-game-no-life-90530e"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Пряма спорідненість",
+          "comment": null,
+          "content": {
+            "title": "Люблю сестру, хоч не сестра вона мені",
+            "image": "https://cdn.hikka.io/content/anime/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-8288bf/txaa0ZjDtkTCtrIYizbklQ.jpg",
+            "slug": "ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-8288bf"
+          }
+        }
+      ]
+    },
     {
       "reference": "df77a92d-cb4f-417c-b8b2-4d1bc839d017",
       "title": "Екранізації Кірара-манґи",
