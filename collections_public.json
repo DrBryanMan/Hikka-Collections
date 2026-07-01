@@ -1,7 +1,65 @@
 {
-  "parsed_at": "2026-06-29T23:03:56.498078+00:00",
-  "total": 190,
+  "parsed_at": "2026-07-01T23:20:59.202409+00:00",
+  "total": 191,
   "collections": [
+    {
+      "reference": "97bc295b-2ab8-4290-92ce-b5db4fbb9018",
+      "title": "¦ Автобіографічні манґи ¦",
+      "content_type": "manga",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "автобіографія",
+        "манґа"
+      ],
+      "labels_order": [],
+      "entries": 57,
+      "vote_score": 13,
+      "comments_count": 0,
+      "created": 1782883434,
+      "updated": 1782891799,
+      "author": {
+        "reference": "23f98f78-5434-4ec5-a174-47a3734dc619",
+        "username": "Anifloppa",
+        "avatar": "https://cdn.hikka.io/uploads/Anifloppa/avatar/fe218502-e6ea-429f-af08-c585b9230fe3.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Історія про те, як я пройшла шлях від андрофобії до кар'єри порноакторки",
+            "image": "https://cdn.hikka.io/content/manga/dansei-kyoufushou-datta-watashi-ga-av-joyuu-ni-naru-made-no-hanashi-400ec9/SoZn7CbjCpMxXPB2JweIYQ.jpg",
+            "slug": "dansei-kyoufushou-datta-watashi-ga-av-joyuu-ni-naru-made-no-hanashi-400ec9"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Я народилася не тієї статі!",
+            "image": "https://cdn.hikka.io/content/manga/umareru-seibetsu-wo-machigaeta-ab31c0/vofF__WVPS4dPnxxnPSKKQ.jpg",
+            "slug": "umareru-seibetsu-wo-machigaeta-ab31c0"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Мій лесбійський досвід самотности",
+            "image": "https://cdn.hikka.io/content/manga/sabishisugite-lesbian-fuuzoku-ni-ikimashita-report-508f8c/xzITXgN9Gs6lId2vHC6X4w.jpg",
+            "slug": "sabishisugite-lesbian-fuuzoku-ni-ikimashita-report-508f8c"
+          }
+        }
+      ]
+    },
     {
       "reference": "c4a27b01-1258-46bb-ae93-c327153db5ab",
       "title": "Справи сімейні (інцест у манзі)",
