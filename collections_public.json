@@ -1,7 +1,130 @@
 {
-  "parsed_at": "2026-07-01T23:20:59.202409+00:00",
-  "total": 191,
+  "parsed_at": "2026-07-10T23:03:31.993279+00:00",
+  "total": 193,
   "collections": [
+    {
+      "reference": "22b37837-6013-4e28-93d9-b920c9ebb289",
+      "title": "Крафт/Ремісництво",
+      "content_type": "manga",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": true,
+      "tags": [
+        "крафт",
+        "здібності",
+        "алхімія"
+      ],
+      "labels_order": [
+        "Здібність",
+        "Професія",
+        "Реальні знання",
+        "Алхімія"
+      ],
+      "entries": 31,
+      "vote_score": 3,
+      "comments_count": 3,
+      "created": 1783718329,
+      "updated": 1783722111,
+      "author": {
+        "reference": "82e5b241-f602-41be-9754-3d8cc0488a3a",
+        "username": "Voytsik",
+        "avatar": "https://cdn.hikka.io/uploads/Voytsik/avatar/0ebc4ff0-e630-4d25-a352-e5be9ef76159.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": "Здібність",
+          "comment": null,
+          "content": {
+            "title": "Виживання в іншому світі з моєю повелителькою!",
+            "image": "https://cdn.hikka.io/content/manga/goshujinsama-to-yuku-isekai-survival-the-comic-20725b/Ta09Tmwo2CSr7rOiFeX1bA.jpg",
+            "slug": "goshujinsama-to-yuku-isekai-survival-the-comic-20725b"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": "Здібність",
+          "comment": null,
+          "content": {
+            "title": "Cube Arts",
+            "image": "https://cdn.hikka.io/content/manga/cube-arts-3d5df6/pwBTEJsxwEMkHH5iZqrsiQ.jpg",
+            "slug": "cube-arts-3d5df6"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": "Здібність",
+          "comment": null,
+          "content": {
+            "title": "Перезапуск Підземелля",
+            "image": "https://cdn.hikka.io/content/manga/dungeon-reset-929b94/j-pN9_wIC6zM0lF37v4ySA.jpg",
+            "slug": "dungeon-reset-929b94"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "192420cc-1025-47de-99cf-e8bf9a93e2d0",
+      "title": "Фермерство",
+      "content_type": "manga",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "ферма",
+        "фермер",
+        "фермерство"
+      ],
+      "labels_order": [],
+      "entries": 11,
+      "vote_score": 3,
+      "comments_count": 0,
+      "created": 1783716232,
+      "updated": 1783716232,
+      "author": {
+        "reference": "82e5b241-f602-41be-9754-3d8cc0488a3a",
+        "username": "Voytsik",
+        "avatar": "https://cdn.hikka.io/uploads/Voytsik/avatar/0ebc4ff0-e630-4d25-a352-e5be9ef76159.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Фермерське життя в іншому світі",
+            "image": "https://cdn.hikka.io/content/manga/isekai-nonbiri-nouka-2f50e0/_VCJzKfXC9npce4cRrS7uQ.jpg",
+            "slug": "isekai-nonbiri-nouka-2f50e0"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Оце так врожай, Володарю демонів!",
+            "image": "https://cdn.hikka.io/content/manga/what-a-bountiful-harvest-demon-lord-92d687/PwXbv1-M0RyBcPiDhurFwA.jpg",
+            "slug": "what-a-bountiful-harvest-demon-lord-92d687"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Фермерство у вежі на самоті",
+            "image": "https://cdn.hikka.io/content/manga/the-top-dungeon-farmer-5c2707/z_RwOGyMBLre2rQabsE9iA.jpg",
+            "slug": "the-top-dungeon-farmer-5c2707"
+          }
+        }
+      ]
+    },
     {
       "reference": "97bc295b-2ab8-4290-92ce-b5db4fbb9018",
       "title": "¦ Автобіографічні манґи ¦",
