@@ -1,7 +1,65 @@
 {
-  "parsed_at": "2026-07-10T23:03:31.993279+00:00",
-  "total": 193,
+  "parsed_at": "2026-07-13T23:00:47.992367+00:00",
+  "total": 194,
   "collections": [
+    {
+      "reference": "2d0c2739-85e0-49bb-ac6d-9ef55ac49a36",
+      "title": "Бомблять Москву!",
+      "content_type": "anime",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "москва",
+        "руйнування"
+      ],
+      "labels_order": [],
+      "entries": 3,
+      "vote_score": 3,
+      "comments_count": 0,
+      "created": 1783981607,
+      "updated": 1783981621,
+      "author": {
+        "reference": "82e5b241-f602-41be-9754-3d8cc0488a3a",
+        "username": "Voytsik",
+        "avatar": "https://cdn.hikka.io/uploads/Voytsik/avatar/0ebc4ff0-e630-4d25-a352-e5be9ef76159.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": "0:26:55—0:39:13",
+          "content": {
+            "title": "Військова історія маленької дівчинки Фільм",
+            "image": "https://cdn.hikka.io/content/anime/youjo-senki-movie-0bdd80/O2mG_EiU1vUEcI5od4qB4Q.jpg",
+            "slug": "youjo-senki-movie-0bdd80"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": "1:25:40—1:26:00",
+          "content": {
+            "title": "Війна майбутнього 198Х",
+            "image": "https://cdn.hikka.io/content/anime/future-war-198x-nen-657ca5/hqZnzaD1MmFetYUumhOO-Q.jpg",
+            "slug": "future-war-198x-nen-657ca5"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": "1:03:55—1:04:40",
+          "content": {
+            "title": "Мобільний воїн Ґандам: Покоління - Свобода",
+            "image": "https://cdn.hikka.io/content/anime/kidou-senshi-gundam-seed-movie-9e4422/yK6JF8qCnoLdZixm1l20aQ.jpg",
+            "slug": "kidou-senshi-gundam-seed-movie-9e4422"
+          }
+        }
+      ]
+    },
     {
       "reference": "22b37837-6013-4e28-93d9-b920c9ebb289",
       "title": "Крафт/Ремісництво",
