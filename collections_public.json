@@ -1,7 +1,67 @@
 {
-  "parsed_at": "2026-07-13T23:00:47.992367+00:00",
-  "total": 194,
+  "parsed_at": "2026-07-16T23:02:31.487143+00:00",
+  "total": 195,
   "collections": [
+    {
+      "reference": "c7dcc124-0241-4894-9ddf-9da43304cd0e",
+      "title": "Знавці та користувачі багів",
+      "content_type": "manga",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": true,
+      "tags": [
+        "баги"
+      ],
+      "labels_order": [
+        "Реальний світ",
+        "Комп'ютерна гра"
+      ],
+      "entries": 8,
+      "vote_score": 2,
+      "comments_count": 0,
+      "created": 1784201766,
+      "updated": 1784201766,
+      "author": {
+        "reference": "82e5b241-f602-41be-9754-3d8cc0488a3a",
+        "username": "Voytsik",
+        "avatar": "https://cdn.hikka.io/uploads/Voytsik/avatar/0ebc4ff0-e630-4d25-a352-e5be9ef76159.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": "Реальний світ",
+          "comment": null,
+          "content": {
+            "title": "Гравець швидкісного проходження не може повернутися з Ігрового Світу",
+            "image": "https://cdn.hikka.io/content/manga/rta-sousha-wa-game-sekai-kara-kaerenai-5ab3c0/FCKPVOLoUMzqIv1HeW6Y-A.jpg",
+            "slug": "rta-sousha-wa-game-sekai-kara-kaerenai-5ab3c0"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": "Реальний світ",
+          "comment": null,
+          "content": {
+            "title": "Контроль якості в іншому світі",
+            "image": "https://cdn.hikka.io/content/manga/kono-sekai-wa-fukanzen-sugiru-34ef53/UKhaSQyesY8PJRXqv_UlsA.jpg",
+            "slug": "kono-sekai-wa-fukanzen-sugiru-34ef53"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": "Реальний світ",
+          "comment": null,
+          "content": {
+            "title": "Kono Sekai ga Game da to Ore dake ga Shitteiru",
+            "image": "https://cdn.hikka.io/content/manga/kono-sekai-ga-game-da-to-ore-dake-ga-shitteiru-60bf77/7pHCDpEpaPjRZvaAImB0bw.jpg",
+            "slug": "kono-sekai-ga-game-da-to-ore-dake-ga-shitteiru-60bf77"
+          }
+        }
+      ]
+    },
     {
       "reference": "2d0c2739-85e0-49bb-ac6d-9ef55ac49a36",
       "title": "Бомблять Москву!",
