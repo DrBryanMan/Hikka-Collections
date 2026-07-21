@@ -1,7 +1,66 @@
 {
-  "parsed_at": "2026-07-16T23:02:31.487143+00:00",
-  "total": 195,
+  "parsed_at": "2026-07-21T23:02:52.078345+00:00",
+  "total": 196,
   "collections": [
+    {
+      "reference": "e084af02-7529-4666-800b-56470de50312",
+      "title": "Аніме, що несправедливо залишилися в тіні",
+      "content_type": "anime",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Драма",
+        "Психологія",
+        "Фентезі"
+      ],
+      "entries": 28,
+      "vote_score": 6,
+      "comments_count": 0,
+      "created": 1784609037,
+      "updated": 1784609403,
+      "author": {
+        "reference": "d6f7d63c-596c-4405-9f2b-46319e3c49ca",
+        "username": "saneiry",
+        "avatar": "https://cdn.hikka.io/uploads/saneiry/avatar/137ed9ff-eac7-4bdd-886a-346b12559641.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Драма",
+          "comment": null,
+          "content": {
+            "title": "Місце, що далі за всесвіт",
+            "image": "https://cdn.hikka.io/content/anime/sora-yori-mo-tooi-basho-746357/jBS7u1de7nSa9mFSvTnW6g.jpg",
+            "slug": "sora-yori-mo-tooi-basho-746357"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Драма",
+          "comment": null,
+          "content": {
+            "title": "Веселка: Семеро з шостої камери другого блоку",
+            "image": "https://cdn.hikka.io/content/anime/rainbow-nisha-rokubou-no-shichinin-0ddf7b/_DmcVA4Fgdt58B3-Qigr0w.jpg",
+            "slug": "rainbow-nisha-rokubou-no-shichinin-0ddf7b"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Драма",
+          "comment": null,
+          "content": {
+            "title": "Різнобарв'я",
+            "image": "https://cdn.hikka.io/content/anime/colorful-movie-be0099/wzOPgS8OFje3a5FB3u4iUw.jpg",
+            "slug": "colorful-movie-be0099"
+          }
+        }
+      ]
+    },
     {
       "reference": "c7dcc124-0241-4894-9ddf-9da43304cd0e",
       "title": "Знавці та користувачі багів",
