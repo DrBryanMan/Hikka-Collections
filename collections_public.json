@@ -1,7 +1,69 @@
 {
-  "parsed_at": "2026-07-21T23:02:52.078345+00:00",
-  "total": 196,
+  "parsed_at": "2026-07-22T23:09:57.337393+00:00",
+  "total": 197,
   "collections": [
+    {
+      "reference": "c0ff084f-3e0b-40b1-899a-08aaf4a9d496",
+      "title": "Midori no seifuku",
+      "content_type": "character",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "форма",
+        "персонажі",
+        "школа"
+      ],
+      "labels_order": [
+        "Основна уніформа",
+        "Інше"
+      ],
+      "entries": 172,
+      "vote_score": 7,
+      "comments_count": 0,
+      "created": 1784709566,
+      "updated": 1784751158,
+      "author": {
+        "reference": "61cfb7db-e2e7-46c0-a88c-6b221b62112f",
+        "username": "Mizuno21",
+        "avatar": "https://cdn.hikka.io/uploads/Mizuno21/avatar/79870988-7bce-470b-9856-44463f02f180.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "character",
+          "order": 1,
+          "label": "Основна уніформа",
+          "comment": null,
+          "content": {
+            "name": "Eri",
+            "image": "https://cdn.hikka.io/content/characters/eri-0008dd/eehj3HqL9gO2NstsAIniJA.jpg",
+            "slug": "eri-0008dd"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 2,
+          "label": "Основна уніформа",
+          "comment": null,
+          "content": {
+            "name": "Yuka",
+            "image": "https://cdn.hikka.io/content/characters/yuka-513b70/jOMfHcatcWZvoV9NoiA3pg.jpg",
+            "slug": "yuka-513b70"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 3,
+          "label": "Основна уніформа",
+          "comment": null,
+          "content": {
+            "name": "Хіґураші Каґоме",
+            "image": "https://cdn.hikka.io/content/characters/kagome-higurashi-52e7ef/T6BZ28vZ9vYk4UN2wzL-kA.jpg",
+            "slug": "kagome-higurashi-52e7ef"
+          }
+        }
+      ]
+    },
     {
       "reference": "e084af02-7529-4666-800b-56470de50312",
       "title": "Аніме, що несправедливо залишилися в тіні",
