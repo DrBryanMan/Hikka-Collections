@@ -1,7 +1,127 @@
 {
-  "parsed_at": "2026-07-22T23:09:57.337393+00:00",
-  "total": 197,
+  "parsed_at": "2026-07-23T23:02:48.384613+00:00",
+  "total": 199,
   "collections": [
+    {
+      "reference": "994ae315-a846-459a-82cd-944f39d1c882",
+      "title": "Лолі понад усе",
+      "content_type": "character",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "loli",
+        "лолі"
+      ],
+      "labels_order": [
+        "Справжні",
+        "Легальні",
+        "Невідомо"
+      ],
+      "entries": 65,
+      "vote_score": 0,
+      "comments_count": 1,
+      "created": 1784836764,
+      "updated": 1784838581,
+      "author": {
+        "reference": "82e5b241-f602-41be-9754-3d8cc0488a3a",
+        "username": "Voytsik",
+        "avatar": "https://cdn.hikka.io/uploads/Voytsik/avatar/0ebc4ff0-e630-4d25-a352-e5be9ef76159.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "character",
+          "order": 1,
+          "label": "Справжні",
+          "comment": "6 років",
+          "content": {
+            "name": "Аня Форджер",
+            "image": "https://cdn.hikka.io/content/characters/anya-forger-3a2000/bquNeAVTbu0IfeK9Z-iQmA.jpg",
+            "slug": "anya-forger-3a2000"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 2,
+          "label": "Справжні",
+          "comment": "9 років",
+          "content": {
+            "name": "Сайкава Ріко",
+            "image": "https://cdn.hikka.io/content/characters/riko-saikawa-eb40b2/cszNv1TvRdgU08wQMD46gw.jpg",
+            "slug": "riko-saikawa-eb40b2"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 3,
+          "label": "Справжні",
+          "comment": "7 років",
+          "content": {
+            "name": "Котоїші Нару",
+            "image": "https://cdn.hikka.io/content/characters/naru-kotoishi-480c36/6rDNlc51yg31x8idVivs-A.jpg",
+            "slug": "naru-kotoishi-480c36"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "5dedb01a-e424-416a-b374-770e1cd7bbaa",
+      "title": "Vore is Love, Vore is Life!",
+      "content_type": "manga",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": true,
+      "tags": [
+        "vore",
+        "воре"
+      ],
+      "labels_order": [],
+      "entries": 20,
+      "vote_score": 4,
+      "comments_count": 8,
+      "created": 1784762850,
+      "updated": 1784840044,
+      "author": {
+        "reference": "82e5b241-f602-41be-9754-3d8cc0488a3a",
+        "username": "Voytsik",
+        "avatar": "https://cdn.hikka.io/uploads/Voytsik/avatar/0ebc4ff0-e630-4d25-a352-e5be9ef76159.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": null,
+          "comment": "Людина?-людина, глава 1-3, 5, 8, 11",
+          "content": {
+            "title": "Kimi no Koto Tabete Iii?",
+            "image": "https://cdn.hikka.io/content/manga/kimi-no-koto-tabete-iii-d2b706/UrG4bmExn2odmePF_ePblQ.jpg",
+            "slug": "kimi-no-koto-tabete-iii-d2b706"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": null,
+          "comment": "Ламія-людина, глава 14",
+          "content": {
+            "title": "Moto Yuusha wa Monster Musume ni Yararetai",
+            "image": "https://cdn.hikka.io/content/manga/moto-yuusha-wa-monster-musume-ni-yararetai-8d8295/CLRwGvt4vxjLpMLO5ofm6g.jpg",
+            "slug": "moto-yuusha-wa-monster-musume-ni-yararetai-8d8295"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": null,
+          "comment": "Велетень-людина, глава 25",
+          "content": {
+            "title": "Книга мертвих",
+            "image": "https://cdn.hikka.io/content/manga/the-last-passage-8a8456/5FeDuusyeGnOskskxZmeCw.jpg",
+            "slug": "the-last-passage-8a8456"
+          }
+        }
+      ]
+    },
     {
       "reference": "c0ff084f-3e0b-40b1-899a-08aaf4a9d496",
       "title": "Midori no seifuku",
