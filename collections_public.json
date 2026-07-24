@@ -1,7 +1,62 @@
 {
-  "parsed_at": "2026-07-23T23:02:48.384613+00:00",
-  "total": 199,
+  "parsed_at": "2026-07-24T23:07:21.356832+00:00",
+  "total": 200,
   "collections": [
+    {
+      "reference": "f04edeed-9fe5-43a0-94ec-ad462274b570",
+      "title": "Сузір'я",
+      "content_type": "manga",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": true,
+      "tags": [],
+      "labels_order": [],
+      "entries": 11,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1784924700,
+      "updated": 1784924720,
+      "author": {
+        "reference": "82e5b241-f602-41be-9754-3d8cc0488a3a",
+        "username": "Voytsik",
+        "avatar": "https://cdn.hikka.io/uploads/Voytsik/avatar/0ebc4ff0-e630-4d25-a352-e5be9ef76159.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Погляд обізнаного читача",
+            "image": "https://cdn.hikka.io/content/manga/omniscient-readers-viewpoint-e16412/zYLpQX3S3U8Zsv1svUUOuQ.jpg",
+            "slug": "omniscient-readers-viewpoint-e16412"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "How to Survive Restructuring",
+            "image": "https://cdn.hikka.io/content/manga/how-to-survive-restructuring-77fcc0/EU83-ZPpTDJycamZk7alCQ.jpg",
+            "slug": "how-to-survive-restructuring-77fcc0"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "The Main Characters That Only I Know",
+            "image": "https://cdn.hikka.io/content/manga/the-main-characters-that-only-i-know-2f02cc/yx8Lqemwp6Va6z5KBYmKEw.jpg",
+            "slug": "the-main-characters-that-only-i-know-2f02cc"
+          }
+        }
+      ]
+    },
     {
       "reference": "994ae315-a846-459a-82cd-944f39d1c882",
       "title": "Лолі понад усе",
