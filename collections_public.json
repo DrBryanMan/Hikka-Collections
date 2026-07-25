@@ -1,7 +1,65 @@
 {
-  "parsed_at": "2026-07-24T23:07:21.356832+00:00",
-  "total": 200,
+  "parsed_at": "2026-07-25T22:59:36.773519+00:00",
+  "total": 201,
   "collections": [
+    {
+      "reference": "00ea6b8d-3114-40f5-971b-a83d6d844c14",
+      "title": "food porn 🍜",
+      "content_type": "anime",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "TV серіали",
+        "Фільми"
+      ],
+      "entries": 43,
+      "vote_score": 6,
+      "comments_count": 2,
+      "created": 1784977434,
+      "updated": 1784984106,
+      "author": {
+        "reference": "d6f7d63c-596c-4405-9f2b-46319e3c49ca",
+        "username": "saneiry",
+        "avatar": "https://cdn.hikka.io/uploads/saneiry/avatar/137ed9ff-eac7-4bdd-886a-346b12559641.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "TV серіали",
+          "comment": null,
+          "content": {
+            "title": "Підземелля смакоти",
+            "image": "https://cdn.hikka.io/content/anime/dungeon-meshi-fa86ef/ITpBdVvwpA7smyh4FVN-SA.jpg",
+            "slug": "dungeon-meshi-fa86ef"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "TV серіали",
+          "comment": null,
+          "content": {
+            "title": "Кулінарні поєдинки Соми",
+            "image": "https://cdn.hikka.io/content/anime/shokugeki-no-souma-283b01/CsUOMMDHx6txqZTrABwbQg.jpg",
+            "slug": "shokugeki-no-souma-283b01"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "TV серіали",
+          "comment": null,
+          "content": {
+            "title": "Кулінарія на багатті з іншого світу",
+            "image": "https://cdn.hikka.io/content/anime/tondemo-skill-de-isekai-hourou-meshi-81ec2c/1AHdzqDkQwzp-btTdLG1MQ.jpg",
+            "slug": "tondemo-skill-de-isekai-hourou-meshi-81ec2c"
+          }
+        }
+      ]
+    },
     {
       "reference": "f04edeed-9fe5-43a0-94ec-ad462274b570",
       "title": "Сузір'я",
