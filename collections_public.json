@@ -1,7 +1,51 @@
 {
-  "parsed_at": "2026-07-25T22:59:36.773519+00:00",
-  "total": 201,
+  "parsed_at": "2026-08-04T23:08:36.103952+00:00",
+  "total": 202,
   "collections": [
+    {
+      "reference": "6644a8d7-8c91-4c74-9d23-ec1c842e2c57",
+      "title": "Поціновувачки Ugly Bastard-ів",
+      "content_type": "character",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 2,
+      "vote_score": 2,
+      "comments_count": 2,
+      "created": 1785862568,
+      "updated": 1785874010,
+      "author": {
+        "reference": "2083e580-5265-491e-aeb3-aecd6ab3a33c",
+        "username": "Nagicchi",
+        "avatar": "https://cdn.hikka.io/uploads/Nagicchi/avatar/560ab7ec-9198-48ec-8d63-f5976cdc1c6e.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "character",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "name": "Панчошка Анархія",
+            "image": "https://cdn.hikka.io/content/characters/stocking-anarchy-e6cba6/yZtCZIvVMrnZIaBqEauNWA.jpg",
+            "slug": "stocking-anarchy-e6cba6"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "name": "Селестина",
+            "image": "https://cdn.hikka.io/content/characters/celestine-2e7800/BF1JSiY4s1e7BpceT5HdrA.jpg",
+            "slug": "celestine-2e7800"
+          }
+        }
+      ]
+    },
     {
       "reference": "00ea6b8d-3114-40f5-971b-a83d6d844c14",
       "title": "food porn 🍜",
