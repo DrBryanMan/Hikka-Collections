@@ -1,7 +1,127 @@
 {
-  "parsed_at": "2026-08-04T23:08:36.103952+00:00",
-  "total": 202,
+  "parsed_at": "2026-08-07T01:31:04.970487+00:00",
+  "total": 204,
   "collections": [
+    {
+      "reference": "c095ca9f-ce61-48e9-ae20-894a100991af",
+      "title": "Переродження в істоту або предмет",
+      "content_type": "manga",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "переродження",
+        "тварина"
+      ],
+      "labels_order": [
+        "Тварина",
+        "Рослина",
+        "Інше"
+      ],
+      "entries": 38,
+      "vote_score": 5,
+      "comments_count": 2,
+      "created": 1786013347,
+      "updated": 1786016702,
+      "author": {
+        "reference": "82e5b241-f602-41be-9754-3d8cc0488a3a",
+        "username": "Voytsik",
+        "avatar": "https://cdn.hikka.io/uploads/Voytsik/avatar/0ebc4ff0-e630-4d25-a352-e5be9ef76159.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": "Тварина",
+          "comment": "Павук",
+          "content": {
+            "title": "Я павучиха, то й що?",
+            "image": "https://cdn.hikka.io/content/manga/kumo-desu-ga-nani-ka-ca488d/vrEkiLoU251x-qsXqrY-5Q.jpg",
+            "slug": "kumo-desu-ga-nani-ka-ca488d"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": "Тварина",
+          "comment": "Слизень",
+          "content": {
+            "title": "Про моє переродження в слиз",
+            "image": "https://cdn.hikka.io/content/manga/tensei-shitara-slime-datta-ken-9c2267/b6UiFg3GTYQsuqISYjYgaA.jpg",
+            "slug": "tensei-shitara-slime-datta-ken-9c2267"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": "Тварина",
+          "comment": "Слизень",
+          "content": {
+            "title": "Slime Tensei.: Daikenja ga Youjo Elf ni Dakishimeraretemasu",
+            "image": "https://cdn.hikka.io/content/manga/slime-tensei-daikenja-ga-youjo-elf-ni-dakishimeraretemasu-495320/bo1-EgMyHBwhzU68p673ug.jpg",
+            "slug": "slime-tensei-daikenja-ga-youjo-elf-ni-dakishimeraretemasu-495320"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "018a603b-0ff7-4d68-aa55-7ef4cab07247",
+      "title": "Принцеси/королеви демонів",
+      "content_type": "manga",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Принцеси",
+        "Королеви"
+      ],
+      "entries": 25,
+      "vote_score": 1,
+      "comments_count": 0,
+      "created": 1786012370,
+      "updated": 1786015685,
+      "author": {
+        "reference": "82e5b241-f602-41be-9754-3d8cc0488a3a",
+        "username": "Voytsik",
+        "avatar": "https://cdn.hikka.io/uploads/Voytsik/avatar/0ebc4ff0-e630-4d25-a352-e5be9ef76159.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": "Принцеси",
+          "comment": null,
+          "content": {
+            "title": "Я народилася донькою володаря демонів",
+            "image": "https://cdn.hikka.io/content/manga/the-adventures-of-a-demon-kings-daughter-6aedd3/HY92-eODpZOpgseD3_QHPg.jpg",
+            "slug": "the-adventures-of-a-demon-kings-daughter-6aedd3"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": "Принцеси",
+          "comment": null,
+          "content": {
+            "title": "Донька короля демонів занадто добра",
+            "image": "https://cdn.hikka.io/content/manga/maou-no-musume-wa-yasashisugiru-3c0997/ajDyS_21lCnJ5Rf1eGwdsg.jpg",
+            "slug": "maou-no-musume-wa-yasashisugiru-3c0997"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": "Принцеси",
+          "comment": null,
+          "content": {
+            "title": "Maou-sama ni Shoukan sareta kedo Kotoba ga Tsuujinai.",
+            "image": "https://cdn.hikka.io/content/manga/maou-sama-ni-shoukan-sareta-kedo-kotoba-ga-tsuujinai-03df7e/I5B8xWJ4WjdgHEZO8jzo7A.jpg",
+            "slug": "maou-sama-ni-shoukan-sareta-kedo-kotoba-ga-tsuujinai-03df7e"
+          }
+        }
+      ]
+    },
     {
       "reference": "6644a8d7-8c91-4c74-9d23-ec1c842e2c57",
       "title": "Поціновувачки Ugly Bastard-ів",
