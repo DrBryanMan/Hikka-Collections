@@ -1,7 +1,62 @@
 {
-  "parsed_at": "2026-08-07T01:31:04.970487+00:00",
-  "total": 204,
+  "parsed_at": "2026-08-09T22:37:03.834247+00:00",
+  "total": 205,
   "collections": [
+    {
+      "reference": "cf24f02c-d904-47a6-b9af-4a7ce771c73f",
+      "title": "Дівчата зі шрамами",
+      "content_type": "character",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 22,
+      "vote_score": 6,
+      "comments_count": 7,
+      "created": 1786281045,
+      "updated": 1786308702,
+      "author": {
+        "reference": "2083e580-5265-491e-aeb3-aecd6ab3a33c",
+        "username": "Nagicchi",
+        "avatar": "https://cdn.hikka.io/uploads/Nagicchi/avatar/560ab7ec-9198-48ec-8d63-f5976cdc1c6e.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "character",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "name": "Аміда Арка",
+            "image": "https://cdn.hikka.io/content/characters/amida-arca-201447/dJ-VagQ7P2QaziiUpQ33Rw.jpg",
+            "slug": "amida-arca-201447"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "name": "Раельза",
+            "image": "https://cdn.hikka.io/content/characters/raelza-3bbd7d/rWP6Ef8ZyOzJdwiTzz6ETQ.jpg",
+            "slug": "raelza-3bbd7d"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "name": "Унохана Рецу",
+            "image": "https://cdn.hikka.io/content/characters/retsu-unohana-15b16d/pgNx2Hvkj2u5dRBNqHqUyg.jpg",
+            "slug": "retsu-unohana-15b16d"
+          }
+        }
+      ]
+    },
     {
       "reference": "c095ca9f-ce61-48e9-ae20-894a100991af",
       "title": "Переродження в істоту або предмет",
