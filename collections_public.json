@@ -1,7 +1,66 @@
 {
-  "parsed_at": "2026-08-11T22:51:17.261205+00:00",
-  "total": 206,
+  "parsed_at": "2026-08-13T22:50:55.592474+00:00",
+  "total": 207,
   "collections": [
+    {
+      "reference": "bc218837-a200-459c-9888-e82cde1868f2",
+      "title": "Науковці",
+      "content_type": "character",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Добро",
+        "Нейтрал",
+        "Зло"
+      ],
+      "entries": 41,
+      "vote_score": 3,
+      "comments_count": 2,
+      "created": 1786630034,
+      "updated": 1786647939,
+      "author": {
+        "reference": "82e5b241-f602-41be-9754-3d8cc0488a3a",
+        "username": "Voytsik",
+        "avatar": "https://cdn.hikka.io/uploads/Voytsik/avatar/0ebc4ff0-e630-4d25-a352-e5be9ef76159.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "character",
+          "order": 1,
+          "label": "Добро",
+          "comment": null,
+          "content": {
+            "name": "Окабе Рінтаро",
+            "image": "https://cdn.hikka.io/content/characters/rintarou-okabe-765892/U4fQxyWSSlKuJyBVcISb4A.jpg",
+            "slug": "rintarou-okabe-765892"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 2,
+          "label": "Добро",
+          "comment": null,
+          "content": {
+            "name": "Макісе Курісу",
+            "image": "https://cdn.hikka.io/content/characters/kurisu-makise-70a4ae/X7nA1SMshMIK9_H-0UbLyg.jpg",
+            "slug": "kurisu-makise-70a4ae"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 3,
+          "label": "Добро",
+          "comment": null,
+          "content": {
+            "name": "Юкімура Шін'я",
+            "image": "https://cdn.hikka.io/content/characters/shinya-yukimura-2cb0ee/vzFWNvBJFVsaJbuRQQA6lg.jpg",
+            "slug": "shinya-yukimura-2cb0ee"
+          }
+        }
+      ]
+    },
     {
       "reference": "d39965f4-81f1-4afd-af6b-0feec1cc0d9c",
       "title": "Наставники",
