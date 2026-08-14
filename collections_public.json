@@ -1,7 +1,62 @@
 {
-  "parsed_at": "2026-08-13T22:50:55.592474+00:00",
-  "total": 207,
+  "parsed_at": "2026-08-14T22:29:46.836009+00:00",
+  "total": 208,
   "collections": [
+    {
+      "reference": "1b2ae223-1f9a-42e3-ae9b-0c12b762bdd4",
+      "title": "Аристократи Герцоги Ісекай",
+      "content_type": "manga",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 68,
+      "vote_score": 11,
+      "comments_count": 1,
+      "created": 1786700982,
+      "updated": 1786716538,
+      "author": {
+        "reference": "6bdfc45c-34be-4572-a64c-7899cb937253",
+        "username": "Anonimka",
+        "avatar": "https://cdn.hikka.io/uploads/Anonimka/UploadTypeEnum.avatar/fa465731-ebad-4a86-9ab0-6d2c87ab285b.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Навіть якщо донька лиходія повернеться",
+            "image": "https://cdn.hikka.io/content/manga/even-if-the-villains-daughter-regresses-ec0755/-QekGdIBtgqr3LpkPVLh0w.jpg",
+            "slug": "even-if-the-villains-daughter-regresses-ec0755"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Непереможна принцеса сьогодні знову нудьгує",
+            "image": "https://cdn.hikka.io/content/manga/the-dukes-bored-daughter-is-my-master-badfc3/dZ1aKMqVyAboMmghznxi4w.jpg",
+            "slug": "the-dukes-bored-daughter-is-my-master-badfc3"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Історія солдата, який став монархом",
+            "image": "https://cdn.hikka.io/content/manga/becoming-the-monarch-0486a0/pdjHUK0PIp0jdbbR3Ia72Q.jpg",
+            "slug": "becoming-the-monarch-0486a0"
+          }
+        }
+      ]
+    },
     {
       "reference": "bc218837-a200-459c-9888-e82cde1868f2",
       "title": "Науковці",
