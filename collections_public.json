@@ -1,7 +1,69 @@
 {
-  "parsed_at": "2026-08-14T22:29:46.836009+00:00",
-  "total": 208,
+  "parsed_at": "2026-08-16T22:27:41.376703+00:00",
+  "total": 209,
   "collections": [
+    {
+      "reference": "512d3a72-4ead-4d28-a7c6-5ea7116d78eb",
+      "title": "Справжній гарем",
+      "content_type": "manga",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "гарем"
+      ],
+      "labels_order": [
+        "Жіночий (гг чоловік)",
+        "Чоловічий (гг жінка)",
+        "Юрі (гг жінка)",
+        "Інше"
+      ],
+      "entries": 78,
+      "vote_score": 2,
+      "comments_count": 0,
+      "created": 1786887582,
+      "updated": 1786888011,
+      "author": {
+        "reference": "82e5b241-f602-41be-9754-3d8cc0488a3a",
+        "username": "Voytsik",
+        "avatar": "https://cdn.hikka.io/uploads/Voytsik/avatar/0ebc4ff0-e630-4d25-a352-e5be9ef76159.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": "Жіночий (гг чоловік)",
+          "comment": null,
+          "content": {
+            "title": "100 дівчат, які дуже, дуже, дуже, дуже, дуже тебе кохають",
+            "image": "https://cdn.hikka.io/content/manga/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-f8fded/kYV65pDmERWG74Zt_j_Ohw.jpg",
+            "slug": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-f8fded"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": "Жіночий (гг чоловік)",
+          "comment": null,
+          "content": {
+            "title": "Дівчина і ще дівчина",
+            "image": "https://cdn.hikka.io/content/manga/kanojo-mo-kanojo-e44c68/L5LU1kPdBvuNrY1LXtDI9g.jpg",
+            "slug": "kanojo-mo-kanojo-e44c68"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": "Жіночий (гг чоловік)",
+          "comment": null,
+          "content": {
+            "title": "Тренування рабинь для створення гарему",
+            "image": "https://cdn.hikka.io/content/manga/dorei-wo-choukyou-shite-harem-tsukuru-8e35cd/mR6kLnA-_VHtekdyb6YdXQ.jpg",
+            "slug": "dorei-wo-choukyou-shite-harem-tsukuru-8e35cd"
+          }
+        }
+      ]
+    },
     {
       "reference": "1b2ae223-1f9a-42e3-ae9b-0c12b762bdd4",
       "title": "Аристократи Герцоги Ісекай",
