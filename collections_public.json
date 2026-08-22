@@ -1,7 +1,65 @@
 {
-  "parsed_at": "2026-08-16T22:27:41.376703+00:00",
-  "total": 209,
+  "parsed_at": "2026-08-22T22:28:19.051941+00:00",
+  "total": 210,
   "collections": [
+    {
+      "reference": "5b439125-e45a-4263-85b4-6b29f81226b2",
+      "title": "Персонажі, що страждають від селфхарму",
+      "content_type": "character",
+      "visibility": "public",
+      "spoiler": true,
+      "nsfw": true,
+      "tags": [],
+      "labels_order": [
+        "Жінки",
+        "Чоловіки"
+      ],
+      "entries": 6,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1787405705,
+      "updated": 1787429572,
+      "author": {
+        "reference": "e926472c-b135-4637-98ef-6bbbe9919e7e",
+        "username": "yaonoku",
+        "avatar": "https://cdn.hikka.io/uploads/yaonoku/avatar/b5bcff69-6c14-449f-924b-88f7556888e4.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "character",
+          "order": 1,
+          "label": "Жінки",
+          "comment": "Магія лікування Косаме змушує її завдавати собі шкоди",
+          "content": {
+            "name": "Амаґай Косаме",
+            "image": "https://cdn.hikka.io/content/characters/kosame-amagai-a24a83/9_VUwN5yFeX5RE5joz-Z3Q.jpg",
+            "slug": "kosame-amagai-a24a83"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 2,
+          "label": "Жінки",
+          "comment": "Ріка різала внутрішню сторону руки через стрес і складні стосунки з мамою(?). На момент зустрічі з головною героїнею здається, що вона кинула це, але залежність нікуди не ділась, і її думки час від часу повертаються до самоушкодження",
+          "content": {
+            "name": "Кавай Ріка",
+            "image": "https://cdn.hikka.io/content/characters/rika-kawai-b47af8/fnneLDpOFHY1ltHSzSkfFQ.jpg",
+            "slug": "rika-kawai-b47af8"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 3,
+          "label": "Жінки",
+          "comment": "Через складнощі стримірської кар'єри і страждання від ментальних розладів завдає собі порізів, щоб впоратися зі стресом",
+          "content": {
+            "name": "Супермила янголка-чян",
+            "image": "https://cdn.hikka.io/content/characters/omgkawaiiangel-2bdae2/U5LznuLVnINEsm8lkwT5TA.jpg",
+            "slug": "omgkawaiiangel-2bdae2"
+          }
+        }
+      ]
+    },
     {
       "reference": "512d3a72-4ead-4d28-a7c6-5ea7116d78eb",
       "title": "Справжній гарем",
