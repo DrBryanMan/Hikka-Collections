@@ -1,7 +1,64 @@
 {
-  "parsed_at": "2026-08-22T22:28:19.051941+00:00",
-  "total": 210,
+  "parsed_at": "2026-08-28T06:02:32.383880+00:00",
+  "total": 211,
   "collections": [
+    {
+      "reference": "68001393-f4af-424c-b4c3-70a43b65f3b0",
+      "title": "Один сейю, кілька мов",
+      "content_type": "character",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "EN"
+      ],
+      "entries": 4,
+      "vote_score": 1,
+      "comments_count": 0,
+      "created": 1787849285,
+      "updated": 1787851948,
+      "author": {
+        "reference": "2083e580-5265-491e-aeb3-aecd6ab3a33c",
+        "username": "Nagicchi",
+        "avatar": "https://cdn.hikka.io/uploads/Nagicchi/avatar/560ab7ec-9198-48ec-8d63-f5976cdc1c6e.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "character",
+          "order": 1,
+          "label": "EN",
+          "comment": null,
+          "content": {
+            "name": "Керол Олстон",
+            "image": "https://cdn.hikka.io/content/characters/carol-olston-37cd1d/ehVMsq_4noi5lTH_w-D7SQ.jpg",
+            "slug": "carol-olston-37cd1d"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 2,
+          "label": "EN",
+          "comment": null,
+          "content": {
+            "name": "Акаші Махо",
+            "image": "https://cdn.hikka.io/content/characters/maho-akashi-6147a9/-LIFdHCqosdTxZSkaq3cCQ.jpg",
+            "slug": "maho-akashi-6147a9"
+          }
+        },
+        {
+          "content_type": "character",
+          "order": 3,
+          "label": "EN",
+          "comment": null,
+          "content": {
+            "name": "Minmay Lynn",
+            "image": "https://cdn.hikka.io/content/characters/minmay-lynn-167e8e/jUeZDLqQYTGMs3GAGiJV2Q.jpg",
+            "slug": "minmay-lynn-167e8e"
+          }
+        }
+      ]
+    },
     {
       "reference": "5b439125-e45a-4263-85b4-6b29f81226b2",
       "title": "Персонажі, що страждають від селфхарму",
