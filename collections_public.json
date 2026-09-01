@@ -1,7 +1,172 @@
 {
-  "parsed_at": "2026-08-28T06:02:32.383880+00:00",
-  "total": 211,
+  "parsed_at": "2026-09-01T01:10:14.325254+00:00",
+  "total": 214,
   "collections": [
+    {
+      "reference": "061be3e1-6457-4be7-a0d8-6de6cf6555e9",
+      "title": "Доброта і людяність",
+      "content_type": "anime",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 52,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1788222627,
+      "updated": 1788222627,
+      "author": {
+        "reference": "127528b9-ec74-4d87-b104-515410468c01",
+        "username": "Yamagawa",
+        "avatar": "https://cdn.hikka.io/uploads/Yamagawa/avatar/1bee3e56-c0b2-4a8e-b4b4-dfea8bbaf70b.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Принцеса Мононоке",
+            "image": "https://cdn.hikka.io/content/anime/mononoke-hime-def1fc/PgAWoyFHZWz_-db4J25s-A.jpg",
+            "slug": "mononoke-hime-def1fc"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Щоденник різних країн",
+            "image": "https://cdn.hikka.io/content/anime/ikoku-nikki-930cc2/6UyKvjwigIgSVaku73jrFg.jpg",
+            "slug": "ikoku-nikki-930cc2"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Вовченята Аме та Юкі",
+            "image": "https://cdn.hikka.io/content/anime/ookami-kodomo-no-ame-to-yuki-5067ed/A6Y74wMggxFEg8qJBolOcA.jpg",
+            "slug": "ookami-kodomo-no-ame-to-yuki-5067ed"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "f6b1f644-301d-4e78-8735-1ba78bfebcaf",
+      "title": "Мистецтво очима митців",
+      "content_type": "anime",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 10,
+      "vote_score": 1,
+      "comments_count": 0,
+      "created": 1788215121,
+      "updated": 1788216535,
+      "author": {
+        "reference": "127528b9-ec74-4d87-b104-515410468c01",
+        "username": "Yamagawa",
+        "avatar": "https://cdn.hikka.io/uploads/Yamagawa/avatar/1bee3e56-c0b2-4a8e-b4b4-dfea8bbaf70b.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Сарусубері: Дочка Хокусая",
+            "image": "https://cdn.hikka.io/content/anime/sarusuberi-miss-hokusai-d52f57/LCds_8oZL3mciB4Gc8a-9A.jpg",
+            "slug": "sarusuberi-miss-hokusai-d52f57"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Світ у танці",
+            "image": "https://cdn.hikka.io/content/anime/world-is-dancing-180be8/f3wO1atAfLssJMJjvBwYWA.jpg",
+            "slug": "world-is-dancing-180be8"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Іну-О",
+            "image": "https://cdn.hikka.io/content/anime/inu-ou-eb02f4/HAHNSCz921iZgMuL-iFM3A.jpg",
+            "slug": "inu-ou-eb02f4"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "bb4994a9-63d1-431e-a0fa-22b8bd311d86",
+      "title": "Погляд дзен",
+      "content_type": "anime",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [],
+      "entries": 3,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1788214002,
+      "updated": 1788218177,
+      "author": {
+        "reference": "127528b9-ec74-4d87-b104-515410468c01",
+        "username": "Yamagawa",
+        "avatar": "https://cdn.hikka.io/uploads/Yamagawa/avatar/1bee3e56-c0b2-4a8e-b4b4-dfea8bbaf70b.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Цуруне: Клуб кюдо Старшої школи Кадземай",
+            "image": "https://cdn.hikka.io/content/anime/tsurune-kazemai-koukou-kyuudou-bu-3e7db1/Atu0EUm2U4tfZeSF-5CKBw.jpg",
+            "slug": "tsurune-kazemai-koukou-kyuudou-bu-3e7db1"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Цуруне: Клуб кюдо Старшої школи Кадземай - Небезпечний постріл",
+            "image": "https://cdn.hikka.io/content/anime/tsurune-kazemai-koukou-kyuudou-bu-yabai-4ba112/c8hSt48wARImy2_rr_j_wA.jpg",
+            "slug": "tsurune-kazemai-koukou-kyuudou-bu-yabai-4ba112"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": null,
+          "comment": null,
+          "content": {
+            "title": "Цуруне: Єднальний постріл",
+            "image": "https://cdn.hikka.io/content/anime/tsurune-tsunagari-no-issha-8ae5b6/KMwZgiq4h1-LA8IQpe_NOQ.jpg",
+            "slug": "tsurune-tsunagari-no-issha-8ae5b6"
+          }
+        }
+      ]
+    },
     {
       "reference": "68001393-f4af-424c-b4c3-70a43b65f3b0",
       "title": "Один сейю, кілька мов",
