@@ -1,7 +1,66 @@
 {
-  "parsed_at": "2026-09-01T23:55:32.042333+00:00",
-  "total": 215,
+  "parsed_at": "2026-09-03T23:53:15.025806+00:00",
+  "total": 216,
   "collections": [
+    {
+      "reference": "2b8e7807-f278-4fa4-974f-35379275cf87",
+      "title": "Колекція",
+      "content_type": "anime",
+      "visibility": "public",
+      "spoiler": true,
+      "nsfw": false,
+      "tags": [
+        "тегування"
+      ],
+      "labels_order": [
+        "Група 1"
+      ],
+      "entries": 3,
+      "vote_score": 1,
+      "comments_count": 5,
+      "created": 1788457752,
+      "updated": 1788457808,
+      "author": {
+        "reference": "d07228c0-0cb8-472c-8500-54f19e211f39",
+        "username": "olgerddragon",
+        "avatar": "https://cdn.hikka.io/avatar.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Група 1",
+          "comment": null,
+          "content": {
+            "title": "Оповіді про богів-пастухів",
+            "image": "https://cdn.hikka.io/content/anime/mushen-ji-8f4ba5/KWSCA145aj5ttZRG5FUFZQ.jpg",
+            "slug": "mushen-ji-8f4ba5"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Група 1",
+          "comment": "що тут за комент)",
+          "content": {
+            "title": "Оповіді Акане",
+            "image": "https://cdn.hikka.io/content/anime/akane-banashi-0c9cf6/_eJD0vXZCjrXVIpWniZIGg.jpg",
+            "slug": "akane-banashi-0c9cf6"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Група 1",
+          "comment": null,
+          "content": {
+            "title": "Ґінтама: Оповідь про Бенідзакуру Спешл",
+            "image": "https://cdn.hikka.io/content/anime/gintama-shinyaku-benizakura-hen-5637f3/PoPfY0JiXc18JJN_OLDe2w.jpg",
+            "slug": "gintama-shinyaku-benizakura-hen-5637f3"
+          }
+        }
+      ]
+    },
     {
       "reference": "a1cb65eb-4d69-43e8-a76c-dff594a0ff50",
       "title": "Крінжові/незграбні персонажі",
