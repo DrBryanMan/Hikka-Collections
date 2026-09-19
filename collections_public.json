@@ -1,7 +1,65 @@
 {
-  "parsed_at": "2026-09-17T00:15:37.060338+00:00",
-  "total": 218,
+  "parsed_at": "2026-09-19T00:04:38.982617+00:00",
+  "total": 219,
   "collections": [
+    {
+      "reference": "be5180e4-7e35-4cbf-8273-463d4a8dfe89",
+      "title": "Лиходійки та Святі діви",
+      "content_type": "anime",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Лиходійки",
+        "Святі діви"
+      ],
+      "entries": 31,
+      "vote_score": 4,
+      "comments_count": 0,
+      "created": 1789747769,
+      "updated": 1789751863,
+      "author": {
+        "reference": "8e9cfbfb-0c4f-4f65-9e1e-894c59f00939",
+        "username": "Iris_flowers",
+        "avatar": "https://cdn.hikka.io/uploads/Iris_flowers/UploadTypeEnum.avatar/5e4b5925-807a-4fed-a8c9-fb707d916fff.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Лиходійки",
+          "comment": null,
+          "content": {
+            "title": "Сьома петля часу: Лиходійка насолоджується безтурботним життям у шлюбі зі своїм найлютішим ворогом!",
+            "image": "https://cdn.hikka.io/content/anime/loop-7-kaime-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimama-na-hanayome-seikatsu-wo-mankitsu-suru-1d9cdc/2slJcOXogVqcjP_G-OEmUQ.jpg",
+            "slug": "loop-7-kaime-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimama-na-hanayome-seikatsu-wo-mankitsu-suru-1d9cdc"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Лиходійки",
+          "comment": null,
+          "content": {
+            "title": "Щоденник спостережень за моєю нареченою, що проголосила себе лиходійкою",
+            "image": "https://cdn.hikka.io/content/anime/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku-47b260/-9ePUos9lmGDga7b1Qh58g.jpg",
+            "slug": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku-47b260"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Лиходійки",
+          "comment": null,
+          "content": {
+            "title": "Хоч я й невміла лиходійка: Казка про підміну Метелика і Щура у Дівочому дворі",
+            "image": "https://cdn.hikka.io/content/anime/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den-7e6a21/_SLlJZBzJfrhfnVM3aXGRg.jpg",
+            "slug": "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den-7e6a21"
+          }
+        }
+      ]
+    },
     {
       "reference": "df602ac9-89d9-4d27-9926-a4bdc66cfa5f",
       "title": "Double Life: персонажі з подвійним життям",
