@@ -1,7 +1,66 @@
 {
-  "parsed_at": "2026-09-19T00:04:38.982617+00:00",
-  "total": 219,
+  "parsed_at": "2026-09-22T00:40:38.173605+00:00",
+  "total": 220,
   "collections": [
+    {
+      "reference": "7c7563a6-56a5-49e7-b8eb-dfbd97b9c58a",
+      "title": "Переглянуто",
+      "content_type": "anime",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "anime"
+      ],
+      "labels_order": [
+        "Нова група"
+      ],
+      "entries": 24,
+      "vote_score": -1,
+      "comments_count": 0,
+      "created": 1790029172,
+      "updated": 1790029695,
+      "author": {
+        "reference": "ea995771-b11b-442f-ad55-676c913f37c0",
+        "username": "anniko",
+        "avatar": "https://cdn.hikka.io/uploads/anniko/avatar/78a9790c-496d-4b44-b1a8-58c27a188795.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Нова група",
+          "comment": null,
+          "content": {
+            "title": "Перекур за супермаркетом з тобою",
+            "image": "https://cdn.hikka.io/content/anime/super-no-ura-de-yani-suu-futari-108b9e/5gK4j0lm6sbp4g-spWYfVA.jpg",
+            "slug": "super-no-ura-de-yani-suu-futari-108b9e"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Нова група",
+          "comment": null,
+          "content": {
+            "title": "Монолог травниці - 2 сезон",
+            "image": "https://cdn.hikka.io/content/anime/kusuriya-no-hitorigoto-2nd-season-d43023/TMe9cn9nCoV1x69sl5hbpw.jpg",
+            "slug": "kusuriya-no-hitorigoto-2nd-season-d43023"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Нова група",
+          "comment": null,
+          "content": {
+            "title": "Монолог травниці",
+            "image": "https://cdn.hikka.io/content/anime/kusuriya-no-hitorigoto-f35f5f/upDUfV-2T6-BlMZnFGDJ0w.jpg",
+            "slug": "kusuriya-no-hitorigoto-f35f5f"
+          }
+        }
+      ]
+    },
     {
       "reference": "be5180e4-7e35-4cbf-8273-463d4a8dfe89",
       "title": "Лиходійки та Святі діви",
