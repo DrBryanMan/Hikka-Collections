@@ -1,7 +1,68 @@
 {
-  "parsed_at": "2026-09-22T00:40:38.173605+00:00",
-  "total": 220,
+  "parsed_at": "2026-10-11T14:00:18.129181+00:00",
+  "total": 221,
   "collections": [
+    {
+      "reference": "8fb6c14b-cc94-4679-8884-2260b83ed0bf",
+      "title": "На перший погляд мило, але...",
+      "content_type": "anime",
+      "visibility": "public",
+      "spoiler": true,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Дівчинка-чаріниця",
+        "Травма",
+        " Надприродне",
+        "Антиутопія",
+        "Фентезі"
+      ],
+      "entries": 21,
+      "vote_score": 0,
+      "comments_count": 0,
+      "created": 1791724218,
+      "updated": 1791724218,
+      "author": {
+        "reference": "7a194392-f9eb-4827-9bd4-24734b32eb94",
+        "username": "sexb0mb",
+        "avatar": "https://cdn.hikka.io/uploads/sexb0mb/avatar/13a7c535-a1f7-40fa-89a0-ef6049b470cf.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Дівчинка-чаріниця",
+          "comment": null,
+          "content": {
+            "title": "Проєкт виховання дівчат-чарівниць",
+            "image": "https://cdn.hikka.io/content/anime/mahou-shoujo-ikusei-keikaku-8c6344/p2HeKzDXWOBVfNW2Oe8_LA.jpg",
+            "slug": "mahou-shoujo-ikusei-keikaku-8c6344"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Дівчинка-чаріниця",
+          "comment": null,
+          "content": {
+            "title": "Чарівниця Мадока★Маґіка",
+            "image": "https://cdn.hikka.io/content/anime/mahou-shoujo-madokamagica-83ac27/ID1MztWICXY9yB-_GZdR8w.jpg",
+            "slug": "mahou-shoujo-madokamagica-83ac27"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Дівчинка-чаріниця",
+          "comment": null,
+          "content": {
+            "title": "Сайт чарівниць",
+            "image": "https://cdn.hikka.io/content/anime/mahou-shoujo-site-513ea9/rJqLwhFExkTD36rwck_CDg.jpg",
+            "slug": "mahou-shoujo-site-513ea9"
+          }
+        }
+      ]
+    },
     {
       "reference": "7c7563a6-56a5-49e7-b8eb-dfbd97b9c58a",
       "title": "Переглянуто",
