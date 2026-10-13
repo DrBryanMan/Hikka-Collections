@@ -1,7 +1,71 @@
 {
-  "parsed_at": "2026-10-11T14:00:18.129181+00:00",
-  "total": 221,
+  "parsed_at": "2026-10-13T02:56:18.697065+00:00",
+  "total": 222,
   "collections": [
+    {
+      "reference": "ffe81a0a-0860-4f2e-92cd-317a351ce3db",
+      "title": "True Detective",
+      "content_type": "anime",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "детективи"
+      ],
+      "labels_order": [
+        "Цікавий факт – я детектив",
+        "Десь-якось-щось розслідував",
+        "Моє мислення допомогло кілька разів",
+        "Працюю детективом і непогано виходить",
+        "Якби не моя участь, хтось би загинув",
+        "Я теж свого роду Пуаро"
+      ],
+      "entries": 11,
+      "vote_score": 2,
+      "comments_count": 0,
+      "created": 1791822551,
+      "updated": 1791822699,
+      "author": {
+        "reference": "5f29ede5-b896-49bc-87c7-b88a193d3e44",
+        "username": "m__ka",
+        "avatar": "https://cdn.hikka.io/uploads/m__ka/avatar/3e651d54-1636-4b70-b377-24eb71e46f2f.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Цікавий факт – я детектив",
+          "comment": null,
+          "content": {
+            "title": "Детективка вже мертва",
+            "image": "https://cdn.hikka.io/content/anime/tantei-wa-mou-shindeiru-12544d/0snggaba33LLhw9JfxEMWw.jpg",
+            "slug": "tantei-wa-mou-shindeiru-12544d"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Десь-якось-щось розслідував",
+          "comment": null,
+          "content": {
+            "title": "Тонкоцу рамен з Хакати",
+            "image": "https://cdn.hikka.io/content/anime/hakata-tonkotsu-ramens-ea7e00/N8QvSFjU0YPKOJs5TZqzBA.jpg",
+            "slug": "hakata-tonkotsu-ramens-ea7e00"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "Моє мислення допомогло кілька разів",
+          "comment": null,
+          "content": {
+            "title": "Контратака поліціянтки",
+            "image": "https://cdn.hikka.io/content/anime/hakozume-kouban-joshi-no-gyakushuu-4eb75e/ry8EQ-MYAHd-UB0yP4TbKQ.jpg",
+            "slug": "hakozume-kouban-joshi-no-gyakushuu-4eb75e"
+          }
+        }
+      ]
+    },
     {
       "reference": "8fb6c14b-cc94-4679-8884-2260b83ed0bf",
       "title": "На перший погляд мило, але...",
