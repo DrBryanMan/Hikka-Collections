@@ -1,7 +1,128 @@
 {
-  "parsed_at": "2026-10-13T02:56:18.697065+00:00",
-  "total": 222,
+  "parsed_at": "2026-10-26T00:01:06.341792+00:00",
+  "total": 224,
   "collections": [
+    {
+      "reference": "9856e16d-eacb-4e37-91e5-fa2f4a3c02e2",
+      "title": "Один всесвіт, різні тайтли",
+      "content_type": "manga",
+      "visibility": "public",
+      "spoiler": true,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "1",
+        "Камео",
+        "2",
+        "3"
+      ],
+      "entries": 8,
+      "vote_score": 2,
+      "comments_count": 0,
+      "created": 1792950748,
+      "updated": 1792954188,
+      "author": {
+        "reference": "78531373-d2fe-42dd-9268-66ada22b9701",
+        "username": "copok",
+        "avatar": "https://cdn.hikka.io/uploads/copok/avatar/ea62ff64-d306-4410-83ed-cf115833f0ca.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": "1",
+          "comment": null,
+          "content": {
+            "title": "Адзуманґа Дайо",
+            "image": "https://cdn.hikka.io/content/manga/azumanga-daioh-31f795/mRZiUA1Oe4FjQVBxSMh1fg.jpg",
+            "slug": "azumanga-daioh-31f795"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": "1",
+          "comment": null,
+          "content": {
+            "title": "Йоцуба та!",
+            "image": "https://cdn.hikka.io/content/manga/yotsuba-to-528932/ZCk6OadZjeAGUzh2qYzrFg.jpg",
+            "slug": "yotsuba-to-528932"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": "Камео",
+          "comment": null,
+          "content": {
+            "title": "Каґуя хоче, щоб їй зізналися: Війна любові та розуму геніїв",
+            "image": "https://cdn.hikka.io/content/manga/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-c69533/vKFfNf-X0SeTUBJYlFF4EA.jpg",
+            "slug": "kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-c69533"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "5a1e9a4e-11bf-42f5-9ddf-5eb27c227840",
+      "title": "Один всесвіт, різні тайтли",
+      "content_type": "anime",
+      "visibility": "public",
+      "spoiler": true,
+      "nsfw": false,
+      "tags": [],
+      "labels_order": [
+        "Камео",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "entries": 10,
+      "vote_score": 2,
+      "comments_count": 2,
+      "created": 1792950578,
+      "updated": 1792953990,
+      "author": {
+        "reference": "78531373-d2fe-42dd-9268-66ada22b9701",
+        "username": "copok",
+        "avatar": "https://cdn.hikka.io/uploads/copok/avatar/ea62ff64-d306-4410-83ed-cf115833f0ca.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "Камео",
+          "comment": null,
+          "content": {
+            "title": "Каґуя хоче, щоб їй зізналися: Війна любові та розуму геніїв",
+            "image": "https://cdn.hikka.io/content/anime/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-a3ac07/Ju06eCAihUeAZHJsdz6k0A.jpg",
+            "slug": "kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-a3ac07"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "Камео",
+          "comment": null,
+          "content": {
+            "title": "Діти улюблениці ",
+            "image": "https://cdn.hikka.io/content/anime/oshi-no-ko-421060/-5UVBoFTYN0w9jmImLJwVQ.jpg",
+            "slug": "oshi-no-ko-421060"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "2",
+          "comment": null,
+          "content": {
+            "title": "Метушня!",
+            "image": "https://cdn.hikka.io/content/anime/baccano-a00da8/Tti7Pa4wu9mnihhn6mQtZA.jpg",
+            "slug": "baccano-a00da8"
+          }
+        }
+      ]
+    },
     {
       "reference": "ffe81a0a-0860-4f2e-92cd-317a351ce3db",
       "title": "True Detective",
