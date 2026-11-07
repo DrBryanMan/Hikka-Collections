@@ -1,7 +1,134 @@
 {
-  "parsed_at": "2026-10-26T00:01:06.341792+00:00",
-  "total": 224,
+  "parsed_at": "2026-11-07T01:44:31.766517+00:00",
+  "total": 226,
   "collections": [
+    {
+      "reference": "63482c4d-4402-412b-ad9d-dcde580a2620",
+      "title": "Манґа, яку рекомендує Хідео Коджіма",
+      "content_type": "manga",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "коджіма",
+        "рекомендації",
+        "kojima"
+      ],
+      "labels_order": [
+        "Улюблене та те, що сформувало",
+        "Рекомендує",
+        "Прочитав і хвалив"
+      ],
+      "entries": 19,
+      "vote_score": 7,
+      "comments_count": 0,
+      "created": 1793976388,
+      "updated": 1793978543,
+      "author": {
+        "reference": "461e2b32-ae87-4ca2-a5f7-1fafedbda58f",
+        "username": "rossetnocpes",
+        "avatar": "https://cdn.hikka.io/uploads/rossetnocpes/avatar/7bdd3ee9-ab5f-4101-a794-1fcc7fce8112.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "manga",
+          "order": 1,
+          "label": "Улюблене та те, що сформувало",
+          "comment": "«Манґа, яка визначила мою юність»",
+          "content": {
+            "title": "Завтрашній Джо",
+            "image": "https://cdn.hikka.io/content/manga/ashita-no-joe-f83bd1/AHjnTyvHPyq6gsDU0eMiIw.jpg",
+            "slug": "ashita-no-joe-f83bd1"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 2,
+          "label": "Улюблене та те, що сформувало",
+          "comment": "«Мій улюблений шедевр манґи» Сакаґучі Хісаші (купив перевидання, січень 2024)",
+          "content": {
+            "title": "Akkanbee Ikkyu",
+            "image": "https://cdn.hikka.io/content/manga/akkanbee-ikkyu-51dfea/FKfhte1RTQAU0193-gOzMg.jpg",
+            "slug": "akkanbee-ikkyu-51dfea"
+          }
+        },
+        {
+          "content_type": "manga",
+          "order": 3,
+          "label": "Улюблене та те, що сформувало",
+          "comment": "Із книги «The Creative Gene»: наукова фантастика, після якої він «почувався сміливим і сильним»",
+          "content": {
+            "title": "2001 Ніч",
+            "image": "https://cdn.hikka.io/content/manga/2001-ya-monogatari-140cbb/sfhMxwFi-D7IkL8dsqmoug.jpg",
+            "slug": "2001-ya-monogatari-140cbb"
+          }
+        }
+      ]
+    },
+    {
+      "reference": "76da958b-9a2e-45e1-aab1-6423afda919a",
+      "title": "Аніме, які рекомендує Хідео Коджіма",
+      "content_type": "anime",
+      "visibility": "public",
+      "spoiler": false,
+      "nsfw": false,
+      "tags": [
+        "коджіма",
+        "рекомендації",
+        "kojima"
+      ],
+      "labels_order": [
+        "TV Серіали",
+        "Фільми",
+        "Класика: OVA та ретро",
+        "Чекає з нетерпінням"
+      ],
+      "entries": 37,
+      "vote_score": 5,
+      "comments_count": 0,
+      "created": 1793976387,
+      "updated": 1793977918,
+      "author": {
+        "reference": "461e2b32-ae87-4ca2-a5f7-1fafedbda58f",
+        "username": "rossetnocpes",
+        "avatar": "https://cdn.hikka.io/uploads/rossetnocpes/avatar/7bdd3ee9-ab5f-4101-a794-1fcc7fce8112.jpg"
+      },
+      "collection": [
+        {
+          "content_type": "anime",
+          "order": 1,
+          "label": "TV Серіали",
+          "comment": "Переглядав повторно на Netflix",
+          "content": {
+            "title": "Нова ера – Євангеліон",
+            "image": "https://cdn.hikka.io/content/anime/neon-genesis-evangelion-a5221a/c8Ju1BwNEzWRmW4iX_mpMw.jpg",
+            "slug": "neon-genesis-evangelion-a5221a"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 2,
+          "label": "TV Серіали",
+          "comment": "Подивився 11–13 епізоди й назвав серіал рідкісним шедевром анімації",
+          "content": {
+            "title": "Вайолет Еверґарден",
+            "image": "https://cdn.hikka.io/content/anime/violet-evergarden-b02ea1/DYtDvvK44TUfFrXe-W0Xtg.jpg",
+            "slug": "violet-evergarden-b02ea1"
+          }
+        },
+        {
+          "content_type": "anime",
+          "order": 3,
+          "label": "TV Серіали",
+          "comment": "Почав дивитися за порадою співробітників (2020), а потім купив усю манґу",
+          "content": {
+            "title": "Зроблено в Безодні",
+            "image": "https://cdn.hikka.io/content/anime/made-in-abyss-f22039/vmFtTf_Y6gTnUo-jJ36D3g.jpg",
+            "slug": "made-in-abyss-f22039"
+          }
+        }
+      ]
+    },
     {
       "reference": "9856e16d-eacb-4e37-91e5-fa2f4a3c02e2",
       "title": "Один всесвіт, різні тайтли",
